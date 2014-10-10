@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="Ankle Report.txt">
+    <annotation>
+        <mention id="EHOST_Instance_251" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="32" end="37" />
+        <spannedText>ANKLE</spannedText>
+        <creationDate>Wed Oct 01 15:40:41 PDT 2014</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_251">
+        <mentionClass id="Anatomy">ANKLE</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_252" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="166" end="171" />
+        <spannedText>ankle</spannedText>
+        <creationDate>Wed Oct 01 15:40:45 PDT 2014</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_252">
+        <mentionClass id="Anatomy">ankle</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_253" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="198" end="202" />
+        <spannedText>foot</spannedText>
+        <creationDate>Wed Oct 01 15:40:46 PDT 2014</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_253">
+        <mentionClass id="Anatomy">foot</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_254" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="235" end="245" />
+        <spannedText>tibiotalar</spannedText>
+        <creationDate>Wed Oct 01 15:40:50 PDT 2014</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_254">
+        <mentionClass id="Anatomy">tibiotalar</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_255" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="369" end="375" />
+        <spannedText>hallux</spannedText>
+        <creationDate>Wed Oct 01 15:40:54 PDT 2014</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_255">
+        <mentionClass id="Anatomy">hallux</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_256" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="425" end="428" />
+        <spannedText>pes</spannedText>
+        <creationDate>Wed Oct 01 15:40:57 PDT 2014</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_256">
+        <mentionClass id="Anatomy">pes</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_257" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="462" end="472" />
+        <spannedText>tibiotalar</spannedText>
+        <creationDate>Wed Oct 01 15:41:00 PDT 2014</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_257">
+        <mentionClass id="Anatomy">tibiotalar</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_258" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="246" end="257" />
+        <spannedText>arthoplasty</spannedText>
+        <creationDate>Wed Oct 01 15:41:11 PDT 2014</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_258">
+        <mentionClass id="Observation">arthoplasty</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_259" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="272" end="292" />
+        <spannedText>soft tissue swelling</spannedText>
+        <creationDate>Wed Oct 01 15:41:15 PDT 2014</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_259">
+        <mentionClass id="Observation">soft tissue swelling</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_260" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="312" end="321" />
+        <spannedText>loosening</spannedText>
+        <creationDate>Wed Oct 01 15:41:17 PDT 2014</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_260">
+        <mentionClass id="Observation">loosening</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_261" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="323" end="332" />
+        <spannedText>infection</spannedText>
+        <creationDate>Wed Oct 01 15:41:18 PDT 2014</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_261">
+        <mentionClass id="Observation">infection</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_262" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="337" end="359" />
+        <spannedText>hardware complications</spannedText>
+        <creationDate>Wed Oct 01 15:41:20 PDT 2014</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_262">
+        <mentionClass id="Observation">hardware complications</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_263" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="398" end="418" />
+        <spannedText>soft tissue swelling</spannedText>
+        <creationDate>Wed Oct 01 15:41:26 PDT 2014</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_263">
+        <mentionClass id="Observation">soft tissue swelling</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_264" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="376" end="382" />
+        <spannedText>valgus</spannedText>
+        <creationDate>Wed Oct 01 15:41:28 PDT 2014</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_264">
+        <mentionClass id="Observation">valgus</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_265" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="429" end="435" />
+        <spannedText>planus</spannedText>
+        <creationDate>Wed Oct 01 15:41:30 PDT 2014</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_265">
+        <mentionClass id="Observation">planus</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_266" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="473" end="485" />
+        <spannedText>arthroplasty</spannedText>
+        <creationDate>Wed Oct 01 15:41:32 PDT 2014</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_266">
+        <mentionClass id="Observation">arthroplasty</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_267" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="502" end="524" />
+        <spannedText>hardware complications</spannedText>
+        <creationDate>Wed Oct 01 15:41:36 PDT 2014</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_267">
+        <mentionClass id="Observation">hardware complications</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_268" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="218" end="228" />
+        <spannedText>Uncemented</spannedText>
+        <creationDate>Wed Oct 01 15:41:42 PDT 2014</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_268">
+        <mentionClass id="Modifier">Uncemented</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_269" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="229" end="234" />
+        <spannedText>right</spannedText>
+        <creationDate>Wed Oct 01 15:41:43 PDT 2014</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_269">
+        <mentionClass id="Modifier">right</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_270" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="263" end="271" />
+        <spannedText>anterior</spannedText>
+        <creationDate>Wed Oct 01 15:41:44 PDT 2014</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_270">
+        <mentionClass id="Modifier">anterior</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_271" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="361" end="368" />
+        <spannedText>Minimal</spannedText>
+        <creationDate>Wed Oct 01 15:41:47 PDT 2014</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_271">
+        <mentionClass id="Modifier">Minimal</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_272" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="420" end="424" />
+        <spannedText>Mild</spannedText>
+        <creationDate>Wed Oct 01 15:41:50 PDT 2014</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_272">
+        <mentionClass id="Modifier">Mild</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_273" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="456" end="461" />
+        <spannedText>Right</spannedText>
+        <creationDate>Wed Oct 01 15:41:52 PDT 2014</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_273">
+        <mentionClass id="Modifier">Right</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_274" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="494" end="501" />
+        <spannedText>obvious</spannedText>
+        <creationDate>Wed Oct 01 15:42:12 PDT 2014</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_274">
+        <mentionClass id="Uncertainty">obvious</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

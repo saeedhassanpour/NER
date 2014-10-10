@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="CT Head.txt">
+    <annotation>
+        <mention id="EHOST_Instance_368" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="173" end="177" />
+        <spannedText>head</spannedText>
+        <creationDate>Wed Oct 01 15:42:47 PDT 2014</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_368">
+        <mentionClass id="Anatomy">head</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_369" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="407" end="417" />
+        <spannedText>Parenchyma</spannedText>
+        <creationDate>Wed Oct 01 15:42:52 PDT 2014</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_369">
+        <mentionClass id="Anatomy">Parenchyma</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_370" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="463" end="473" />
+        <spannedText>Ventricles</spannedText>
+        <creationDate>Wed Oct 01 15:42:54 PDT 2014</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_370">
+        <mentionClass id="Anatomy">Ventricles</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_371" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="478" end="496" />
+        <spannedText>extra-axial spaces</spannedText>
+        <creationDate>Wed Oct 01 15:42:57 PDT 2014</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_371">
+        <mentionClass id="Anatomy">extra-axial spaces</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_372" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="532" end="549" />
+        <spannedText>paranasal sinuses</spannedText>
+        <creationDate>Wed Oct 01 15:43:00 PDT 2014</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_372">
+        <mentionClass id="Anatomy">paranasal sinuses</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_373" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="610" end="624" />
+        <spannedText>sphenoid sinus</spannedText>
+        <creationDate>Wed Oct 01 15:43:12 PDT 2014</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_373">
+        <mentionClass id="Anatomy">sphenoid sinus</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_374" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="656" end="673" />
+        <spannedText>Mastoid air cells</spannedText>
+        <creationDate>Wed Oct 01 15:43:16 PDT 2014</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_374">
+        <mentionClass id="Anatomy">Mastoid air cells</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_375" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="684" end="689" />
+        <spannedText>Bones</spannedText>
+        <creationDate>Wed Oct 01 15:43:17 PDT 2014</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_375">
+        <mentionClass id="Anatomy">Bones</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_376" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="769" end="781" />
+        <spannedText>intracranial</spannedText>
+        <creationDate>Wed Oct 01 15:43:23 PDT 2014</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_376">
+        <mentionClass id="Anatomy">intracranial</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_377" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="428" end="438" />
+        <spannedText>hemorrhage</spannedText>
+        <creationDate>Wed Oct 01 15:43:31 PDT 2014</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_377">
+        <mentionClass id="Observation">hemorrhage</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_378" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="440" end="450" />
+        <spannedText>infarction</spannedText>
+        <creationDate>Wed Oct 01 15:43:32 PDT 2014</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_378">
+        <mentionClass id="Observation">infarction</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_379" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="455" end="459" />
+        <spannedText>mass</spannedText>
+        <creationDate>Wed Oct 01 15:43:33 PDT 2014</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_379">
+        <mentionClass id="Observation">mass</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_380" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="551" end="569" />
+        <spannedText>Mucosal thickening</spannedText>
+        <creationDate>Wed Oct 01 15:43:39 PDT 2014</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_380">
+        <mentionClass id="Observation">Mucosal thickening</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_381" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="576" end="587" />
+        <spannedText>fluid level</spannedText>
+        <creationDate>Wed Oct 01 15:43:41 PDT 2014</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_381">
+        <mentionClass id="Observation">fluid level</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_382" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="633" end="652" />
+        <spannedText>aggressive features</spannedText>
+        <creationDate>Wed Oct 01 15:43:46 PDT 2014</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_382">
+        <mentionClass id="Observation">aggressive features</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_383" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="675" end="680" />
+        <spannedText>Clear</spannedText>
+        <creationDate>Wed Oct 01 15:43:49 PDT 2014</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_383">
+        <mentionClass id="Observation">Clear</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_384" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="691" end="711" />
+        <spannedText>No focal abnormality</spannedText>
+        <creationDate>Wed Oct 01 15:43:52 PDT 2014</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_384">
+        <mentionClass id="Observation">No focal abnormality</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_385" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="422" end="427" />
+        <spannedText>acute</spannedText>
+        <creationDate>Wed Oct 01 15:43:57 PDT 2014</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_385">
+        <mentionClass id="Modifier">acute</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_386" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="498" end="517" />
+        <spannedText>Appropriate for age</spannedText>
+        <creationDate>Wed Oct 01 15:44:06 PDT 2014</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_386">
+        <mentionClass id="Observation">Appropriate for age</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_387" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="521" end="531" />
+        <spannedText>Visualized</spannedText>
+        <creationDate>Wed Oct 01 15:44:11 PDT 2014</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_387">
+        <mentionClass id="Modifier">Visualized</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_388" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="763" end="768" />
+        <spannedText>acute</spannedText>
+        <creationDate>Wed Oct 01 15:44:15 PDT 2014</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_388">
+        <mentionClass id="Modifier">acute</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_389" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="782" end="793" />
+        <spannedText>abnormality</spannedText>
+        <creationDate>Wed Oct 01 15:44:22 PDT 2014</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_389">
+        <mentionClass id="Observation">abnormality</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

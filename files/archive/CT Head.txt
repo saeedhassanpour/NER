@@ -1,0 +1,27 @@
+CT HEAD WITHOUT CONTRAST: 9/15/2014 1:43 AM
+ 
+CLINICAL HISTORY: 50 years of age, Female, Acute change in mental status..
+ 
+COMPARISON: None.
+ 
+PROCEDURE COMMENTS: CT of the head was performed without IV contrast.
+ 
+Dose information: Based on a 16 cm phantom, the estimated radiation dose (CTDIvol [mGy]) for each series in this exam is 59. The estimated cumulative dose (DLP [mGy-cm]) is 967.
+ 
+FINDINGS:
+ 
+Parenchyma: No acute hemorrhage, infarction, or mass.
+ 
+Ventricles and extra-axial spaces: Appropriate for age.
+ 
+Visualized paranasal sinuses: Mucosal thickening and a fluid level is present within the sphenoid sinus without aggressive features.
+ 
+Mastoid air cells: Clear.
+ 
+Bones: No focal abnormality.
+ 
+Additional comment: None.
+ 
+IMPRESSION:
+ 
+1. No acute intracranial abnormality.

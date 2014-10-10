@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="Test.txt">
+    <annotation>
+        <mention id="EHOST_Instance_390" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="398" end="407" />
+        <spannedText>pulmonary</spannedText>
+        <creationDate>Wed Oct 01 15:16:47 PDT 2014</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_390">
+        <mentionClass id="Anatomy">pulmonary</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_391" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="408" end="416" />
+        <spannedText>embolism</spannedText>
+        <creationDate>Wed Oct 01 15:16:50 PDT 2014</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_391">
+        <mentionClass id="Observation">embolism</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_392" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="388" end="397" />
+        <spannedText>suspected</spannedText>
+        <creationDate>Wed Oct 01 15:16:52 PDT 2014</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_392">
+        <mentionClass id="Uncertainty">suspected</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_393" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="438" end="446" />
+        <spannedText>clinical</spannedText>
+        <creationDate>Wed Oct 01 15:17:26 PDT 2014</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_393">
+        <mentionClass id="Observation">clinical</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_394" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="520" end="527" />
+        <spannedText>imaging</spannedText>
+        <creationDate>Wed Oct 01 15:17:27 PDT 2014</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_394">
+        <mentionClass id="Observation">imaging</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_395" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="563" end="571" />
+        <spannedText>affected</spannedText>
+        <creationDate>Wed Oct 01 15:17:28 PDT 2014</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_395">
+        <mentionClass id="Observation">affected</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_396" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="638" end="647" />
+        <spannedText>determine</spannedText>
+        <creationDate>Wed Oct 01 15:17:29 PDT 2014</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_396">
+        <mentionClass id="Observation">determine</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_397" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="689" end="698" />
+        <spannedText>guideline</spannedText>
+        <creationDate>Wed Oct 01 15:17:30 PDT 2014</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_397">
+        <mentionClass id="Observation">guideline</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

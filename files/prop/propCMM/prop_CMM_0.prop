@@ -1,0 +1,90 @@
+map = word=0,answer=1,tag=2,lemma=3,cat=4  
+#printFeatures = print 
+#printFeaturesUpto = 100 
+#printClassifier = AllWeights 
+#HighWeight,HighMagnitude, AllWeights, WeightHistogram 
+#printClassifierParam = 10 
+#justify = true 
+#suppressTestDebug = false 
+
+useTags = true 
+useLemmas = true 
+useClassFeature = true 
+
+#useObservedSequencesOnly = true 
+#useGenericFeatures = true 
+
+useWord = true 
+usePrev = true 
+useNext = true 
+#useBinnedLength = 3,6,10 
+useWordPairs = true 
+#useReverse = true 
+#usePosition = true 
+#useBeginSent = true 
+useLastRealWord = true 
+useNextRealWord = true 
+useTitle = true 
+useOccurrencePatterns = true 
+
+cleanGazette=true 
+#sloppyGazette = true 
+gazette = files/gazette/Anatomy.txt,files/gazette/Modifier.txt,files/gazette/Observation.txt,files/gazette/Uncertainty.txt 
+
+useNGrams = true 
+#noMidNGrams = true 
+#maxNGramLeng = 6 
+#lowercaseNGrams = true 
+#dehyphenateNGrams = true 
+#conjoinShapeNGrams = true 
+#useNeighborNGrams = true 
+#cacheNGrams = ture 
+
+useWordTag = true 
+#useSymTags = true 
+#useSymWordPairs = true 
+
+#usePrevNextLemmas = true 
+#useLemmaAsWord = true 
+normalizeTerms = true 
+normalizeTimex = true 
+
+#wordShape = chris2useLC 
+wordShape = WordShapeClassifier.WORDSHAPEDAN2USELC 
+useShapeConjunctions = true 
+useTypeSeqs = true 
+useTypeSeqs2 = true 
+useTypeSeqs3 = true 
+useTypeySequences = true 
+
+maxLeft = 2 
+#maxRight = 2 
+useSequences = true 
+usePrevSequences = true 
+useNextSequences = true 
+useLongSequences = true 
+#useBoundarySequences = true 
+useTaggySequences = true 
+useExtraTaggySequences = true 
+#useTaggySequencesShapeInteraction = true 
+#dontExtendTaggy = true 
+
+useDisjunctive = true 
+disjunctionWidth = 4 
+useDisjShape = true 
+
+#intern = true 
+#intern2 = true 
+
+#useHuber = true 
+#useQuartic = true 
+sigma = 20.0 
+#epsilon = 0.005 
+#beamSize = 100 
+adaptSigma = 20.0 
+useQN = true 
+QNsize = 15 
+
+trainFileList = files/partition/partition_1.tsv,files/partition/partition_2.tsv,files/partition/partition_3.tsv,files/partition/partition_4.tsv,files/partition/partition_5.tsv,files/partition/partition_6.tsv,files/partition/partition_7.tsv,files/partition/partition_8.tsv,files/partition/partition_9.tsv
+testFile = files/partition/partition_0.tsv 
+serializeTo = files/model/modelCMM/ner_CMM_0.ser.gz 
