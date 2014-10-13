@@ -55,12 +55,19 @@ public class ReadKWAnnotations {
 		   String mentionClass = node.getChild("mentionClass").getAttributeValue("id");
 		   String mentionspan = node.getChildText("mentionClass");
 		   
-		   KWAnnotation kw = KWAnnotations.get(mention);
-		   if(!kw.spannedText.equals(mentionspan)){
-			   System.out.println(kw.spannedText + " does not match " + mentionspan);
+		   if(!mentionClass.startsWith("z"))
+		   {
+			   KWAnnotation kw = KWAnnotations.get(mention);
+			   if(!kw.spannedText.equals(mentionspan)){
+				   System.out.println(kw.spannedText + " does not match " + mentionspan);
+			   }
+			   kw.mentionClass = mentionClass;
+			   KWAnnotations.put(mention, kw);
 		   }
-		   kw.mentionClass = mentionClass;
-		   KWAnnotations.put(mention, kw);		   
+		   else
+		   {
+			   KWAnnotations.remove(mention);
+		   }
 		   
 //		   System.out.println("mention: " + node.getAttributeValue("id"));
 //		   System.out.println("mentionClass: " + node.getChild("mentionClass").getAttributeValue("id"));
