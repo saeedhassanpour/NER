@@ -18,13 +18,18 @@ public class KFoldCrossValidation {
 		String prop = 
 				  "map = word=0,answer=1,tag=2,lemma=3,cat=4  \n"
 				
-				+ "#printFeatures = print \n"
-				+ "#printFeaturesUpto = 100 \n"
-				+ "#printClassifier = AllWeights \n"
-				+ "#HighWeight,HighMagnitude, AllWeights, WeightHistogram \n"
-				+ "#printClassifierParam = 10 \n"
-				+ "#justify = true \n"
-				+ "#suppressTestDebug = false \n"
+//				+ "#printFeatures = print \n"
+//				+ "#printFeaturesUpto = 100 \n"
+//				+ "printClassifier = AllWeights \n"
+//				+ "#HighWeight,HighMagnitude, AllWeights, WeightHistogram \n"
+//				+ "#printClassifierParam = 10 \n"
+//				+ "#justify = true \n"
+//				+ "#suppressTestDebug = false \n"
+//				+ "\n"
+//				
+				+ "cleanGazette=true \n"
+				+ "#sloppyGazette = true \n"
+				+ "gazette = files/gazette/Anatomy.txt,files/gazette/Modifier.txt,files/gazette/Observation.txt,files/gazette/Uncertainty.txt,files/gazette/Modality.txt \n"
 				+ "\n"
 				
 				+ "useTags = true \n"
@@ -32,95 +37,93 @@ public class KFoldCrossValidation {
 				+ "useClassFeature = true \n"
 				+ "\n"
 				
-				+ "#useObservedSequencesOnly = true \n"
-				+ "#useGenericFeatures = true \n"
-				+ "\n"
-				
-				+ "useWord = true \n"
-				+ "usePrev = true \n"
-				+ "useNext = true \n"
-				+ "#useBinnedLength = 3,6,10 \n"
-				+ "useWordPairs = true \n"
-				+ "#useReverse = true \n"
-				+ "#usePosition = true \n"
-				+ "#useBeginSent = true \n"
-				+ "useLastRealWord = true \n"
-				+ "useNextRealWord = true \n"
-				+ "useTitle = true \n"
-				+ "useOccurrencePatterns = true \n"
-				+ "\n"
-				
-				+ "cleanGazette=true \n"
-				+ "#sloppyGazette = true \n"
-				+ "gazette = files/gazette/Anatomy.txt,files/gazette/Modifier.txt,files/gazette/Observation.txt,files/gazette/Uncertainty.txt,files/gazette/Modality.txt \n"
-				+ "\n"
-				
-				+ "useNGrams = true \n"
-				+ "#noMidNGrams = true \n"
-				+ "#maxNGramLeng = 6 \n"
-				+ "#lowercaseNGrams = true \n"
-				+ "#dehyphenateNGrams = true \n"
-				+ "#conjoinShapeNGrams = true \n"
-				+ "#useNeighborNGrams = true \n"
-				+ "#cacheNGrams = ture \n"
-				+ "\n"
-				
-				+ "useWordTag = true \n"
-				+ "#useSymTags = true \n"
-				+ "#useSymWordPairs = true \n"
-				+ "\n"
-				
-				+ "#usePrevNextLemmas = true \n"
-				+ "#useLemmaAsWord = true \n"
-				+ "normalizeTerms = true \n"
-				+ "normalizeTimex = true \n"
-				+ "\n"
-				
-				+ "#wordShape = chris2useLC \n"
-				+ "wordShape = WordShapeClassifier.WORDSHAPEDAN2USELC \n"
-				+ "useShapeConjunctions = true \n"
-				+ "useTypeSeqs = true \n"
-				+ "useTypeSeqs2 = true \n"
-				+ "useTypeSeqs3 = true \n"
-				+ "useTypeySequences = true \n"
-				+ "\n"
-				
-				+ "maxLeft = 2 \n"
-				+ "#maxRight = 2 \n"
-				+ "useSequences = true \n"
-				+ "usePrevSequences = true \n"
-				+ "useNextSequences = true \n"
-				+ "useLongSequences = true \n"
-				+ "#useBoundarySequences = true \n"
-				+ "useTaggySequences = true \n"
-				+ "useExtraTaggySequences = true \n"
-				+ "#useTaggySequencesShapeInteraction = true \n"
-				+ "#dontExtendTaggy = true \n"
-				+ "\n"
-				
-				+ "useDisjunctive = true \n"
-				+ "disjunctionWidth = 4 \n"
-				+ "useDisjShape = true \n"
-				+ "\n"
-				
-				+ "#intern = true \n"
-				+ "#intern2 = true \n"
-				+ "\n"
-				
-				+ "#useHuber = true \n"
-				+ "#useQuartic = true \n"
-				+ "sigma = 20.0 \n"
-				+ "#epsilon = 0.005 \n"
-				+ "#beamSize = 100 \n"
-				+ "adaptSigma = 20.0 \n"
-				+ "useQN = true \n"
-				+ "QNsize = 15 \n"
-				+ "\n"
-				
-				//+ "#trainFileList = files/rad/CT Abdomen.txt.output.tsv,files/rad/Ankle Report.txt.output.tsv \n"
-				//+ "trainFile = files/rad/CT Abdomen.txt.output.tsv  \n"
-				//+ "testFile = files/rad/CT Head.txt.output.tsv \n"
-				//+ "serializeTo = files/rad/rad1-ner-model.ser.gz \n"
+//				+ "#useObservedSequencesOnly = true \n"
+//				+ "#useGenericFeatures = true \n"
+//				+ "\n"
+//
+//				+ "useWord = true \n"
+//				+ "usePrev = true \n"
+//				+ "useNext = true \n"
+//				+ "#useBinnedLength = 3,6,10 \n"
+//				+ "useWordPairs = true \n"
+//				+ "useReverse = true \n"
+//				+ "#usePosition = true \n"
+//				+ "#useBeginSent = true \n"
+//				+ "useLastRealWord = true \n"
+//				+ "useNextRealWord = true \n"
+//				+ "useTitle = true \n"
+//				+ "useOccurrencePatterns = true \n"
+//				+ "\n"
+//				
+//				
+//				+ "useNGrams = true \n"
+//				+ "noMidNGrams = true \n"
+//				+ "maxNGramLeng = 6 \n"
+//				+ "lowercaseNGrams = true \n"
+//				+ "dehyphenateNGrams = true \n"
+//				+ "#conjoinShapeNGrams = true \n"
+//				+ "#useNeighborNGrams = true \n"
+//				+ "#cacheNGrams = ture \n"
+//				+ "\n"
+//				
+//				+ "useWordTag = true \n"
+//				+ "#useSymTags = true \n"
+//				+ "#useSymWordPairs = true \n"
+//				+ "\n"
+//				
+//				+ "usePrevNextLemmas = true \n"
+//				+ "useLemmaAsWord = true \n"
+//				+ "normalizeTerms = true \n"
+//				+ "normalizeTimex = true \n"
+//				+ "\n"
+//				
+				+ "wordShape = chris2useLC  \n"
+//				dan1,dan2,dan2useLC,dan2bio,dan2bioUseLC,jenny1,jenny1useLC,
+//				chris1,chris2,chris2useLC,chris3,chris3useLC,chris4,digits,chinese,cluster1
+//				+ "wordShape = WordShapeClassifier.WORDSHAPEDAN2USELC \n"
+//				+ "useShapeConjunctions = true \n"
+//				+ "useTypeSeqs = true \n"
+//				+ "useTypeSeqs2 = true \n"
+//				+ "useTypeSeqs3 = true \n"
+//				+ "useTypeySequences = true \n"
+//				+ "\n"
+//				
+//				+ "maxLeft = 2 \n"
+//				+ "#maxRight = 2 \n"
+//				+ "useSequences = true \n"
+//				+ "usePrevSequences = true \n"
+//				+ "useNextSequences = true \n"
+//				+ "useLongSequences = true \n"
+//				+ "#useBoundarySequences = true \n"
+//				+ "useTaggySequences = true \n"
+//				+ "useExtraTaggySequences = true \n"
+//				+ "#useTaggySequencesShapeInteraction = true \n"
+//				+ "#dontExtendTaggy = true \n"
+//				+ "\n"
+//				
+//				+ "useDisjunctive = true \n"
+//				+ "disjunctionWidth = 4 \n"
+//				+ "useDisjShape = true \n"
+//				+ "\n"
+//				
+//				+ "#intern = true \n"
+//				+ "#intern2 = true \n"
+//				+ "\n"
+//				
+//				+ "#useHuber = true \n"
+//				+ "#useQuartic = true \n"
+//				+ "sigma = 20.0 \n"
+//				+ "#epsilon = 0.005 \n"
+//				+ "#beamSize = 100 \n"
+//				+ "adaptSigma = 20.0 \n"
+//				+ "useQN = true \n"
+//				+ "QNsize = 15 \n"
+//				+ "\n"
+//				
+//				//+ "#trainFileList = files/rad/CT Abdomen.txt.output.tsv,files/rad/Ankle Report.txt.output.tsv \n"
+//				//+ "trainFile = files/rad/CT Abdomen.txt.output.tsv  \n"
+//				//+ "testFile = files/rad/CT Head.txt.output.tsv \n"
+//				//+ "serializeTo = files/rad/rad1-ner-model.ser.gz \n"
 				;
 		
 		
@@ -150,7 +153,7 @@ public class KFoldCrossValidation {
 			file = new File("files/err/err" +model+ "/err_" + model + "_" + i + ".tsv");  
 			fis = new FileOutputStream(file.getPath());  
 			out = new PrintStream(fis);  
-			System.setErr(out);
+			//System.setErr(out);
 			
 			System.err.println("fold " + i + " ...");
 			String partProp = prop;
