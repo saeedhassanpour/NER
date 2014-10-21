@@ -1,4 +1,4 @@
-package edu.stanford.rad.ner.KFold;
+package edu.stanford.rad.ner.summarization;
 
 import java.io.BufferedReader;
 import java.io.File;

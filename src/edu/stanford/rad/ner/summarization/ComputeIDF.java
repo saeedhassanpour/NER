@@ -1,10 +1,9 @@
-package edu.stanford.rad.ner.misc;
+package edu.stanford.rad.ner.summarization;
 
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.PrintWriter;
-import java.util.Comparator;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.List;
@@ -21,11 +20,12 @@ import edu.stanford.nlp.ling.CoreLabel;
 import edu.stanford.nlp.pipeline.Annotation;
 import edu.stanford.nlp.pipeline.StanfordCoreNLP;
 import edu.stanford.nlp.util.CoreMap;
+import edu.stanford.rad.ner.util.ValueComparator;
+
 
 public class ComputeIDF {
 
-	public static void main(String[] args) throws FileNotFoundException,
-			IOException {
+	public static void main(String[] args) throws FileNotFoundException, IOException {
 		long startTime = System.currentTimeMillis();
 		int N = 0;
 		Map<String, Integer> docFreq = new HashMap<String, Integer>();
@@ -34,6 +34,12 @@ public class ComputeIDF {
 		TreeMap<String, Double> sortedidfs = new TreeMap<String, Double>(bvc);
 
 		Set<String> report = new HashSet<String>();
+		String numericRegex = "-?\\d+(\\.\\d+)?";
+		String dateRegex = "(\\d*)(/|-)(\\d*)((/|-)(\\d*))?";
+		String dateRegex1 = "^.*(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec).*$";
+		String hourRegex = "(\\d*)[:,-\\.](\\d*)";
+
+
 
 		final File folder = new File("files/corpus-full");
 		for (final File fileEntry : folder.listFiles()) {
@@ -45,6 +51,7 @@ public class ComputeIDF {
 				String text = scanner.useDelimiter("\\Z").next();
 				scanner.close();
 				text = text.replaceAll("\r\n", "\n");
+				text = text.replaceAll("‑", "-");
 
 				Properties props = new Properties();
 				props.put("annotators", "tokenize, ssplit");
@@ -59,6 +66,10 @@ public class ComputeIDF {
 					for (CoreLabel token : sentence.get(TokensAnnotation.class)) {
 						String word = token.get(TextAnnotation.class);
 						word = word.toLowerCase();
+						if(word.matches(numericRegex) || word.matches(dateRegex) || word.matches(dateRegex1) || word.matches(hourRegex))
+						{
+							continue;
+						}
 						if (word.equals("********************************************")) {
 							N++;
 							for (String w : report) {
@@ -71,6 +82,7 @@ public class ComputeIDF {
 							report.clear();
 							continue;
 						}
+						//System.out.println(">>>" + word + "<<<");
 						report.add(word);
 					}
 				}
@@ -86,7 +98,7 @@ public class ComputeIDF {
 
 		sortedidfs.putAll(idfs);
 		
-		PrintWriter pw = new PrintWriter("files/idf/idf.tsv", "UTF-8");
+		PrintWriter pw = new PrintWriter("files/idf/idfAll.tsv", "UTF-8");
 		for (Map.Entry<String, Double> entry : sortedidfs.entrySet()) {
 			String word = entry.getKey();
 			double idf = entry.getValue();
@@ -100,23 +112,4 @@ public class ComputeIDF {
 		System.out.println("Finshed in " + totalTime / 1000.0 + " seconds");
 	}
 
-}
-
-class ValueComparator implements Comparator<String> {
-
-	Map<String, Double> base;
-
-	public ValueComparator(Map<String, Double> base) {
-		this.base = base;
-	}
-
-	// Note: this comparator imposes orderings that are inconsistent with
-	// equals.
-	public int compare(String a, String b) {
-		if (base.get(a) >= base.get(b)) {
-			return -1;
-		} else {
-			return 1;
-		} // returning 0 would merge keys
-	}
 }
