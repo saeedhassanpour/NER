@@ -11,7 +11,7 @@ import java.util.TreeMap;
 
 import edu.stanford.rad.ner.util.ValueComparator;
 
-public class RankObservations {
+public class RankObservationTests {
 
 	public static void main(String[] args) throws NumberFormatException,IOException {
 		String idfFileName = "idfAllFiltered";
@@ -62,7 +62,7 @@ public class RankObservations {
 		ValueComparator bvc = new ValueComparator(observations);
 		TreeMap<String, Double> sortedObservations = new TreeMap<String, Double>(bvc);
 		sortedObservations.putAll(observations);
-		PrintWriter pw = new PrintWriter("files/idf/test_" + model + "_" + idfFileName + ".tsv", "UTF-8");
+		PrintWriter pw = new PrintWriter("files/summarizationOutput/test_" + model + "_" + idfFileName + ".tsv", "UTF-8");
 		for (Map.Entry<String, Double> entry : sortedObservations.entrySet()) {
 			String word = entry.getKey();
 			double idf = entry.getValue();

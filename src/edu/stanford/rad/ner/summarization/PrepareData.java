@@ -47,7 +47,7 @@ public class PrepareData {
 					System.out.println(XmlfileName + " not found! " + fileName + " is skipped.");
 					continue;
 				}
-		    	PrintWriter pw = new PrintWriter("files/summarizatonInput/sum_" + fileName +".tsv", "UTF-8");
+		    	PrintWriter pw = new PrintWriter("files/summarizatonInput/sum_" + fileName.split("\\.")[0] +".tsv", "UTF-8");
 				System.out.println("Working on " + fileName + "...");
 				Scanner scanner = new Scanner(new File(filepath), "UTF-8");
 				String text = scanner.useDelimiter("\\Z").next();
