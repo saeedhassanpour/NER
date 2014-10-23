@@ -31,11 +31,9 @@ public class ComputeIDF {
 		TreeMap<String, Double> sortedidfs = new TreeMap<String, Double>(bvc);
 
 		Set<String> report = new HashSet<String>();
-//		String numericRegex = "-?\\d+(\\.\\d+)?";
-//		String dateRegex = "(\\d*)(/|-)(\\d*)((/|-)(\\d*))?";
-//		String dateRegex1 = "^.*(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec).*$";
-//		String hourRegex = "(\\d*)[:,-\\.](\\d*)";
-//		String nlRegex = "\\*nl\\*";
+		String numericRegex = "-?\\d*(\\.\\d+)?";
+		String dateRegex = "\\d*([-:,\\./]\\d*)+";
+		String nlRegex = "\\*nl\\*";
 
 
 
@@ -61,10 +59,11 @@ public class ComputeIDF {
 					String word = token.get(TextAnnotation.class);
 					word = word.toLowerCase();
 					
-//					if(word.matches(nlRegex) || word.matches(numericRegex) || word.matches(dateRegex) || word.matches(dateRegex1) || word.matches(hourRegex))
-//					{
-//						continue;
-//					}
+					if(word.matches(nlRegex) || word.matches(numericRegex) || word.matches(dateRegex))
+					{
+						//System.out.println(">>>" + word + "<<<");
+						continue;
+					}
 					if (word.equals("********************************************")) {
 						N++;
 						for (String w : report) {
@@ -92,7 +91,7 @@ public class ComputeIDF {
 
 		sortedidfs.putAll(idfs);
 		
-		PrintWriter pw = new PrintWriter("files/idf/idfAll.tsv", "UTF-8");
+		PrintWriter pw = new PrintWriter("files/idf/idfAllFiltered.tsv", "UTF-8");
 		for (Map.Entry<String, Double> entry : sortedidfs.entrySet()) {
 			String word = entry.getKey();
 			double idf = entry.getValue();

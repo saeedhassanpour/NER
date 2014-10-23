@@ -14,7 +14,7 @@ import edu.stanford.rad.ner.util.ValueComparator;
 public class RankObservations {
 
 	public static void main(String[] args) throws NumberFormatException,IOException {
-		String idfFileName = "idfAll";
+		String idfFileName = "idfAllFiltered";
 		Map<String,Double> idfs = idfFiletoMap(idfFileName);
 		Map<String, Double> observations = new HashMap<String, Double>();
 		
