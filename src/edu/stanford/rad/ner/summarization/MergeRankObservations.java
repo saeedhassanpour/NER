@@ -123,8 +123,6 @@ public class MergeRankObservations {
 				pw.close();
 			}
 		}
-
-
 	}
 
 	public static void tryAddObservations(int start, int end, boolean sub) {
@@ -158,6 +156,7 @@ public class MergeRankObservations {
 					totalIdf += idf;
 				}
 			}
+			
 			String obsPhraseString = obsPhrase.toString().trim();
 			if (!obsPhraseString.isEmpty()) {
 				if(!sub){
@@ -168,45 +167,6 @@ public class MergeRankObservations {
 				System.out.println("Prease is empty between " + start + " " + end);
 			}
 		}
-
-	}
-	
-	public static void tryAddObservationsCustomizedIdf(int start, int end) {
-		boolean obs = false;
-		for (int j = start; j <= end; ++j) {
-			if (tags.get(j).equals("Observation")) {
-				obs = true;
-				break;
-			}
-		}
-		if (obs) {
-			if (words.get(end).equals(".")) {
-				--end;
-			}
-			StringBuilder obsPhrase = new StringBuilder();
-			double totalIdf = 0;
-			for (int j = start; j <= end; ++j) {
-				String word = words.get(j);
-				String lwWord = word.toLowerCase();
-				double idf = 0;
-				if (idfs.containsKey(lwWord)) {
-					idf = idfs.get(lwWord);
-				}				
-				if (tags.get(j).equals("Observation") || tags.get(j).equals("Observation_Modifier"))
-				{
-					totalIdf += idf;
-				}
-				obsPhrase.append(word + " ");
-			}
-			
-			String obsPhraseString = obsPhrase.toString().trim();
-			if (!obsPhraseString.isEmpty()) {
-				observations.put(obsPhraseString, totalIdf);
-			}else{
-				System.out.println("Prease is empty between " + start + " " + end);
-			}
-		}
-
 	}
 	
 	public static Map<String, Double> idfFiletoMap(String fileName)
