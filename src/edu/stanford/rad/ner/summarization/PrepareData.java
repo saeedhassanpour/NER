@@ -33,7 +33,6 @@ public class PrepareData {
 
 	public static void main(String[] args) throws FileNotFoundException,IOException {
 		long startTime = System.currentTimeMillis();
-		List<String> allReports = new ArrayList<String>();
 		GenNegEx g = new GenNegEx(true);
 		Stemmer stemmer = new Stemmer();
 		final File folder = new File("files/corpus");
@@ -47,7 +46,7 @@ public class PrepareData {
 					System.out.println(XmlfileName + " not found! " + fileName + " is skipped.");
 					continue;
 				}
-		    	PrintWriter pw = new PrintWriter("files/summarizatonInput/sum_" + fileName.split("\\.")[0] +".tsv", "UTF-8");
+				List<String> allReports = new ArrayList<String>();
 				System.out.println("Working on " + fileName + "...");
 				Scanner scanner = new Scanner(new File(filepath), "UTF-8");
 				String text = scanner.useDelimiter("\\Z").next();
@@ -70,7 +69,7 @@ public class PrepareData {
 				pipeline.annotate(document);
 
 				List<CoreMap> sentences = document.get(SentencesAnnotation.class);
-				String report = new String();
+				StringBuilder report = new StringBuilder();
 
 				for (CoreMap sentence : sentences) {
 					String scope = g.negScope(cleans(sentence.toString()));
@@ -115,8 +114,8 @@ public class PrepareData {
 						String word = token.get(TextAnnotation.class);
 						if(word.equals("********************************************"))
 						{
-							allReports.add(report);
-							report = new String();
+							allReports.add(report.toString());
+							report = new StringBuilder();
 							continue;
 						}
 						int index = token.index()-1;
@@ -162,10 +161,18 @@ public class PrepareData {
 						}
 						if(isClean(word))
 							counter++;
-						pw.print(word + "\t" + mentionClass + "\t" + pos+ "\t" + lemma + "\t" + negex + "\t" + NP + "\n");
+						
+						report.append(word + "\t" + mentionClass + "\t" + pos+ "\t" + lemma + "\t" + negex + "\t" + NP + "\n");
 					}
 				}
-				pw.close();
+				
+				for(int i=0; i<allReports.size(); ++i) {
+					int fileNumber = i+1;
+					PrintWriter pw = new PrintWriter("files/summarizatonInput/sum_" + fileName.split("\\.")[0] + "_" + fileNumber +".tsv", "UTF-8");
+					pw.print(allReports.get(i));
+					pw.close();
+				}
+			
 			}
 		}
 		

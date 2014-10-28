@@ -1,4 +1,4 @@
-package edu.stanford.rad.ner.misc;
+package edu.stanford.rad.ner.demo;
 
 import edu.stanford.nlp.ie.AbstractSequenceClassifier;
 import edu.stanford.nlp.ie.crf.*;

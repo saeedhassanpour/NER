@@ -153,7 +153,7 @@ public class KFoldCrossValidation {
 			file = new File("files/err/err" +model+ "/err_" + model + "_" + i + ".tsv");  
 			fis = new FileOutputStream(file.getPath());  
 			out = new PrintStream(fis);  
-			System.setErr(out);
+			System.setErr(out); //
 			
 			System.err.println("fold " + i + " ...");
 			String partProp = prop;

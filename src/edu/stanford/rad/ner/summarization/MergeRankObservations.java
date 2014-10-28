@@ -25,6 +25,7 @@ public class MergeRankObservations {
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		String idfFileName = "idfAllFiltered"; //idfAll,idfFiltered
 		idfs = idfFiletoMap(idfFileName);
+		boolean sub = true;
 
 		final File Datafolder = new File("files/summarizatonInput");
 		for (final File inputFile : Datafolder.listFiles()) {
@@ -38,6 +39,8 @@ public class MergeRankObservations {
 				System.out.println("Working on " + inputFileName + "...");
 				String line;
 
+				words.clear();
+				boundaries.clear();
 				BufferedReader bReader = new BufferedReader(new FileReader(inputFile));
 				while ((line = bReader.readLine()) != null) {
 					if (line.isEmpty())
@@ -52,6 +55,7 @@ public class MergeRankObservations {
 				}
 				bReader.close();
 
+				tags.clear();
 				bReader = new BufferedReader(new FileReader(tagFile));
 				while ((line = bReader.readLine()) != null) {
 					if (line.isEmpty())
@@ -78,14 +82,14 @@ public class MergeRankObservations {
 				for (int i = 0; i < boundaries.size(); ++i) {
 					if (boundaries.get(i).equals("B")) {
 						if (searching) {
-							tryAddObservations(start, i - 1);
+							tryAddObservations(start, i - 1, sub);
 						} else {
 							searching = true;
 						}
 						start = i;
 					} else if (boundaries.get(i).equals("O")) {
 						if (searching) {
-							tryAddObservations(start, i - 1);
+							tryAddObservations(start, i - 1, sub);
 							searching = false;
 						}
 					} else if (boundaries.get(i).equals("E")) {
@@ -96,7 +100,7 @@ public class MergeRankObservations {
 						}
 						else
 						{
-							tryAddObservations(start,i);
+							tryAddObservations(start,i, sub);
 							searching = false;
 						}
 					}
@@ -105,7 +109,12 @@ public class MergeRankObservations {
 				 ValueComparator bvc = new ValueComparator(observations);
 				 TreeMap<String, Double> sortedObservations = new TreeMap<String, Double>(bvc);
 				 sortedObservations.putAll(observations);
-				 PrintWriter pw = new PrintWriter("files/summarizationOutput/" + inputFileName.split("\\.")[0] + "_" +idfFileName + ".tsv", "UTF-8");
+				 String ifname = idfFileName;
+				 if(sub)
+				 {
+					 ifname = ifname + "_sub";
+				 }
+				 PrintWriter pw = new PrintWriter("files/summarizationOutput/" + inputFileName.split("\\.")[0] + "_" +ifname + ".tsv", "UTF-8");
 				for (Map.Entry<String, Double> entry : sortedObservations.entrySet()) {
 					String word = entry.getKey();
 					double idf = entry.getValue();
@@ -118,7 +127,7 @@ public class MergeRankObservations {
 
 	}
 
-	public static void tryAddObservations(int start, int end) {
+	public static void tryAddObservations(int start, int end, boolean sub) {
 		boolean obs = false;
 		for (int j = start; j <= end; ++j) {
 			if (tags.get(j).equals("Observation")) {
@@ -140,11 +149,58 @@ public class MergeRankObservations {
 					idf = idfs.get(lwWord);
 				}
 				obsPhrase.append(word + " ");
-				totalIdf += idf;
+				if (sub) {
+					if (tags.get(j).equals("Observation") || tags.get(j).equals("Observation_Modifier"))
+					{
+						totalIdf += idf;
+					}
+				} else {
+					totalIdf += idf;
+				}
 			}
 			String obsPhraseString = obsPhrase.toString().trim();
 			if (!obsPhraseString.isEmpty()) {
-				totalIdf = totalIdf / (end - start + 1);
+				if(!sub){
+					totalIdf = totalIdf / (end - start + 1);
+				}
+				observations.put(obsPhraseString, totalIdf);
+			}else{
+				System.out.println("Prease is empty between " + start + " " + end);
+			}
+		}
+
+	}
+	
+	public static void tryAddObservationsCustomizedIdf(int start, int end) {
+		boolean obs = false;
+		for (int j = start; j <= end; ++j) {
+			if (tags.get(j).equals("Observation")) {
+				obs = true;
+				break;
+			}
+		}
+		if (obs) {
+			if (words.get(end).equals(".")) {
+				--end;
+			}
+			StringBuilder obsPhrase = new StringBuilder();
+			double totalIdf = 0;
+			for (int j = start; j <= end; ++j) {
+				String word = words.get(j);
+				String lwWord = word.toLowerCase();
+				double idf = 0;
+				if (idfs.containsKey(lwWord)) {
+					idf = idfs.get(lwWord);
+				}				
+				if (tags.get(j).equals("Observation") || tags.get(j).equals("Observation_Modifier"))
+				{
+					totalIdf += idf;
+				}
+				obsPhrase.append(word + " ");
+			}
+			
+			String obsPhraseString = obsPhrase.toString().trim();
+			if (!obsPhraseString.isEmpty()) {
 				observations.put(obsPhraseString, totalIdf);
 			}else{
 				System.out.println("Prease is empty between " + start + " " + end);

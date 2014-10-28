@@ -1,4 +1,4 @@
-package edu.stanford.rad.ner.misc;
+package edu.stanford.rad.ner.demo;
 
 import java.io.*;
 import java.util.*;

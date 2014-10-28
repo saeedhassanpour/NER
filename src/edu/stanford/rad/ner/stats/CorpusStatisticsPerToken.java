@@ -1,5 +1,4 @@
-
-package edu.stanford.rad.ner.util;
+package edu.stanford.rad.ner.stats;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -25,7 +24,7 @@ import edu.stanford.nlp.util.CoreMap;
 import edu.stanford.rad.ner.util.KWAnnotation;
 import edu.stanford.rad.ner.util.ReadKWAnnotationsForSummary;
 
-public class CorpusStatistics  {
+public class CorpusStatisticsPerToken  {
 
 	public static void main(String[] args) throws FileNotFoundException,IOException {
 		long startTime = System.currentTimeMillis();

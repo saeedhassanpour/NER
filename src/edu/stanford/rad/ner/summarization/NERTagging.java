@@ -12,13 +12,16 @@ public class NERTagging {
 	public static void main(String[] args) throws Exception {
 		long startTime = System.currentTimeMillis();
 		String modelType = "CRF"; // CRF,CMM
+		PrintStream defaultOut = System.out;
 		String model = "files/model/modelCRF/ner_CRF_0.ser.gz";
+
 
 		final File Datafolder = new File("files/summarizatonInput");
 		for (final File fileEntry : Datafolder.listFiles()) {
 			if (!fileEntry.isDirectory() && !fileEntry.getName().startsWith(".")) {
 				String inputFileName = fileEntry.getName();
 				String inputFilepath = fileEntry.getPath();
+				System.setOut(defaultOut);
 				System.out.println("Working on " + inputFileName + "...");
 				
 				File outputFile = new File("files/summarizatonTags/tagged_" + inputFileName);  

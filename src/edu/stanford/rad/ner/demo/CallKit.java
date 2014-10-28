@@ -4,7 +4,7 @@
 //Purpose: this program calls GenNegEx and defines negation scopes of sentences.  It determines whether a keyword is in the negation scope or not.
 //If a keyword is in the negation scope, for example, 3 air hunger  "Denies shortness of breath, stridor, or AIR HUNGER."  Negated   Negated 
 //Output looks as the following: Number TAB Phrase TAB Sentence TAB Dummystring TAB Decision TAB Decision by computer 
-package edu.stanford.rad.ner.misc;
+package edu.stanford.rad.ner.demo;
 
 import java.io.BufferedReader;
 import java.io.File;

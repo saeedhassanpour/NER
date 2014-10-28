@@ -5,7 +5,7 @@ public class KWAnnotation implements Comparable<KWAnnotation>{
 	String annotator;
 	public int start;
 	public int end;
-	String spannedText;
+	public String spannedText;
 	String creationDate;
 	public String mentionClass;
 	
