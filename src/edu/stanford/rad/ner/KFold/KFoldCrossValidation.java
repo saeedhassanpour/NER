@@ -13,7 +13,7 @@ public class KFoldCrossValidation {
 
 	public static void main(String[] args) throws Exception {
 		long startTime = System.currentTimeMillis();
-		String model = "CRF"; //CRF,CMM
+		String model = "CMM"; //CRF,CMM
 		
 		String prop = 
 				  "map = word=0,answer=1,tag=2,lemma=3,cat=4  \n"
@@ -143,7 +143,7 @@ public class KFoldCrossValidation {
 		System.err.println("number of folds, k = " + k);
 		PrintStream defaultErr = System.err;
 		
-		for(int i=0; i<1; i++) //k
+		for(int i=0; i<k; i++) //k,1
 		{
 			File file = new File("files/test/test" +model+ "/test_" + model + "_" + i + ".tsv");  
 			FileOutputStream fis = new FileOutputStream(file.getPath());  
