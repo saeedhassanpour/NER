@@ -13,16 +13,16 @@ public class KFoldCrossValidation {
 
 	public static void main(String[] args) throws Exception {
 		long startTime = System.currentTimeMillis();
-		String model = "CMM"; //CRF,CMM
+		String model = "CRF"; //CRF,CMM
 		
 		String prop = 
 				  "map = word=0,answer=1,tag=2,lemma=3,cat=4  \n"
 				
-//				+ "#printFeatures = print \n"
-//				+ "#printFeaturesUpto = 100 \n"
-//				+ "printClassifier = AllWeights \n"
+//				+ "printFeatures = print \n"
+//				+ "printFeaturesUpto = 10 \n"
+//				+ "printClassifier = AllWeights \n" //AllWeights
 //				+ "#HighWeight,HighMagnitude, AllWeights, WeightHistogram \n"
-//				+ "#printClassifierParam = 10 \n"
+//				+ "printClassifierParam = 10 \n"
 //				+ "#justify = true \n"
 //				+ "#suppressTestDebug = false \n"
 //				+ "\n"
@@ -38,17 +38,17 @@ public class KFoldCrossValidation {
 				+ "\n"
 				
 //				+ "#useObservedSequencesOnly = true \n"
-//				+ "#useGenericFeatures = true \n"
+//				+ "useGenericFeatures = true \n"
 //				+ "\n"
 //
 //				+ "useWord = true \n"
-//				+ "usePrev = true \n"
-//				+ "useNext = true \n"
+				+ "usePrev = true \n"
+				+ "useNext = true \n"
 //				+ "#useBinnedLength = 3,6,10 \n"
 //				+ "useWordPairs = true \n"
 //				+ "useReverse = true \n"
-//				+ "#usePosition = true \n"
-//				+ "#useBeginSent = true \n"
+//				+ "usePosition = true \n"
+//				+ "useBeginSent = true \n"
 //				+ "useLastRealWord = true \n"
 //				+ "useNextRealWord = true \n"
 //				+ "useTitle = true \n"
@@ -56,14 +56,14 @@ public class KFoldCrossValidation {
 //				+ "\n"
 //				
 //				
-//				+ "useNGrams = true \n"
-//				+ "noMidNGrams = true \n"
-//				+ "maxNGramLeng = 6 \n"
-//				+ "lowercaseNGrams = true \n"
-//				+ "dehyphenateNGrams = true \n"
-//				+ "#conjoinShapeNGrams = true \n"
-//				+ "#useNeighborNGrams = true \n"
-//				+ "#cacheNGrams = ture \n"
+				+ "useNGrams = true \n"
+				+ "noMidNGrams = true \n"
+				+ "maxNGramLeng = 5 \n"
+				+ "lowercaseNGrams = true \n"
+				+ "dehyphenateNGrams = true \n"
+//				+ "conjoinShapeNGrams = true \n"
+//				+ "useNeighborNGrams = true \n"
+//				+ "cacheNGrams = ture \n"
 //				+ "\n"
 //				
 //				+ "useWordTag = true \n"
@@ -77,44 +77,47 @@ public class KFoldCrossValidation {
 //				+ "normalizeTimex = true \n"
 //				+ "\n"
 //				
-				+ "wordShape = chris2useLC  \n"
+				+ "wordShape = digits  \n"   //digits,chris1,chris2useLC
 //				dan1,dan2,dan2useLC,dan2bio,dan2bioUseLC,jenny1,jenny1useLC,
-//				chris1,chris2,chris2useLC,chris3,chris3useLC,chris4,digits,chinese,cluster1
+//				chris1,chris2,chris2useLC,chris3,chris3useLC,chris4,digits,chinese
 //				+ "wordShape = WordShapeClassifier.WORDSHAPEDAN2USELC \n"
 //				+ "useShapeConjunctions = true \n"
-//				+ "useTypeSeqs = true \n"
-//				+ "useTypeSeqs2 = true \n"
-//				+ "useTypeSeqs3 = true \n"
-//				+ "useTypeySequences = true \n"
 //				+ "\n"
 //				
 //				+ "maxLeft = 2 \n"
-//				+ "#maxRight = 2 \n"
-//				+ "useSequences = true \n"
-//				+ "usePrevSequences = true \n"
+//				+ "maxRight = 2 \n" 				
+				+ "useSequences = true \n"
+//				+ "usePrevSequences = true \n" 		
 //				+ "useNextSequences = true \n"
-//				+ "useLongSequences = true \n"
+//				+ "useLongSequences = true \n" 		
 //				+ "#useBoundarySequences = true \n"
-//				+ "useTaggySequences = true \n"
+				+ "useTaggySequences = true \n" 	
 //				+ "useExtraTaggySequences = true \n"
-//				+ "#useTaggySequencesShapeInteraction = true \n"
-//				+ "#dontExtendTaggy = true \n"
+//				+ "useTaggySequencesShapeInteraction = true \n"
+//				+ "dontExtendTaggy = true \n"
+//				+ "\n"
+//
+//				+ "useTypeSeqs = true \n"
+				+ "useTypeSeqs2 = true \n"
+				+ "useTypeSeqs3 = true \n"
+//				+ "useTypeySequences = true \n"
 //				+ "\n"
 //				
-//				+ "useDisjunctive = true \n"
-//				+ "disjunctionWidth = 4 \n"
-//				+ "useDisjShape = true \n"
+				+ "useDisjunctive = true \n"
+				+ "disjunctionWidth = 5 \n"
+				+ "useDisjShape = true \n"
 //				+ "\n"
 //				
-//				+ "#intern = true \n"
-//				+ "#intern2 = true \n"
+//				+ "intern = true \n"
+//				+ "intern2 = true \n"
 //				+ "\n"
 //				
-//				+ "#useHuber = true \n"
-//				+ "#useQuartic = true \n"
+//				+ "#normalize = true \n"
+//				+ "useHuber = true \n"
+//				+ "epsilon = 0.005 \n"
+//				+ "useQuartic = true \n"
 //				+ "sigma = 20.0 \n"
-//				+ "#epsilon = 0.005 \n"
-//				+ "#beamSize = 100 \n"
+//				+ "beamSize = 100 \n"
 //				+ "adaptSigma = 20.0 \n"
 //				+ "useQN = true \n"
 //				+ "QNsize = 15 \n"

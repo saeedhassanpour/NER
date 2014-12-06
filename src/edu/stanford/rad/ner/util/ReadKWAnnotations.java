@@ -55,7 +55,7 @@ public class ReadKWAnnotations {
 		   String mentionClass = node.getChild("mentionClass").getAttributeValue("id");
 		   String mentionspan = node.getChildText("mentionClass");
 		   
-		   if(!mentionClass.startsWith("z"))
+		   if(!mentionClass.startsWith("z") && !mentionClass.startsWith("Recommendation")) //
 		   {
 			   KWAnnotation kw = KWAnnotations.get(mention);
 			   if(!kw.spannedText.equals(mentionspan)){
