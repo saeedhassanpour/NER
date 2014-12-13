@@ -17,7 +17,7 @@ public class KFoldEvaluation {
 	static double f1;
 
 	public static void main(String[] args) throws NumberFormatException,IOException {
-		String model = "Dictionary"; //CRF,CMM,Dictionary
+		String model = "CRF"; //CRF,CMM,Dictionary
 		int k = 0;
 		final File folder = new File("files/test/test" + model);
 		for (final File fileEntry : folder.listFiles()) {

@@ -5,8 +5,10 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 import java.util.ListIterator;
+import java.util.Map;
 import java.util.Properties;
 import java.util.Scanner;
 
@@ -23,9 +25,11 @@ import edu.stanford.nlp.trees.TreeCoreAnnotations.TreeAnnotation;
 import edu.stanford.nlp.util.CoreMap;
 import edu.stanford.nlp.util.IntPair;
 import edu.stanford.rad.ner.util.GenNegEx;
+import edu.stanford.rad.ner.util.KWAnnotation;
+import edu.stanford.rad.ner.util.ReadKWAnnotations;
 import edu.stanford.rad.ner.util.Stemmer;
 
-public class PrepareData {
+public class PrepareDataWithRealTags {
 
 	public static void main(String[] args) throws FileNotFoundException,IOException {
 		long startTime = System.currentTimeMillis();
@@ -36,12 +40,26 @@ public class PrepareData {
 			if (!fileEntry.isDirectory()) {
 				String fileName = fileEntry.getName();
 				String filepath = fileEntry.getPath();
+				String XmlfileName = "files/annotation/" + fileName + ".knowtator.xml";
+				File Xmlfile = new File(XmlfileName);
+				if (!Xmlfile.exists()) {
+					System.out.println(XmlfileName + " not found! " + fileName + " is skipped.");
+					continue;
+				}
 				List<String> allReports = new ArrayList<String>();
 				System.out.println("Working on " + fileName + "...");
 				Scanner scanner = new Scanner(new File(filepath), "UTF-8");
 				String text = scanner.useDelimiter("\\Z").next();
 				scanner.close();
 				text = text.replaceAll("\r\n", "\n");
+
+				ReadKWAnnotations readKWAnnotations = new ReadKWAnnotations();
+				Map<String, KWAnnotation> kwAnnotationMap = readKWAnnotations.read(XmlfileName);
+				List<KWAnnotation> kwAnnotationList = new ArrayList<KWAnnotation>(kwAnnotationMap.values());
+				Collections.sort(kwAnnotationList);
+				ListIterator<KWAnnotation> it = kwAnnotationList.listIterator();
+				int aEnd = -1;
+				KWAnnotation kw = null;
 
 				Properties props = new Properties();
 				props.put("annotators", "tokenize, ssplit, pos, lemma, parse"); // ,ner,parse,dcoref
@@ -101,6 +119,8 @@ public class PrepareData {
 							continue;
 						}
 						int index = token.index()-1;
+						int start = token.beginPosition();
+						int end = token.endPosition();
 						String pos = token.get(PartOfSpeechAnnotation.class);
 						
 						String Stanfordlemma = token.get(LemmaAnnotation.class);
@@ -124,7 +144,16 @@ public class PrepareData {
 							}
 						}
 
+						while (aEnd < start && it.hasNext()) {
+							kw = it.next();
+							aEnd = kw.end;
+						}
+
 						String mentionClass = "O";
+						if (kw != null && kw.start <= start && kw.end >= end) {
+							mentionClass = kw.mentionClass;
+						}
+						mentionClass = mentionClass.replaceAll(" ", "_");
 						
 						String negex = "P";
 						if(nStart <= counter && counter <= nEnd){

@@ -14,10 +14,15 @@ public class SegmentCorpus {
 			if (!fileEntry.isDirectory()) {
 				String fileName = fileEntry.getName();
 				String filepath = fileEntry.getPath();
-				String XmlfileName = "files/annotation/" + fileName + ".knowtator.xml";
-				File Xmlfile = new File(XmlfileName);
-				if (!Xmlfile.exists()) {
-					System.out.println(XmlfileName + " not found! " + fileName + " is skipped.");
+//				String XmlfileName = "files/annotation/" + fileName + ".knowtator.xml";
+//				File Xmlfile = new File(XmlfileName);
+//				if (!Xmlfile.exists()) {
+//					System.out.println(XmlfileName + " not found! " + fileName + " is skipped.");
+//					continue;
+//				}
+				if(fileName.startsWith("."))
+				{
+					System.out.println(fileName + " is skipped.");
 					continue;
 				}
 				System.out.println("Working on " + fileName + "...");

@@ -164,7 +164,7 @@ public class MergeRankObservations {
 				}
 				observations.put(obsPhraseString, totalIdf);
 			}else{
-				System.out.println("Prease is empty between " + start + " " + end);
+				System.out.println("Phrase is empty between " + start + " " + end);
 			}
 		}
 	}
