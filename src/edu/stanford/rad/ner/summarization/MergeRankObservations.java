@@ -133,6 +133,8 @@ public class MergeRankObservations {
 				break;
 			}
 		}
+		
+		int count = 0;
 		if (obs) {
 			if (words.get(end).equals(".")) {
 				--end;
@@ -151,19 +153,23 @@ public class MergeRankObservations {
 					if (tags.get(j).equals("Observation") || tags.get(j).equals("Observation_Modifier"))
 					{
 						totalIdf += idf;
+						++count;
 					}
 				} else {
 					totalIdf += idf;
 				}
 			}
 			
+			if (!sub) {
+				totalIdf = totalIdf / (end - start + 1);
+			} else {
+				totalIdf = totalIdf / count;    // Normalization
+			}
+			
 			String obsPhraseString = obsPhrase.toString().trim();
 			if (!obsPhraseString.isEmpty()) {
-				if(!sub){
-					totalIdf = totalIdf / (end - start + 1);
-				}
 				observations.put(obsPhraseString, totalIdf);
-			}else{
+			} else {
 				System.out.println("Phrase is empty between " + start + " " + end);
 			}
 		}
