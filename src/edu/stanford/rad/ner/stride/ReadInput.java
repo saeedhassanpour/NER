@@ -19,7 +19,7 @@ public class ReadInput {
 		Map<Integer, LinkedHashSet<String>> patientICD9 = new HashMap<Integer,LinkedHashSet<String>>();
 		
 		
-		final File folder = new File("/Users/saeedhp/Dropbox/Stanford/Data/STRIDE/Reports1");
+		final File folder = new File("/Users/saeedhp/Dropbox/Stanford/Data/STRIDE/Reports");
 		
 		for (final File fileEntry : folder.listFiles()) {
 			if (!fileEntry.isDirectory() && !fileEntry.getName().startsWith(".")) {
@@ -31,9 +31,9 @@ public class ReadInput {
 				String text = scanner.useDelimiter("\\Z").next();
 				scanner.close();
 				
-//				int eCounter = 0;
+				int eCounter = 0;
 				String records[] = text.split("\n(?=\\d{9}\t)");
-				//System.out.println("Number of records: " + records.length);
+				System.out.println("Number of records: " + records.length);
 				
 				for (String record : records) {
 //					System.out.println(record);
@@ -41,11 +41,11 @@ public class ReadInput {
 					
 					String fields[] = record.split("\t\\s*");
 					
-//					if (fields.length < 6) {
-//						//System.out.println("Error in formatting. Size: " + fields.length + " Record: " + record);
-//						++eCounter;
-//						continue;
-//					}
+					if (fields.length < 6) {
+						//System.out.println("Error in formatting. Size: " + fields.length + " Record: " + record);
+						++eCounter;
+						continue;
+					}
 					
 					int patID = Integer.parseInt(fields[1]);
 					
@@ -87,7 +87,7 @@ public class ReadInput {
 					//System.out.println(fields[0] + "\t" + fields[5] + "\t");
 				}
 				
-//				System.out.println("Error Counter: " + eCounter);
+				System.out.println("Error Counter: " + eCounter);
 			}
 		}
 		
