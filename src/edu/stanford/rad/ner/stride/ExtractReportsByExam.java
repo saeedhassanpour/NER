@@ -11,7 +11,7 @@ import java.util.Random;
 import java.util.Scanner;
 import java.util.Set;
 
-public class ExtractReports {
+public class ExtractReportsByExam {
 
 	public static void main(String[] args) throws FileNotFoundException,IOException {
 		long startTime = System.currentTimeMillis();
