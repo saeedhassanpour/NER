@@ -37,9 +37,9 @@ public class KFoldCrossValidation {
 				+ "useTags = true \n"
 				+ "useLemmas = true \n"
 				+ "useClassFeature = true \n"
-				+ "useMarkFeature= true \n"
-				+ "useIdfFeature = true \n"
 				+ "usePcatFeature = true \n"
+				+ "useIdfFeature = true \n"
+				+ "useMarkFeature= true \n"
 				+ "\n"
 				
 //				+ "#useObservedSequencesOnly = true \n"
