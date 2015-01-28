@@ -1,4 +1,4 @@
-package edu.stanford.rad.ner.summarization;
+package edu.stanford.rad.ner.fullsummarization;
 
 import java.io.File;
 import java.io.FileOutputStream;
@@ -16,7 +16,7 @@ public class NERTagging {
 		String model = "files/model/modelCRF/ner_CRF_0.ser.gz";
 
 
-		final File Datafolder = new File("sum/partitionOutput");
+		final File Datafolder = new File("files/summarizatonInput");
 		for (final File fileEntry : Datafolder.listFiles()) {
 			if (!fileEntry.isDirectory() && !fileEntry.getName().startsWith(".")) {
 				String inputFileName = fileEntry.getName();
@@ -24,7 +24,7 @@ public class NERTagging {
 				System.setOut(defaultOut);
 				System.out.println("Working on " + inputFileName + "...");
 				
-				File outputFile = new File("sum/inputTags/tagged_" + inputFileName);  
+				File outputFile = new File("files/summarizatonTags/tagged_" + inputFileName);  
 				FileOutputStream fis = new FileOutputStream(outputFile.getPath());  
 				PrintStream out = new PrintStream(fis);  
 				System.setOut(out);
