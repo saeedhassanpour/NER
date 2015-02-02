@@ -13,7 +13,7 @@ import java.util.TreeMap;
 
 import edu.stanford.rad.ner.util.ValueComparatorComplex;
 
-public class ExtractReportsByICD9Code {
+public class ExtractPatternsByICD9 {
 
 	public static void main(String[] args) throws FileNotFoundException,IOException {
 		long startTime = System.currentTimeMillis();
@@ -49,7 +49,7 @@ public class ExtractReportsByICD9Code {
 						if (stringCode.matches("-?\\d+(\\.\\d+)?")) {
 							code = Double.parseDouble(stringCode);
 						}
-						if ((int)Math.floor(code) == 191) { //*************Code*********//
+						if ((int)Math.floor(code) == 633) { //*************Code*********//
 							//System.out.println(code);
 							OurDisease = true;
 							break;
@@ -103,7 +103,7 @@ public class ExtractReportsByICD9Code {
 
 		sortedPatterns.putAll(patterns);
 
-		PrintWriter pw = new PrintWriter("files/stride/191-Brain Cancer-Patterns.txt", "UTF-8");
+		PrintWriter pw = new PrintWriter("files/stride/633-Ectopic Pregnancy-Patterns.txt", "UTF-8");
 		pw.println("Patterns:" + patterns.keySet().size());
 		pw.println("Patients with our disease:" + patientProcedureDesc.keySet().size());
 		pw.println("Our disease records: " + ourDiseaseCounter);
