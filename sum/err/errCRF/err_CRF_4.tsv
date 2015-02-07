@@ -1,0 +1,142 @@
+fold 4 ...
+CRFClassifier invoked on Fri Feb 06 12:32:14 PST 2015 with arguments:
+   -prop sum/prop/propCRF/prop_CRF_4.prop
+gazette=files/gazette/Anatomy.txt,files/gazette/Modifier.txt,files/gazette/Observation.txt,files/gazette/Uncertainty.txt,files/gazette/Modality.txt
+dehyphenateNGrams=true
+useTypeSeqs3=true
+useClassFeature=true
+useTypeSeqs2=true
+testFile=sum/completePartitions/partition_4_Complete.tsv
+useSequences=true
+cleanGazette=true
+disjunctionWidth=5
+wordShape=digits
+useDisjShape=true
+lowercaseNGrams=true
+useDisjunctive=true
+trainFileList=sum/completePartitions/partition_0_Complete.tsv,sum/completePartitions/partition_1_Complete.tsv,sum/completePartitions/partition_2_Complete.tsv,sum/completePartitions/partition_3_Complete.tsv,sum/completePartitions/partition_5_Complete.tsv,sum/completePartitions/partition_6_Complete.tsv,sum/completePartitions/partition_7_Complete.tsv,sum/completePartitions/partition_8_Complete.tsv,sum/completePartitions/partition_9_Complete.tsv
+usePcatFeature=true
+noMidNGrams=true
+useTaggySequences=true
+serializeTo=sum/model/modelCRF/ner_CRF_4.ser.gz
+useIdfFeature=true
+useTags=true
+maxNGramLeng=5
+useNGrams=true
+usePrev=true
+useNext=true
+useLemmas=true
+useMarkFeature=true
+map=word=0,answer=1,tag=2,lemma=3,cat=4,pcat=5,idf=6,mark=7
+numFeatures = 53095
+setting nodeFeatureIndicesMap, size=50880
+setting edgeFeatureIndicesMap, size=429
+setting edgeFeatureIndicesMap, size=1786
+Time to convert docs to feature indices: 58.0 seconds
+numClasses: 3 [0=O,1=3_Yellow_Days,2=1_Red_Minutes]
+numDocuments: 9
+numDatums: 10533
+numFeatures: 53095
+Time to convert docs to data/labels: 49.3 seconds
+numWeights: 204723
+QNMinimizer called on double function of 204723 variables, using M = 25.
+               An explanation of the output:
+Iter           The number of iterations
+evals          The number of function evaluations
+SCALING        <D> Diagonal scaling was used; <I> Scaled Identity
+LINESEARCH     [## M steplength]  Minpack linesearch
+                   1-Function value was too high
+                   2-Value ok, gradient positive, positive curvature
+                   3-Value ok, gradient negative, positive curvature
+                   4-Value ok, gradient negative, negative curvature
+               [.. B]  Backtracking
+VALUE          The current function value
+TIME           Total elapsed time
+|GNORM|        The current norm of the gradient
+{RELNORM}      The ratio of the current to initial gradient norms
+AVEIMPROVE     The average improvement / current value
+EVALSCORE      The last available eval score
+
+Iter ## evals ## <SCALING> [LINESEARCH] VALUE TIME |GNORM| {RELNORM} AVEIMPROVE EVALSCORE
+
+Iter 1 evals 1 <D> [11M 3.140E-5] 5.258E4 0.53s |8.057E3| {7.758E-1} 0.000E0 - 
+Iter 2 evals 4 <D> [M 1.000E0] 4.750E4 0.65s |2.339E3| {2.253E-1} 5.347E-2 - 
+Iter 3 evals 5 <D> [M 1.000E0] 4.673E4 0.76s |2.116E3| {2.038E-1} 4.173E-2 - 
+Iter 4 evals 6 <D> [M 1.000E0] 4.318E4 0.87s |2.370E3| {2.283E-1} 5.441E-2 - 
+Iter 5 evals 7 <D> [M 1.000E0] 4.190E4 0.99s |2.363E3| {2.276E-1} 5.098E-2 - 
+Iter 6 evals 8 <D> [M 1.000E0] 4.076E4 1.11s |1.282E3| {1.234E-1} 4.835E-2 - 
+Iter 7 evals 9 <D> [M 1.000E0] 3.812E4 1.24s |1.734E3| {1.670E-1} 5.418E-2 - 
+Iter 8 evals 10 <D> [M 1.000E0] 3.629E4 1.36s |1.161E3| {1.118E-1} 5.613E-2 - 
+Iter 9 evals 11 <D> [M 1.000E0] 3.436E4 1.48s |8.069E2| {7.769E-2} 5.891E-2 - 
+Iter 10 evals 12 <D> [M 1.000E0] 3.156E4 1.60s |7.308E2| {7.037E-2} 6.663E-2 - 
+Iter 11 evals 13 <D> [M 1.000E0] 2.835E4 1.73s |3.883E2| {3.739E-2} 6.756E-2 - 
+Iter 12 evals 14 <D> [M 1.000E0] 2.420E4 1.85s |4.172E2| {4.017E-2} 9.307E-2 - 
+Iter 13 evals 15 <D> [M 1.000E0] 2.110E4 1.95s |4.784E2| {4.607E-2} 1.047E-1 - 
+Iter 14 evals 16 <D> [M 1.000E0] 1.955E4 2.05s |2.517E2| {2.424E-2} 1.144E-1 - 
+Iter 15 evals 17 <D> [M 1.000E0] 1.682E4 2.16s |3.655E2| {3.520E-2} 1.423E-1 - 
+Iter 16 evals 18 <D> [2M 4.890E-1] 1.356E4 2.38s |8.951E2| {8.619E-2} 1.812E-1 - 
+Iter 17 evals 20 <D> [M 1.000E0] 9.315E3 2.69s |9.319E2| {8.973E-2} 2.895E-1 - 
+Iter 18 evals 21 <D> [M 1.000E0] 7.244E3 2.80s |7.459E2| {7.183E-2} 3.744E-1 - 
+Iter 19 evals 22 <D> [M 1.000E0] 5.536E3 2.92s |2.949E2| {2.840E-2} 4.700E-1 - 
+Iter 20 evals 23 <D> [M 1.000E0] 4.676E3 3.05s |6.760E2| {6.510E-2} 5.063E-1 - 
+Iter 21 evals 24 <D> [M 1.000E0] 3.655E3 3.18s |2.382E2| {2.293E-2} 5.622E-1 - 
+Iter 22 evals 25 <D> [M 1.000E0] 2.999E3 3.30s |2.795E2| {2.692E-2} 6.035E-1 - 
+Iter 23 evals 26 <D> [M 1.000E0] 2.649E3 3.43s |5.247E2| {5.052E-2} 6.379E-1 - 
+Iter 24 evals 27 <D> [1M 3.309E-1] 2.424E3 3.66s |3.949E2| {3.803E-2} 5.939E-1 - 
+Iter 25 evals 29 <D> [M 1.000E0] 2.187E3 3.79s |9.885E1| {9.518E-3} 5.198E-1 - 
+Iter 26 evals 30 <D> [M 1.000E0] 2.017E3 3.92s |1.408E2| {1.355E-2} 3.618E-1 - 
+Iter 27 evals 31 <D> [M 1.000E0] 1.829E3 4.05s |2.136E2| {2.057E-2} 2.960E-1 - 
+Iter 28 evals 32 <D> [1M 2.606E-1] 1.731E3 4.29s |2.417E2| {2.328E-2} 2.199E-1 - 
+Iter 29 evals 34 <D> [M 1.000E0] 1.549E3 4.42s |1.518E2| {1.462E-2} 2.019E-1 - 
+Iter 30 evals 35 <D> [M 1.000E0] 1.445E3 4.54s |1.123E2| {1.081E-2} 1.530E-1 - 
+Iter 31 evals 36 <D> [M 1.000E0] 1.285E3 4.67s |1.317E2| {1.268E-2} 1.334E-1 - 
+Iter 32 evals 37 <D> [M 1.000E0] 1.160E3 4.80s |1.705E2| {1.642E-2} 1.283E-1 - 
+Iter 33 evals 38 <D> [M 1.000E0] 1.093E3 5.12s |2.068E2| {1.991E-2} 1.216E-1 - 
+Iter 34 evals 39 <D> [M 1.000E0] 1.003E3 5.26s |5.968E1| {5.746E-3} 1.181E-1 - 
+Iter 35 evals 40 <D> [M 1.000E0] 9.235E2 5.38s |1.078E2| {1.038E-2} 1.184E-1 - 
+Iter 36 evals 41 <D> [M 1.000E0] 8.306E2 5.51s |1.079E2| {1.039E-2} 1.203E-1 - 
+Iter 37 evals 42 <D> [M 1.000E0] 7.534E2 5.64s |7.341E1| {7.069E-3} 1.297E-1 - 
+Iter 38 evals 43 <D> [M 1.000E0] 6.903E2 5.77s |9.278E1| {8.934E-3} 1.243E-1 - 
+Iter 39 evals 44 <D> [M 1.000E0] 6.412E2 5.91s |6.307E1| {6.073E-3} 1.253E-1 - 
+Iter 40 evals 45 <D> [M 1.000E0] 6.165E2 6.03s |1.141E2| {1.098E-2} 1.084E-1 - 
+Iter 41 evals 46 <D> [M 1.000E0] 5.838E2 6.16s |4.110E1| {3.958E-3} 9.877E-2 - 
+Iter 42 evals 47 <D> [M 1.000E0] 5.618E2 6.29s |3.337E1| {3.213E-3} 9.464E-2 - 
+Iter 43 evals 48 <D> [M 1.000E0] 5.416E2 6.42s |5.724E1| {5.512E-3} 8.516E-2 - 
+Iter 44 evals 49 <D> [M 1.000E0] 5.263E2 6.54s |3.356E1| {3.231E-3} 7.549E-2 - 
+Iter 45 evals 50 <D> [M 1.000E0] 5.172E2 6.67s |4.823E1| {4.644E-3} 6.058E-2 - 
+Iter 46 evals 51 <D> [1M 2.255E-1] 5.125E2 6.92s |2.389E1| {2.300E-3} 4.701E-2 - 
+Iter 47 evals 53 <D> [M 1.000E0] 5.087E2 7.05s |2.084E1| {2.007E-3} 3.569E-2 - 
+Iter 48 evals 54 <D> [M 1.000E0] 5.035E2 7.18s |1.558E1| {1.500E-3} 2.734E-2 - 
+Iter 49 evals 55 <D> [M 1.000E0] 4.990E2 7.33s |1.424E1| {1.371E-3} 2.353E-2 - 
+Iter 50 evals 56 <D> [1M 3.798E-1] 4.973E2 7.76s |4.377E1| {4.215E-3} 1.738E-2 - 
+Iter 51 evals 58 <D> [M 1.000E0] 4.942E2 7.89s |2.029E1| {1.954E-3} 1.368E-2 - 
+Iter 52 evals 59 <D> [M 1.000E0] 4.925E2 8.03s |9.368E0| {9.020E-4} 9.969E-3 - 
+Iter 53 evals 60 <D> [M 1.000E0] 4.907E2 8.16s |9.596E0| {9.240E-4} 7.250E-3 - 
+Iter 54 evals 61 <D> [M 1.000E0] 4.896E2 8.30s |2.134E1| {2.054E-3} 5.656E-3 - 
+Iter 55 evals 62 <D> [M 1.000E0] 4.885E2 8.44s |1.354E1| {1.304E-3} 4.912E-3 - 
+Iter 56 evals 63 <D> [M 1.000E0] 4.878E2 8.57s |6.319E0| {6.085E-4} 4.299E-3 - 
+Iter 57 evals 64 <D> [M 1.000E0] 4.874E2 8.70s |1.322E1| {1.273E-3} 3.304E-3 - 
+Iter 58 evals 65 <D> [M 1.000E0] 4.868E2 8.84s |7.030E0| {6.769E-4} 2.507E-3 - 
+Iter 59 evals 66 <D> [M 1.000E0] 4.865E2 8.97s |6.792E0| {6.540E-4} 2.220E-3 - 
+Iter 60 evals 67 <D> [M 1.000E0] 4.863E2 9.10s |8.210E0| {7.906E-4} 1.629E-3 - 
+Iter 61 evals 68 <D> [M 1.000E0] 4.861E2 9.23s |4.001E0| {3.853E-4} 1.323E-3 - 
+Iter 62 evals 69 <D> [M 1.000E0] 4.859E2 9.36s |3.266E0| {3.145E-4} 9.839E-4 - 
+Iter 63 evals 70 <D> [M 1.000E0] 4.857E2 9.49s |3.462E0| {3.334E-4} 7.847E-4 - 
+Iter 64 evals 71 <D> [1M 4.257E-1] 4.857E2 9.75s |4.379E0| {4.217E-4} 5.861E-4 - 
+Iter 65 evals 73 <D> [M 1.000E0] 4.856E2 9.87s |2.737E0| {2.635E-4} 4.466E-4 - 
+Iter 66 evals 74 <D> [M 1.000E0] 4.855E2 10.01s |2.670E0| {2.572E-4} 3.905E-4 - 
+Iter 67 evals 75 <D> [1M 4.225E-1] 4.855E2 10.26s |4.355E0| {4.194E-4} 2.667E-4 - 
+Iter 68 evals 77 <D> [M 1.000E0] 4.855E2 10.38s |2.246E0| {2.163E-4} 2.174E-4 - 
+Iter 69 evals 78 <D> [M 1.000E0] 4.854E2 10.70s |1.909E0| {1.838E-4} 1.732E-4 - 
+Iter 70 evals 79 <D> [M 1.000E0] 4.854E2 10.84s |2.273E0| {2.188E-4} 1.367E-4 - 
+Iter 71 evals 80 <D> [M 1.000E0] 4.854E2 10.96s |2.745E0| {2.643E-4} 1.129E-4 - 
+Iter 72 evals 81 <D> [M 1.000E0] 4.853E2 11.10s
+QNMinimizer terminated due to average improvement: | newest_val - previous_val | / |newestVal| < TOL 
+Total time spent in optimization: 11.10s
+CRFClassifier training done [118.5 sec].
+Serializing classifier to sum/model/modelCRF/ner_CRF_4.ser.gz...done.
+CRFClassifier tagged 812 words in 1 documents at 312.55 words per second.
+         Entity	P	R	F1	TP	FP	FN
+  1_Red_Minutes	0.0000	0.0000	0.0000	0	2	4
+  3_Yellow_Days	0.0000	0.0000	0.0000	0	27	23
+         Totals	0.0000	0.0000	0.0000	0	29	27

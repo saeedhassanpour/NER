@@ -1,0 +1,30 @@
+map = word=0,answer=1,tag=2,lemma=3,cat=4,pcat=5,idf=6,mark=7  
+cleanGazette=true 
+#sloppyGazette = true 
+gazette = files/gazette/Anatomy.txt,files/gazette/Modifier.txt,files/gazette/Observation.txt,files/gazette/Uncertainty.txt,files/gazette/Modality.txt 
+
+useTags = true 
+useLemmas = true 
+useClassFeature = true 
+usePcatFeature = true 
+useIdfFeature = true 
+useMarkFeature= true 
+
+usePrev = true 
+useNext = true 
+useNGrams = true 
+noMidNGrams = true 
+maxNGramLeng = 5 
+lowercaseNGrams = true 
+dehyphenateNGrams = true 
+wordShape = digits  
+useSequences = true 
+useTaggySequences = true 
+useTypeSeqs2 = true 
+useTypeSeqs3 = true 
+useDisjunctive = true 
+disjunctionWidth = 5 
+useDisjShape = true 
+trainFileList = sum/completePartitions/partition_0_Complete.tsv,sum/completePartitions/partition_1_Complete.tsv,sum/completePartitions/partition_3_Complete.tsv,sum/completePartitions/partition_4_Complete.tsv,sum/completePartitions/partition_5_Complete.tsv,sum/completePartitions/partition_6_Complete.tsv,sum/completePartitions/partition_7_Complete.tsv,sum/completePartitions/partition_8_Complete.tsv,sum/completePartitions/partition_9_Complete.tsv
+testFile = sum/completePartitions/partition_2_Complete.tsv 
+serializeTo = sum/model/modelCRF/ner_CRF_2.ser.gz 

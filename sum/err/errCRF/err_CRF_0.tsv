@@ -1,0 +1,30 @@
+fold 0 ...
+CRFClassifier invoked on Fri Feb 06 12:57:46 PST 2015 with arguments:
+   -prop sum/prop/propCRF/prop_CRF_0.prop
+gazette=files/gazette/Anatomy.txt,files/gazette/Modifier.txt,files/gazette/Observation.txt,files/gazette/Uncertainty.txt,files/gazette/Modality.txt
+dehyphenateNGrams=true
+useTypeSeqs3=true
+useClassFeature=true
+useTypeSeqs2=true
+testFile=sum/completePartitions/partition_0_Complete.tsv
+useSequences=true
+cleanGazette=true
+disjunctionWidth=5
+wordShape=digits
+useDisjShape=true
+lowercaseNGrams=true
+useDisjunctive=true
+trainFileList=sum/completePartitions/partition_1_Complete.tsv,sum/completePartitions/partition_2_Complete.tsv,sum/completePartitions/partition_3_Complete.tsv,sum/completePartitions/partition_4_Complete.tsv,sum/completePartitions/partition_5_Complete.tsv,sum/completePartitions/partition_6_Complete.tsv,sum/completePartitions/partition_7_Complete.tsv,sum/completePartitions/partition_8_Complete.tsv,sum/completePartitions/partition_9_Complete.tsv
+usePcatFeature=true
+noMidNGrams=true
+useTaggySequences=true
+serializeTo=sum/model/modelCRF/ner_CRF_0.ser.gz
+useIdfFeature=true
+useTags=true
+maxNGramLeng=5
+useNGrams=true
+usePrev=true
+useNext=true
+useLemmas=true
+useMarkFeature=true
+map=word=0,answer=1,tag=2,lemma=3,cat=4,pcat=5,idf=6,mark=7

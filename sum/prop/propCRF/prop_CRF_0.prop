@@ -6,9 +6,9 @@ gazette = files/gazette/Anatomy.txt,files/gazette/Modifier.txt,files/gazette/Obs
 useTags = true 
 useLemmas = true 
 useClassFeature = true 
-useMarkFeature= true 
-useIdfFeature = true 
 usePcatFeature = true 
+useIdfFeature = true 
+useMarkFeature= true 
 
 usePrev = true 
 useNext = true 
