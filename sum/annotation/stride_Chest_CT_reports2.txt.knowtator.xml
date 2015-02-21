@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="stride_Chest_CT_reports2.txt">
+    <annotation>
+        <mention id="EHOST_Instance_3268" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="431" end="469" />
+        <spannedText>Moderate coronary artery calcification</spannedText>
+        <creationDate>Fri Feb 20 06:31:33 PST 2015</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3268">
+        <mentionClass id="3_Yellow_Days">Moderate coronary artery calcification</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3269" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="857" end="909" />
+        <spannedText>sclerotic focus in lateral aspect of right fifth rib</spannedText>
+        <creationDate>Fri Feb 20 06:31:48 PST 2015</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3269">
+        <mentionClass id="4_Green_Positive">sclerotic focus in lateral aspect of right fifth rib</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3270" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="998" end="1054" />
+        <spannedText>STABLE SCLEROTIC FOCUS INVOLVING RIGHT LATERAL FIFTH RIB</spannedText>
+        <creationDate>Fri Feb 20 06:32:03 PST 2015</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3270">
+        <mentionClass id="4_Green_Positive">STABLE SCLEROTIC FOCUS INVOLVING RIGHT LATERAL FIFTH RIB</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3271" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1367" end="1382" />
+        <spannedText>CYSTIC FIBROSIS</spannedText>
+        <creationDate>Fri Feb 20 06:32:14 PST 2015</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3271">
+        <mentionClass id="3_Yellow_Days">CYSTIC FIBROSIS</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3272" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="1763" end="1782" />
+        <spannedText>Mediport is present</spannedText>
+        <creationDate>Fri Feb 20 06:32:33 PST 2015</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3272">
+        <mentionClass id="4_Green_Positive">Mediport is present</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3273" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2599" end="2641" />
+        <spannedText>significant air trapping seen in all lobes</spannedText>
+        <creationDate>Fri Feb 20 06:32:55 PST 2015</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3273">
+        <mentionClass id="3_Yellow_Days">significant air trapping seen in all lobes</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3274" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2746" end="2803" />
+        <spannedText>small bilateral pleural effusions and pleural thickening</spannedText>
+        <creationDate>Fri Feb 20 06:33:11 PST 2015</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3274">
+        <mentionClass id="3_Yellow_Days">small bilateral pleural effusions and pleural thickening</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3275" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2984" end="3022" />
+        <spannedText>lipomatous hypertrophy of the pancreas</spannedText>
+        <creationDate>Fri Feb 20 06:33:23 PST 2015</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3275">
+        <mentionClass id="4_Green_Positive">lipomatous hypertrophy of the pancreas</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3276" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="3390" end="3426" />
+        <spannedText>cardiomyopathy on amiodarone therapy</spannedText>
+        <creationDate>Fri Feb 20 06:33:40 PST 2015</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3276">
+        <mentionClass id="3_Yellow_Days">cardiomyopathy on amiodarone therapy</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3277" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="3703" end="3729" />
+        <spannedText>heart is markedly enlarged</spannedText>
+        <creationDate>Fri Feb 20 06:33:51 PST 2015</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3277">
+        <mentionClass id="3_Yellow_Days">heart is markedly enlarged</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3278" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="3586" end="3601" />
+        <spannedText>dual lead pacer</spannedText>
+        <creationDate>Fri Feb 20 06:33:57 PST 2015</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3278">
+        <mentionClass id="4_Green_Positive">dual lead pacer</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3279" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="3852" end="3878" />
+        <spannedText>Mild left hilar adenopathy</spannedText>
+        <creationDate>Fri Feb 20 06:34:05 PST 2015</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3279">
+        <mentionClass id="3_Yellow_Days">Mild left hilar adenopathy</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3280" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="3731" end="3757" />
+        <spannedText>Enlarged mediastinal nodes</spannedText>
+        <creationDate>Fri Feb 20 06:34:10 PST 2015</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3280">
+        <mentionClass id="3_Yellow_Days">Enlarged mediastinal nodes</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3281" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="3896" end="3929" />
+        <spannedText>Small bilateral pleural effusions</spannedText>
+        <creationDate>Fri Feb 20 06:34:15 PST 2015</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3281">
+        <mentionClass id="3_Yellow_Days">Small bilateral pleural effusions</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3282" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="3967" end="4018" />
+        <spannedText>Two 3 cm peripheral pleural-based nodular opacities</spannedText>
+        <creationDate>Fri Feb 20 06:34:27 PST 2015</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3282">
+        <mentionClass id="3_Yellow_Days">Two 3 cm peripheral pleural-based nodular opacities</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3283" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="4067" end="4083" />
+        <spannedText>right lower lobe</spannedText>
+        <creationDate>Fri Feb 20 06:34:32 PST 2015</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3283">
+        <mentionClass id="3_Yellow_Days">right lower lobe</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3284" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="4129" end="4144" />
+        <spannedText>left lower lobe</spannedText>
+        <creationDate>Fri Feb 20 06:34:37 PST 2015</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3284">
+        <mentionClass id="3_Yellow_Days">left lower lobe</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3285" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="4162" end="4200" />
+        <spannedText>mild bilateral centrilobular emphysema</spannedText>
+        <creationDate>Fri Feb 20 06:34:43 PST 2015</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3285">
+        <mentionClass id="3_Yellow_Days">mild bilateral centrilobular emphysema</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3286" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="4226" end="4261" />
+        <spannedText>mild interlobular septal thickening</spannedText>
+        <creationDate>Fri Feb 20 06:34:50 PST 2015</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3286">
+        <mentionClass id="3_Yellow_Days">mild interlobular septal thickening</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3287" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="4411" end="4423" />
+        <spannedText>CARDIOMEGALY</spannedText>
+        <creationDate>Fri Feb 20 06:34:54 PST 2015</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3287">
+        <mentionClass id="3_Yellow_Days">CARDIOMEGALY</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3288" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="4428" end="4465" />
+        <spannedText>MEDIASTINAL AND LEFT HILAR ADENOPATHY</spannedText>
+        <creationDate>Fri Feb 20 06:34:59 PST 2015</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3288">
+        <mentionClass id="3_Yellow_Days">MEDIASTINAL AND LEFT HILAR ADENOPATHY</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3289" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="4515" end="4576" />
+        <spannedText>MILD INTERSTITIAL PULMONARY EDEMA AND CENTRILOBULAR EMPHYSEMA</spannedText>
+        <creationDate>Fri Feb 20 06:35:05 PST 2015</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3289">
+        <mentionClass id="3_Yellow_Days">MILD INTERSTITIAL PULMONARY EDEMA AND CENTRILOBULAR EMPHYSEMA</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3290" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="4581" end="4652" />
+        <spannedText>TWO LARGE PERIPHERAL PLEURAL-BASED NODULAR OPACITIES IN THE LOWER LOBES</spannedText>
+        <creationDate>Fri Feb 20 06:35:12 PST 2015</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3290">
+        <mentionClass id="3_Yellow_Days">TWO LARGE PERIPHERAL PLEURAL-BASED NODULAR OPACITIES IN THE LOWER LOBES</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3291" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="4718" end="4760" />
+        <spannedText>COMPARISON WITH PREVIOUS CHEST RADIOGRAPHS</spannedText>
+        <creationDate>Fri Feb 20 06:35:21 PST 2015</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3291">
+        <mentionClass id="3_Yellow_Days">COMPARISON WITH PREVIOUS CHEST RADIOGRAPHS</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3292" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="4854" end="4955" />
+        <spannedText>MAY BE SECONDARY TO PULMONARY INFARCTION FROM PULMONARY EMBOLISM. INFECTIOUS OR NEOPLASTIC ETIOLOGIES</spannedText>
+        <creationDate>Fri Feb 20 06:35:32 PST 2015</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3292">
+        <mentionClass id="3_Yellow_Days">MAY BE SECONDARY TO PULMONARY INFARCTION FROM PULMONARY EMBOLISM. INFECTIOUS OR NEOPLASTIC ETIOLOGIES</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+

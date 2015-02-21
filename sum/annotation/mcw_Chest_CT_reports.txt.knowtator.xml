@@ -1,2285 +1,1804 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <annotations textSource="mcw_Chest_CT_reports.txt">
     <annotation>
-        <mention id="EHOST_Instance_532" />
+        <mention id="EHOST_Instance_2868" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="117" end="144" />
         <spannedText>PULMONARY EMBOLISM PROTOCOL</spannedText>
         <creationDate>Thu Feb 05 09:19:11 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_532">
+    <classMention id="EHOST_Instance_2868">
         <mentionClass id="3_Yellow_Days">PULMONARY EMBOLISM PROTOCOL</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_533" />
+        <mention id="EHOST_Instance_2869" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="528" end="630" />
         <spannedText>NEW PATCHY AREAS OF CONSOLIDATION IN THE LEFT LOWER LOBE ARE SUSPICIOUS FOR ASPIRATION VS. ATELECTASIS</spannedText>
         <creationDate>Thu Feb 05 09:20:07 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_533">
+    <classMention id="EHOST_Instance_2869">
         <mentionClass id="2_Orange_Hours">NEW PATCHY AREAS OF CONSOLIDATION IN THE LEFT LOWER LOBE ARE SUSPICIOUS FOR ASPIRATION VS. ATELECTASIS</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_534" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="644" end="719" />
-        <spannedText>INCIDENTAL PNEUMATOCELE IN THE MEDIAL BASAL SEGMENT OF THE RIGHT LOWER LOBE</spannedText>
-        <creationDate>Thu Feb 05 09:21:00 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_534">
-        <mentionClass id="4_Green_Positive">INCIDENTAL PNEUMATOCELE IN THE MEDIAL BASAL SEGMENT OF THE RIGHT LOWER LOBE</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_535" />
+        <mention id="EHOST_Instance_2870" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="1195" end="1264" />
         <spannedText>NO OTHER FOCAL FILLING DEFECTS ARE SEEN TO SUGGEST PULMONARY EMBOLISM</spannedText>
         <creationDate>Thu Feb 05 09:22:55 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_535">
+    <classMention id="EHOST_Instance_2870">
         <mentionClass id="3_Yellow_Days">NO OTHER FOCAL FILLING DEFECTS ARE SEEN TO SUGGEST PULMONARY EMBOLISM</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_536" />
+        <mention id="EHOST_Instance_2871" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="846" end="961" />
         <spannedText>FOCAL FILLING DEFECT SEEN IN A SUBSEGMENTAL BRANCH OF THE SUPERIOR SEGMENT OF THE RIGHT LOWER LOBE PULMONARY ARTERY</spannedText>
         <creationDate>Thu Feb 05 09:24:06 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_536">
+    <classMention id="EHOST_Instance_2871">
         <mentionClass id="2_Orange_Hours">FOCAL FILLING DEFECT SEEN IN A SUBSEGMENTAL BRANCH OF THE SUPERIOR SEGMENT OF THE RIGHT LOWER LOBE PULMONARY ARTERY</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_537" />
+        <mention id="EHOST_Instance_2872" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="1802" end="1826" />
         <spannedText>NO EVIDENCE OF PE OR DVT</spannedText>
         <creationDate>Thu Feb 05 09:24:27 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_537">
+    <classMention id="EHOST_Instance_2872">
         <mentionClass id="3_Yellow_Days">NO EVIDENCE OF PE OR DVT</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_538" />
+        <mention id="EHOST_Instance_2873" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="1830" end="1934" />
         <spannedText>SMALL SUBSEGMENTAL PE CANNOT ENTIRELY BE EXCLUDED IN THE BASAL SEGMENTS OF THE LEFT LOWER LOBE SECONDARY</spannedText>
         <creationDate>Thu Feb 05 09:25:08 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_538">
+    <classMention id="EHOST_Instance_2873">
         <mentionClass id="3_Yellow_Days">SMALL SUBSEGMENTAL PE CANNOT ENTIRELY BE EXCLUDED IN THE BASAL SEGMENTS OF THE LEFT LOWER LOBE SECONDARY</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_539" />
+        <mention id="EHOST_Instance_2874" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="1985" end="2037" />
         <spannedText>PATCHY AREAS OF CONSOLIDATION IN THE LEFT LOWER LOBE</spannedText>
         <creationDate>Thu Feb 05 09:25:30 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_539">
+    <classMention id="EHOST_Instance_2874">
         <mentionClass id="2_Orange_Hours">PATCHY AREAS OF CONSOLIDATION IN THE LEFT LOWER LOBE</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_540" />
+        <mention id="EHOST_Instance_2875" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="2064" end="2093" />
         <spannedText>ASPIRATION VERSUS ATELECTASIS</spannedText>
         <creationDate>Thu Feb 05 09:25:35 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_540">
+    <classMention id="EHOST_Instance_2875">
         <mentionClass id="2_Orange_Hours">ASPIRATION VERSUS ATELECTASIS</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_541" />
+        <mention id="EHOST_Instance_2876" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="2098" end="2151" />
         <spannedText>STABLE PROMINENT INTRA AND EXTRAHEPATIC BILIARY DUCTS</spannedText>
         <creationDate>Thu Feb 05 09:25:49 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_541">
+    <classMention id="EHOST_Instance_2876">
         <mentionClass id="4_Green_Positive">STABLE PROMINENT INTRA AND EXTRAHEPATIC BILIARY DUCTS</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_542" />
+        <mention id="EHOST_Instance_2877" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="2533" end="2559" />
         <spannedText>PULMONARY EMBOLUS PROTOCOL</spannedText>
         <creationDate>Thu Feb 05 09:26:11 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_542">
+    <classMention id="EHOST_Instance_2877">
         <mentionClass id="3_Yellow_Days">PULMONARY EMBOLUS PROTOCOL</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_543" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="2640" end="2800" />
-        <spannedText>NEW POST SURGICAL CHANGES ARE PRESENT IN THE LEFT HEMITHORAX INCLUDING A NEW LEFT THORACOTOMY, NEW LEFT RIB FRACTURE, AND NEW SUBCUTANEOUS AND PLEURAL-BASED AIR</spannedText>
-        <creationDate>Thu Feb 05 09:28:25 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_543">
-        <mentionClass id="3_Yellow_Days">NEW POST SURGICAL CHANGES ARE PRESENT IN THE LEFT HEMITHORAX INCLUDING A NEW LEFT THORACOTOMY, NEW LEFT RIB FRACTURE, AND NEW SUBCUTANEOUS AND PLEURAL-BASED AIR</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_544" />
+        <mention id="EHOST_Instance_2878" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="2822" end="2838" />
         <spannedText>LEFT HYDROTHORAX</spannedText>
         <creationDate>Thu Feb 05 09:27:23 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_544">
+    <classMention id="EHOST_Instance_2878">
         <mentionClass id="3_Yellow_Days">LEFT HYDROTHORAX</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_545" />
+        <mention id="EHOST_Instance_2879" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="2899" end="2914" />
         <spannedText>SOMEWHAT LARGER</spannedText>
         <creationDate>Thu Feb 05 09:27:53 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_545">
+    <classMention id="EHOST_Instance_2879">
         <mentionClass id="3_Yellow_Days">SOMEWHAT LARGER</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_546" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="3014" end="3062" />
-        <spannedText>LEFT LOWER LOBE ATELECTASIS IS INCREASED IN SIZE</spannedText>
-        <creationDate>Thu Feb 05 09:28:08 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_546">
-        <mentionClass id="4_Green_Positive">LEFT LOWER LOBE ATELECTASIS IS INCREASED IN SIZE</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_547" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="3064" end="3152" />
-        <spannedText>SOFT TISSUE PROMINENCE, SURGICAL SUTURE, AND CHANGES ASSOCIATED WITH A RIGHT THORACOTOMY</spannedText>
-        <creationDate>Thu Feb 05 09:28:41 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_547">
-        <mentionClass id="4_Green_Positive">SOFT TISSUE PROMINENCE, SURGICAL SUTURE, AND CHANGES ASSOCIATED WITH A RIGHT THORACOTOMY</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_548" />
+        <mention id="EHOST_Instance_2880" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="3255" end="3279" />
         <spannedText>BILATERAL BRONCHIECTASIS</spannedText>
         <creationDate>Thu Feb 05 09:28:52 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_548">
+    <classMention id="EHOST_Instance_2880">
         <mentionClass id="4_Green_Positive">BILATERAL BRONCHIECTASIS</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_549" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="3294" end="3340" />
-        <spannedText>PULMONARY NODULES IN THE RIGHT LUNG ARE STABLE</spannedText>
-        <creationDate>Thu Feb 05 09:29:02 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_549">
-        <mentionClass id="3_Yellow_Days">PULMONARY NODULES IN THE RIGHT LUNG ARE STABLE</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_550" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="3342" end="3408" />
-        <spannedText>NUMEROUS CALCIFIED MEDIASTINAL AND HILAR LYMPH NODES ARE UNCHANGED</spannedText>
-        <creationDate>Thu Feb 05 09:29:07 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_550">
-        <mentionClass id="4_Green_Positive">NUMEROUS CALCIFIED MEDIASTINAL AND HILAR LYMPH NODES ARE UNCHANGED</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_551" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="3518" end="3560" />
-        <spannedText>CORONARY ARTERIAL CALCIFICATIONS ARE NOTED</spannedText>
-        <creationDate>Thu Feb 05 09:29:22 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_551">
-        <mentionClass id="3_Yellow_Days">CORONARY ARTERIAL CALCIFICATIONS ARE NOTED</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_552" />
+        <mention id="EHOST_Instance_2881" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="3566" end="3638" />
         <spannedText>LIVER HAS A NODULAR APPEARANCE AND CONTAINS MULTIPLE CALCIFIED GRANULOMA</spannedText>
         <creationDate>Thu Feb 05 09:30:58 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_552">
+    <classMention id="EHOST_Instance_2881">
         <mentionClass id="4_Green_Positive">LIVER HAS A NODULAR APPEARANCE AND CONTAINS MULTIPLE CALCIFIED GRANULOMA</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_553" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="3686" end="3737" />
-        <spannedText>SEVERAL SURGICAL CLIPS ARE NOTED IN THE DEEP PELVIS</spannedText>
-        <creationDate>Thu Feb 05 09:32:11 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_553">
-        <mentionClass id="4_Green_Positive">SEVERAL SURGICAL CLIPS ARE NOTED IN THE DEEP PELVIS</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_554" />
+        <mention id="EHOST_Instance_2882" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="3783" end="3880" />
         <spannedText>INCREASED SIZE OF MULTI-LOCULATED FLUID COLLECTIONS IN THE LEFT CHEST WALL AND LEFT PLEURAL SPACE</spannedText>
         <creationDate>Thu Feb 05 09:33:36 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_554">
+    <classMention id="EHOST_Instance_2882">
         <mentionClass id="2_Orange_Hours">INCREASED SIZE OF MULTI-LOCULATED FLUID COLLECTIONS IN THE LEFT CHEST WALL AND LEFT PLEURAL SPACE</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_555" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="3885" end="4004" />
-        <spannedText>STABLE PULMONARY PARENCHYMAL ABNORMALITIES AND CALCIFIED NODES IN THE HILUM AND MEDIASTINUM CONSISTENT WITH SARCOIDOSIS</spannedText>
-        <creationDate>Thu Feb 05 09:33:46 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_555">
-        <mentionClass id="3_Yellow_Days">STABLE PULMONARY PARENCHYMAL ABNORMALITIES AND CALCIFIED NODES IN THE HILUM AND MEDIASTINUM CONSISTENT WITH SARCOIDOSIS</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_556" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="4009" end="4053" />
-        <spannedText>POSTOPERATIVE CHANGES IN THE LEFT CHEST WALL</spannedText>
-        <creationDate>Thu Feb 05 09:33:55 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_556">
-        <mentionClass id="4_Green_Positive">POSTOPERATIVE CHANGES IN THE LEFT CHEST WALL</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_557" />
+        <mention id="EHOST_Instance_2883" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="4058" end="4103" />
         <spannedText>STABLE NODULAR LIVER WITH CALCIFIED GRANULOMA</spannedText>
         <creationDate>Thu Feb 05 09:34:13 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_557">
+    <classMention id="EHOST_Instance_2883">
         <mentionClass id="4_Green_Positive">STABLE NODULAR LIVER WITH CALCIFIED GRANULOMA</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_558" />
+        <mention id="EHOST_Instance_2884" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="4752" end="4784" />
         <spannedText>HEART REMAINS DIFFUSELY ENLARGED</spannedText>
         <creationDate>Thu Feb 05 09:35:20 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_558">
+    <classMention id="EHOST_Instance_2884">
         <mentionClass id="3_Yellow_Days">HEART REMAINS DIFFUSELY ENLARGED</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_559" />
+        <mention id="EHOST_Instance_2885" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="4873" end="4920" />
         <spannedText>DIFFUSE CORONARY ARTERY CALCIFIED ATHEROMATOSIS</spannedText>
         <creationDate>Thu Feb 05 09:35:32 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_559">
+    <classMention id="EHOST_Instance_2885">
         <mentionClass id="3_Yellow_Days">DIFFUSE CORONARY ARTERY CALCIFIED ATHEROMATOSIS</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_560" />
+        <mention id="EHOST_Instance_2886" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="5040" end="5066" />
         <spannedText>TRACHEOSTOMY TUBE IN PLACE</spannedText>
         <creationDate>Thu Feb 05 09:35:43 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_560">
+    <classMention id="EHOST_Instance_2886">
         <mentionClass id="4_Green_Positive">TRACHEOSTOMY TUBE IN PLACE</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_561" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="5072" end="5166" />
-        <spannedText>PROMINENCE OF THE RIGHT HILAR STRUCTURES DUE TO PROMINENT PULMONARY ARTERIAL AND VENOUS SYSTEM</spannedText>
-        <creationDate>Thu Feb 05 09:50:59 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_561">
-        <mentionClass id="2_Orange_Hours">PROMINENCE OF THE RIGHT HILAR STRUCTURES DUE TO PROMINENT PULMONARY ARTERIAL AND VENOUS SYSTEM</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_562" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="5168" end="5284" />
-        <spannedText>POST ANASTOMOTIC DILATATION OF THE PULMONARY ARTERY SUGGESTS SOME DEGREE OF STENOSIS AT THE LEVEL OF THE ANASTOMOSIS</spannedText>
-        <creationDate>Thu Feb 05 09:51:04 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_562">
-        <mentionClass id="2_Orange_Hours">POST ANASTOMOTIC DILATATION OF THE PULMONARY ARTERY SUGGESTS SOME DEGREE OF STENOSIS AT THE LEVEL OF THE ANASTOMOSIS</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_563" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="5383" end="5426" />
-        <spannedText>A PERSISTENT MODERATE LEFT PLEURAL EFFUSION</spannedText>
-        <creationDate>Thu Feb 05 09:36:53 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_563">
-        <mentionClass id="2_Orange_Hours">A PERSISTENT MODERATE LEFT PLEURAL EFFUSION</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_564" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="5428" end="5455" />
-        <spannedText>LEFT LOWER LOBE ATELECTASIS</spannedText>
-        <creationDate>Thu Feb 05 09:36:59 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_564">
-        <mentionClass id="3_Yellow_Days">LEFT LOWER LOBE ATELECTASIS</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_565" />
+        <mention id="EHOST_Instance_2887" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="5460" end="5490" />
         <spannedText>MARKED CENTRILOBULAR EMPHYSEMA</spannedText>
-        <creationDate>Thu Feb 05 09:37:07 PST 2015</creationDate>
+        <creationDate>Thu Feb 19 22:14:18 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_565">
-        <mentionClass id="2_Orange_Hours">MARKED CENTRILOBULAR EMPHYSEMA</mentionClass>
+    <classMention id="EHOST_Instance_2887">
+        <mentionClass id="3_Yellow_Days">MARKED CENTRILOBULAR EMPHYSEMA</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_566" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="5532" end="5586" />
-        <spannedText>PERSISTENT PARTIAL ATELECTASIS OF THE RIGHT LOWER LOBE</spannedText>
-        <creationDate>Thu Feb 05 09:46:13 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_566">
-        <mentionClass id="3_Yellow_Days">PERSISTENT PARTIAL ATELECTASIS OF THE RIGHT LOWER LOBE</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_567" />
+        <mention id="EHOST_Instance_2888" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="5592" end="5649" />
         <spannedText>PERSISTENT GROUND GLASS OPACITIES IN THE UPPER RIGHT LUNG</spannedText>
         <creationDate>Thu Feb 05 09:46:20 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_567">
+    <classMention id="EHOST_Instance_2888">
         <mentionClass id="3_Yellow_Days">PERSISTENT GROUND GLASS OPACITIES IN THE UPPER RIGHT LUNG</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_568" />
+        <mention id="EHOST_Instance_2889" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="5666" end="5725" />
         <spannedText>DECREASE IN THE AMOUNT OF ASCITES IN THE PERIHEPATIC REGION</spannedText>
         <creationDate>Thu Feb 05 09:46:30 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_568">
+    <classMention id="EHOST_Instance_2889">
         <mentionClass id="3_Yellow_Days">DECREASE IN THE AMOUNT OF ASCITES IN THE PERIHEPATIC REGION</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_569" />
+        <mention id="EHOST_Instance_2890" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="5739" end="5775" />
         <spannedText>ACUTE DVT IN THE COMMON FEMORAL VEIN</spannedText>
         <creationDate>Thu Feb 05 09:46:56 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_569">
+    <classMention id="EHOST_Instance_2890">
         <mentionClass id="2_Orange_Hours">ACUTE DVT IN THE COMMON FEMORAL VEIN</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_570" />
+        <mention id="EHOST_Instance_2891" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="5804" end="5841" />
         <spannedText>SUPERFICIAL FEMORAL VEIN ON THE RIGHT</spannedText>
         <creationDate>Thu Feb 05 09:47:15 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_570">
+    <classMention id="EHOST_Instance_2891">
         <mentionClass id="2_Orange_Hours">SUPERFICIAL FEMORAL VEIN ON THE RIGHT</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_571" />
+        <mention id="EHOST_Instance_2892" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="5863" end="5896" />
         <spannedText>PROFUNDA FEMORAL VEIN ON THE LEFT</spannedText>
         <creationDate>Thu Feb 05 09:47:24 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_571">
+    <classMention id="EHOST_Instance_2892">
         <mentionClass id="2_Orange_Hours">PROFUNDA FEMORAL VEIN ON THE LEFT</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_572" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="5906" end="5942" />
-        <spannedText>MILD SUBCUTANEOUS EDEMA OF BOTH LEGS</spannedText>
-        <creationDate>Thu Feb 05 09:47:38 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_572">
-        <mentionClass id="3_Yellow_Days">MILD SUBCUTANEOUS EDEMA OF BOTH LEGS</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_573" />
+        <mention id="EHOST_Instance_2893" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="5953" end="5981" />
         <spannedText>UNCHANGED DIFFUSE OSTEOPENIA</spannedText>
         <creationDate>Thu Feb 05 09:47:48 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_573">
+    <classMention id="EHOST_Instance_2893">
         <mentionClass id="4_Green_Positive">UNCHANGED DIFFUSE OSTEOPENIA</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_574" />
+        <mention id="EHOST_Instance_2894" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="5983" end="6044" />
         <spannedText>CHANGES POST-RIGHT THORACOTOMY AND MULTIPLE OLD RIB FRACTURES</spannedText>
         <creationDate>Thu Feb 05 09:48:05 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_574">
+    <classMention id="EHOST_Instance_2894">
         <mentionClass id="4_Green_Positive">CHANGES POST-RIGHT THORACOTOMY AND MULTIPLE OLD RIB FRACTURES</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_575" />
+        <mention id="EHOST_Instance_2895" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="6149" end="6242" />
         <spannedText>ACUTE DEEP VENOUS THROMBOSIS INVOLVING THE RIGHT COMMON/SUPERFICIAL FEMORAL VEIN ON THE RIGHT</spannedText>
         <creationDate>Thu Feb 05 09:48:20 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_575">
+    <classMention id="EHOST_Instance_2895">
         <mentionClass id="1_Red_Minutes">ACUTE DEEP VENOUS THROMBOSIS INVOLVING THE RIGHT COMMON/SUPERFICIAL FEMORAL VEIN ON THE RIGHT</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_576" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="6247" end="6280" />
-        <span start="6285" end="6386" />
-        <spannedText>PROFUNDA FEMORAL VEIN ON THE LEFT ... PROMINENT RIGHT HILUM SECONDARY TO PROMINENCE OF THE VASCULAR STRUCTURES INCLUDING ARTERIES AND VEINS</spannedText>
-        <creationDate>Thu Feb 05 09:50:33 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_576">
-        <mentionClass id="1_Red_Minutes">PROFUNDA FEMORAL VEIN ON THE LEFT ... PROMINENT RIGHT HILUM SECONDARY TO PROMINENCE OF THE VASCULAR STRUCTURES INCLUDING ARTERIES AND VEINS</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_577" />
+        <mention id="EHOST_Instance_2896" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="6392" end="6469" />
         <spannedText>POSSIBILITY OF MILD STENOSIS AT THE ANASTOMOSIS OF THE RIGHT PULMONARY ARTERY</spannedText>
         <creationDate>Thu Feb 05 09:49:21 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_577">
+    <classMention id="EHOST_Instance_2896">
         <mentionClass id="2_Orange_Hours">POSSIBILITY OF MILD STENOSIS AT THE ANASTOMOSIS OF THE RIGHT PULMONARY ARTERY</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_578" />
+        <mention id="EHOST_Instance_2897" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="6484" end="6529" />
         <spannedText>PERSISTENT DIFFUSE HAZINESS OF THE RIGHT LUNG</spannedText>
         <creationDate>Thu Feb 05 09:49:35 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_578">
+    <classMention id="EHOST_Instance_2897">
         <mentionClass id="3_Yellow_Days">PERSISTENT DIFFUSE HAZINESS OF THE RIGHT LUNG</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_579" />
+        <mention id="EHOST_Instance_2898" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="6557" end="6576" />
         <spannedText>CHRONIC ATELECTASIS</spannedText>
         <creationDate>Thu Feb 05 09:49:40 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_579">
+    <classMention id="EHOST_Instance_2898">
         <mentionClass id="3_Yellow_Days">CHRONIC ATELECTASIS</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_580" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="6592" end="6621" />
-        <spannedText>BIBASILAR PARTIAL ATELECTASIS</spannedText>
-        <creationDate>Thu Feb 05 09:49:49 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_580">
-        <mentionClass id="3_Yellow_Days">BIBASILAR PARTIAL ATELECTASIS</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_581" />
+        <mention id="EHOST_Instance_2899" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="6665" end="6732" />
         <spannedText>LEFT PLEURAL EFFUSION, ATELECTASIS AND EMPHYSEMA IN THE NATIVE LUNG</spannedText>
         <creationDate>Thu Feb 05 09:50:06 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_581">
+    <classMention id="EHOST_Instance_2899">
         <mentionClass id="3_Yellow_Days">LEFT PLEURAL EFFUSION, ATELECTASIS AND EMPHYSEMA IN THE NATIVE LUNG</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_582" />
+        <mention id="EHOST_Instance_2900" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="6737" end="6754" />
         <spannedText>DECREASED ASCITES</spannedText>
         <creationDate>Thu Feb 05 09:50:20 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_582">
+    <classMention id="EHOST_Instance_2900">
         <mentionClass id="3_Yellow_Days">DECREASED ASCITES</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_583" />
+        <mention id="EHOST_Instance_2901" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="7350" end="7383" />
         <spannedText>MILD STRANDING IN THE MEDIASTINUM</spannedText>
         <creationDate>Thu Feb 05 09:51:37 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_583">
+    <classMention id="EHOST_Instance_2901">
         <mentionClass id="3_Yellow_Days">MILD STRANDING IN THE MEDIASTINUM</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_584" />
+        <mention id="EHOST_Instance_2902" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="7389" end="7410" />
         <spannedText>CARDIAC SIZE IS LARGE</spannedText>
         <creationDate>Thu Feb 05 09:51:44 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_584">
+    <classMention id="EHOST_Instance_2902">
         <mentionClass id="3_Yellow_Days">CARDIAC SIZE IS LARGE</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_585" />
+        <mention id="EHOST_Instance_2903" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="7412" end="7460" />
         <spannedText>DIFFUSE PULMONARY INTERLOBULAR SEPTAL THICKENING</spannedText>
         <creationDate>Thu Feb 05 09:51:50 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_585">
+    <classMention id="EHOST_Instance_2903">
         <mentionClass id="3_Yellow_Days">DIFFUSE PULMONARY INTERLOBULAR SEPTAL THICKENING</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_586" />
+        <mention id="EHOST_Instance_2904" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="7486" end="7503" />
         <spannedText>BRONCHIAL CUFFING</spannedText>
         <creationDate>Thu Feb 05 09:51:57 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_586">
+    <classMention id="EHOST_Instance_2904">
         <mentionClass id="3_Yellow_Days">BRONCHIAL CUFFING</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_587" />
+        <mention id="EHOST_Instance_2905" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="7514" end="7547" />
         <spannedText>MILD DIFFUSE GROUND-GLASS OPACITY</spannedText>
         <creationDate>Thu Feb 05 09:52:02 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_587">
+    <classMention id="EHOST_Instance_2905">
         <mentionClass id="3_Yellow_Days">MILD DIFFUSE GROUND-GLASS OPACITY</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_588" />
+        <mention id="EHOST_Instance_2906" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="7553" end="7584" />
         <spannedText>PULMONARY VESSELS ARE CONGESTED</spannedText>
         <creationDate>Thu Feb 05 09:52:44 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_588">
+    <classMention id="EHOST_Instance_2906">
         <mentionClass id="2_Orange_Hours">PULMONARY VESSELS ARE CONGESTED</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_589" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="7623" end="7660" />
-        <spannedText>BILATERAL SMALL PLEURAL EFFUSIONS ARE</spannedText>
-        <creationDate>Thu Feb 05 09:52:22 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_589">
-        <mentionClass id="3_Yellow_Days">BILATERAL SMALL PLEURAL EFFUSIONS ARE</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_590" />
+        <mention id="EHOST_Instance_2907" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="7776" end="7817" />
         <spannedText>CALCIFIED GRANULOMA IS SEEN IN THE SPLEEN</spannedText>
         <creationDate>Thu Feb 05 09:52:26 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_590">
+    <classMention id="EHOST_Instance_2907">
         <mentionClass id="4_Green_Positive">CALCIFIED GRANULOMA IS SEEN IN THE SPLEEN</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_591" />
+        <mention id="EHOST_Instance_2908" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="7968" end="7980" />
         <spannedText>CARDIOMEGALY</spannedText>
         <creationDate>Thu Feb 05 09:56:39 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_591">
+    <classMention id="EHOST_Instance_2908">
         <mentionClass id="3_Yellow_Days">CARDIOMEGALY</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_592" />
+        <mention id="EHOST_Instance_2909" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="7985" end="8013" />
         <spannedText>INTERSTITIAL PULMONARY EDEMA</spannedText>
         <creationDate>Thu Feb 05 09:56:43 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_592">
+    <classMention id="EHOST_Instance_2909">
         <mentionClass id="2_Orange_Hours">INTERSTITIAL PULMONARY EDEMA</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_593" />
+        <mention id="EHOST_Instance_2910" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="8710" end="8732" />
         <spannedText>PULMONARY HYPERTENSION</spannedText>
         <creationDate>Thu Feb 05 14:32:28 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_593">
+    <classMention id="EHOST_Instance_2910">
         <mentionClass id="3_Yellow_Days">PULMONARY HYPERTENSION</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_594" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="8743" end="8852" />
-        <spannedText>DIFFUSE MARKED CARDIOMEGALY WITH HYPERTROPHY OF THE LEFT VENTRICLE AND MARKED ENLARGEMENT OF THE RIGHT ATRIUM</spannedText>
-        <creationDate>Thu Feb 05 14:32:48 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_594">
-        <mentionClass id="2_Orange_Hours">DIFFUSE MARKED CARDIOMEGALY WITH HYPERTROPHY OF THE LEFT VENTRICLE AND MARKED ENLARGEMENT OF THE RIGHT ATRIUM</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_595" />
+        <mention id="EHOST_Instance_2911" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="8921" end="8947" />
         <spannedText>SMALL PERICARDIAL EFFUSION</spannedText>
         <creationDate>Thu Feb 05 14:33:02 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_595">
+    <classMention id="EHOST_Instance_2911">
         <mentionClass id="3_Yellow_Days">SMALL PERICARDIAL EFFUSION</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_596" />
+        <mention id="EHOST_Instance_2912" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="8958" end="8990" />
         <spannedText>EDEMA THROUGHOUT THE MEDIASTINUM</spannedText>
         <creationDate>Thu Feb 05 14:33:15 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_596">
+    <classMention id="EHOST_Instance_2912">
         <mentionClass id="3_Yellow_Days">EDEMA THROUGHOUT THE MEDIASTINUM</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_597" />
+        <mention id="EHOST_Instance_2913" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="9012" end="9055" />
         <spannedText>ADENOPATHY IN BOTH PULMONARY HILA IS STABLE</spannedText>
         <creationDate>Thu Feb 05 14:33:26 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_597">
+    <classMention id="EHOST_Instance_2913">
         <mentionClass id="3_Yellow_Days">ADENOPATHY IN BOTH PULMONARY HILA IS STABLE</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_598" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="9061" end="9118" />
-        <spannedText>LARGEST NODES IN THE RIGHT HILUM MEASURE UP TO 29 X 24 MM</spannedText>
-        <creationDate>Thu Feb 05 14:33:39 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_598">
-        <mentionClass id="3_Yellow_Days">LARGEST NODES IN THE RIGHT HILUM MEASURE UP TO 29 X 24 MM</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_599" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="9130" end="9156" />
-        <spannedText>LEFT SIDE UP TO 19 X 16 MM</spannedText>
-        <creationDate>Thu Feb 05 14:33:43 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_599">
-        <mentionClass id="3_Yellow_Days">LEFT SIDE UP TO 19 X 16 MM</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_600" />
+        <mention id="EHOST_Instance_2914" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="9167" end="9234" />
         <spannedText>SIGNIFICANT AMOUNT OF SECRETIONS WITHIN THE LEFT MAIN STEM BRONCHUS</spannedText>
         <creationDate>Thu Feb 05 14:33:50 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_600">
+    <classMention id="EHOST_Instance_2914">
         <mentionClass id="2_Orange_Hours">SIGNIFICANT AMOUNT OF SECRETIONS WITHIN THE LEFT MAIN STEM BRONCHUS</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_601" />
+        <mention id="EHOST_Instance_2915" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="9239" end="9305" />
         <spannedText>ENDOTRACHEAL TUBE IS SEEN IN THE PROXIMAL RIGHT MAIN STEM BRONCHUS</spannedText>
         <creationDate>Thu Feb 05 14:34:02 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_601">
+    <classMention id="EHOST_Instance_2915">
         <mentionClass id="1_Red_Minutes">ENDOTRACHEAL TUBE IS SEEN IN THE PROXIMAL RIGHT MAIN STEM BRONCHUS</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_602" />
+        <mention id="EHOST_Instance_2916" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="9311" end="9330" />
         <spannedText>NG TUBE IS IN PLACE</spannedText>
         <creationDate>Thu Feb 05 14:34:17 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_602">
+    <classMention id="EHOST_Instance_2916">
         <mentionClass id="4_Green_Positive">NG TUBE IS IN PLACE</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_603" />
+        <mention id="EHOST_Instance_2917" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="9363" end="9396" />
         <spannedText>SEVERE ______PANLOBULAR EMPHYSEMA</spannedText>
         <creationDate>Thu Feb 05 14:34:28 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_603">
+    <classMention id="EHOST_Instance_2917">
         <mentionClass id="3_Yellow_Days">SEVERE ______PANLOBULAR EMPHYSEMA</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_604" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="9417" end="9427" />
-        <spannedText>BOTH LUNGS</spannedText>
-        <creationDate>Thu Feb 05 14:34:31 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_604">
-        <mentionClass id="3_Yellow_Days">BOTH LUNGS</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_605" />
+        <mention id="EHOST_Instance_2918" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="9444" end="9496" />
         <spannedText>PERSISTENT DIFFUSE AREAS OF MOSAIC PERFUSION, STABLE</spannedText>
         <creationDate>Thu Feb 05 14:34:41 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_605">
+    <classMention id="EHOST_Instance_2918">
         <mentionClass id="3_Yellow_Days">PERSISTENT DIFFUSE AREAS OF MOSAIC PERFUSION, STABLE</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_606" />
+        <mention id="EHOST_Instance_2919" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="9619" end="9638" />
         <spannedText>MILD BRONCHIECTASIS</spannedText>
         <creationDate>Thu Feb 05 14:35:11 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_606">
+    <classMention id="EHOST_Instance_2919">
         <mentionClass id="3_Yellow_Days">MILD BRONCHIECTASIS</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_607" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="9652" end="9673" />
-        <spannedText>THROUGHOUT BOTH LUNGS</spannedText>
-        <creationDate>Thu Feb 05 14:35:17 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_607">
-        <mentionClass id="3_Yellow_Days">THROUGHOUT BOTH LUNGS</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_608" />
+        <mention id="EHOST_Instance_2920" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="9738" end="9757" />
         <spannedText>PERIBRONCHIAL EDEMA</spannedText>
         <creationDate>Thu Feb 05 14:35:45 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_608">
+    <classMention id="EHOST_Instance_2920">
         <mentionClass id="3_Yellow_Days">PERIBRONCHIAL EDEMA</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_609" />
+        <mention id="EHOST_Instance_2921" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="9675" end="9679" />
         <spannedText>SOME</spannedText>
         <creationDate>Thu Feb 05 14:35:48 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_609">
+    <classMention id="EHOST_Instance_2921">
         <mentionClass id="3_Yellow_Days">SOME</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_610" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="9770" end="9860" />
-        <spannedText>PERSISTENT NODULAR SCAR IN THE MEDIAL ASPECT OF THE LEFT LUNG WITH A CENTRAL CALCIFICATION</spannedText>
-        <creationDate>Thu Feb 05 14:36:02 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_610">
-        <mentionClass id="4_Green_Positive">PERSISTENT NODULAR SCAR IN THE MEDIAL ASPECT OF THE LEFT LUNG WITH A CENTRAL CALCIFICATION</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_611" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="9970" end="9990" />
-        <spannedText>8 X 6 MM IN DIAMETER</spannedText>
-        <creationDate>Thu Feb 05 14:36:20 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_611">
-        <mentionClass id="2_Orange_Hours">8 X 6 MM IN DIAMETER</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_612" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="9873" end="9940" />
-        <spannedText>NEW NODULAR DENSITY IN THE POSTERIOR ASPECT OF THE RIGHT UPPER LOBE</spannedText>
-        <creationDate>Thu Feb 05 14:36:31 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_612">
-        <mentionClass id="2_Orange_Hours">NEW NODULAR DENSITY IN THE POSTERIOR ASPECT OF THE RIGHT UPPER LOBE</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_613" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="10132" end="10172" />
-        <spannedText>SEVERAL OTHER TINY SUBCENTIMETER NODULES</spannedText>
-        <creationDate>Thu Feb 05 14:36:53 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_613">
-        <mentionClass id="3_Yellow_Days">SEVERAL OTHER TINY SUBCENTIMETER NODULES</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_614" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="10186" end="10211" />
-        <spannedText>STABLE IN SIZE AND NUMBER</spannedText>
-        <creationDate>Thu Feb 05 14:37:01 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_614">
-        <mentionClass id="3_Yellow_Days">STABLE IN SIZE AND NUMBER</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_615" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="9992" end="9999" />
-        <spannedText>SEVERAL</spannedText>
-        <creationDate>Thu Feb 05 14:37:36 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_615">
-        <mentionClass id="3_Yellow_Days">SEVERAL</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_616" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="10006" end="10019" />
-        <spannedText>NODULAR SCARS</spannedText>
-        <creationDate>Thu Feb 05 14:37:40 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_616">
-        <mentionClass id="3_Yellow_Days">NODULAR SCARS</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_617" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="10036" end="10052" />
-        <spannedText>RIGHT LOWER LOBE</spannedText>
-        <creationDate>Thu Feb 05 14:37:43 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_617">
-        <mentionClass id="3_Yellow_Days">RIGHT LOWER LOBE</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_618" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="10067" end="10070" />
-        <spannedText>AND</spannedText>
-        <creationDate>Thu Feb 05 14:37:52 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_618">
-        <mentionClass id="3_Yellow_Days">AND</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_619" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="10078" end="10118" />
-        <spannedText>SUPERIOR SEGMENT FOR THE LEFT LOWER LOBE</spannedText>
-        <creationDate>Thu Feb 05 14:37:56 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_619">
-        <mentionClass id="3_Yellow_Days">SUPERIOR SEGMENT FOR THE LEFT LOWER LOBE</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_620" />
+        <mention id="EHOST_Instance_2922" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="10254" end="10286" />
         <spannedText>DIFFUSE ASCITES AS A NEW FINDING</spannedText>
         <creationDate>Thu Feb 05 14:38:08 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_620">
+    <classMention id="EHOST_Instance_2922">
         <mentionClass id="2_Orange_Hours">DIFFUSE ASCITES AS A NEW FINDING</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_621" />
+        <mention id="EHOST_Instance_2923" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="10292" end="10314" />
         <spannedText>LIVER IS HETEROGENEOUS</spannedText>
         <creationDate>Thu Feb 05 14:38:26 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_621">
+    <classMention id="EHOST_Instance_2923">
         <mentionClass id="3_Yellow_Days">LIVER IS HETEROGENEOUS</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_622" />
+        <mention id="EHOST_Instance_2924" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="10403" end="10409" />
         <spannedText>UTERUS</spannedText>
         <creationDate>Thu Feb 05 14:38:42 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_622">
+    <classMention id="EHOST_Instance_2924">
         <mentionClass id="4_Green_Positive">UTERUS</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_623" />
+        <mention id="EHOST_Instance_2925" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="10418" end="10429" />
         <spannedText>FIBROMATOUS</spannedText>
         <creationDate>Thu Feb 05 14:38:46 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_623">
+    <classMention id="EHOST_Instance_2925">
         <mentionClass id="4_Green_Positive">FIBROMATOUS</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_624" />
+        <mention id="EHOST_Instance_2926" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="10462" end="10503" />
         <spannedText>SIGNIFICANT AMOUNT OF FLUID IN THE PELVIS</spannedText>
         <creationDate>Thu Feb 05 14:38:59 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_624">
+    <classMention id="EHOST_Instance_2926">
         <mentionClass id="2_Orange_Hours">SIGNIFICANT AMOUNT OF FLUID IN THE PELVIS</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_625" />
+        <mention id="EHOST_Instance_2927" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="10507" end="10523" />
         <spannedText>BLADDER CATHETER</spannedText>
         <creationDate>Thu Feb 05 14:39:05 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_625">
+    <classMention id="EHOST_Instance_2927">
         <mentionClass id="4_Green_Positive">BLADDER CATHETER</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_626" />
+        <mention id="EHOST_Instance_2928" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="10532" end="10540" />
         <spannedText>IN PLACE</spannedText>
         <creationDate>Thu Feb 05 14:39:10 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_626">
+    <classMention id="EHOST_Instance_2928">
         <mentionClass id="4_Green_Positive">IN PLACE</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_627" />
+        <mention id="EHOST_Instance_2929" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="10595" end="10633" />
         <spannedText>DIFFUSE EDEMA OF THE LOWER EXTREMITIES</spannedText>
         <creationDate>Thu Feb 05 14:39:19 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_627">
+    <classMention id="EHOST_Instance_2929">
         <mentionClass id="3_Yellow_Days">DIFFUSE EDEMA OF THE LOWER EXTREMITIES</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_628" />
+        <mention id="EHOST_Instance_2930" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="10727" end="10747" />
         <spannedText>DIFFUSE CARDIOMEGALY</spannedText>
         <creationDate>Thu Feb 05 14:39:31 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_628">
+    <classMention id="EHOST_Instance_2930">
         <mentionClass id="2_Orange_Hours">DIFFUSE CARDIOMEGALY</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_629" />
+        <mention id="EHOST_Instance_2931" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="10749" end="10780" />
         <spannedText>SIGNS OF PULMONARY HYPERTENSION</spannedText>
         <creationDate>Thu Feb 05 14:39:44 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_629">
+    <classMention id="EHOST_Instance_2931">
         <mentionClass id="3_Yellow_Days">SIGNS OF PULMONARY HYPERTENSION</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_630" />
+        <mention id="EHOST_Instance_2932" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="10785" end="10818" />
         <spannedText>STABLE BILATERAL HILAR ADENOPATHY</spannedText>
         <creationDate>Thu Feb 05 14:39:52 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_630">
+    <classMention id="EHOST_Instance_2932">
         <mentionClass id="3_Yellow_Days">STABLE BILATERAL HILAR ADENOPATHY</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_631" />
+        <mention id="EHOST_Instance_2933" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="10824" end="10846" />
         <spannedText>POSSIBILITY OF SARCOID</spannedText>
         <creationDate>Thu Feb 05 14:39:58 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_631">
+    <classMention id="EHOST_Instance_2933">
         <mentionClass id="3_Yellow_Days">POSSIBILITY OF SARCOID</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_632" />
+        <mention id="EHOST_Instance_2934" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="10858" end="10881" />
         <spannedText>UNCHANGED COPD FINDINGS</spannedText>
         <creationDate>Thu Feb 05 14:40:06 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_632">
+    <classMention id="EHOST_Instance_2934">
         <mentionClass id="3_Yellow_Days">UNCHANGED COPD FINDINGS</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_633" />
+        <mention id="EHOST_Instance_2935" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="10944" end="10965" />
         <spannedText>SMALL AIRWAYS DISEASE</spannedText>
         <creationDate>Thu Feb 05 14:40:18 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_633">
+    <classMention id="EHOST_Instance_2935">
         <mentionClass id="3_Yellow_Days">SMALL AIRWAYS DISEASE</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_634" />
+        <mention id="EHOST_Instance_2936" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="10970" end="11021" />
         <spannedText>BILATERAL SMALL PULMONARY NODULES AND NODULAR SCARS</spannedText>
         <creationDate>Thu Feb 05 14:40:28 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_634">
+    <classMention id="EHOST_Instance_2936">
         <mentionClass id="3_Yellow_Days">BILATERAL SMALL PULMONARY NODULES AND NODULAR SCARS</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_635" />
+        <mention id="EHOST_Instance_2937" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="11036" end="11087" />
         <spannedText>NODULAR SCAR DESCRIBING THE RIGHT UPPER LOBE IS NEW</spannedText>
         <creationDate>Thu Feb 05 14:40:43 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_635">
+    <classMention id="EHOST_Instance_2937">
         <mentionClass id="2_Orange_Hours">NODULAR SCAR DESCRIBING THE RIGHT UPPER LOBE IS NEW</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_636" />
+        <mention id="EHOST_Instance_2938" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="11091" end="11138" />
         <spannedText>FOLLOW-UP IN THREE TO SIX MONTHS IS RECOMMENDED</spannedText>
         <creationDate>Thu Feb 05 14:40:51 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_636">
+    <classMention id="EHOST_Instance_2938">
         <mentionClass id="2_Orange_Hours">FOLLOW-UP IN THREE TO SIX MONTHS IS RECOMMENDED</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_637" />
+        <mention id="EHOST_Instance_2939" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="11143" end="11182" />
         <spannedText>ET TUBE IN THE RIGHT MAIN STEM BRONCHUS</spannedText>
         <creationDate>Thu Feb 05 14:40:55 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_637">
+    <classMention id="EHOST_Instance_2939">
         <mentionClass id="1_Red_Minutes">ET TUBE IN THE RIGHT MAIN STEM BRONCHUS</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_638" />
+        <mention id="EHOST_Instance_2940" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="11187" end="11203" />
         <spannedText>NG TUBE IN PLACE</spannedText>
         <creationDate>Thu Feb 05 14:41:02 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_638">
+    <classMention id="EHOST_Instance_2940">
         <mentionClass id="4_Green_Positive">NG TUBE IN PLACE</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_639" />
+        <mention id="EHOST_Instance_2941" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="11208" end="11219" />
         <spannedText>NEW ASCITES</spannedText>
         <creationDate>Thu Feb 05 14:41:09 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_639">
+    <classMention id="EHOST_Instance_2941">
         <mentionClass id="2_Orange_Hours">NEW ASCITES</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_640" />
+        <mention id="EHOST_Instance_2942" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="11224" end="11254" />
         <spannedText>GENERALIZED SUBCUTANEOUS EDEMA</spannedText>
         <creationDate>Thu Feb 05 14:41:35 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_640">
+    <classMention id="EHOST_Instance_2942">
         <mentionClass id="3_Yellow_Days">GENERALIZED SUBCUTANEOUS EDEMA</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_641" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="11260" end="11332" />
-        <spannedText>FINDINGS WERE DISCUSSED WITH THE PHYSICIAN IN CHARGE AT 6:00 PM ON 05/03</spannedText>
-        <creationDate>Thu Feb 05 14:41:49 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_641">
-        <mentionClass id="3_Yellow_Days">FINDINGS WERE DISCUSSED WITH THE PHYSICIAN IN CHARGE AT 6:00 PM ON 05/03</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_642" />
+        <mention id="EHOST_Instance_2943" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="11781" end="11839" />
         <spannedText>SUBOPTIMAL OPACIFICATION OF PULMONARY ARTERIAL VASCULATURE</spannedText>
         <creationDate>Thu Feb 05 14:42:54 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_642">
+    <classMention id="EHOST_Instance_2943">
         <mentionClass id="2_Orange_Hours">SUBOPTIMAL OPACIFICATION OF PULMONARY ARTERIAL VASCULATURE</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_643" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="11924" end="12003" />
-        <spannedText>DISTAL PULMONARY ARTERIES ARE ENLARGED MOST CONSISTENT WITH VASCULAR CONGESTION</spannedText>
-        <creationDate>Thu Feb 05 14:45:15 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_643">
-        <mentionClass id="3_Yellow_Days">DISTAL PULMONARY ARTERIES ARE ENLARGED MOST CONSISTENT WITH VASCULAR CONGESTION</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_644" />
+        <mention id="EHOST_Instance_2944" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="12005" end="12035" />
         <spannedText>DIFFUSE GROUND-GLASS OPACITIES</spannedText>
         <creationDate>Thu Feb 05 14:45:28 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_644">
+    <classMention id="EHOST_Instance_2944">
         <mentionClass id="3_Yellow_Days">DIFFUSE GROUND-GLASS OPACITIES</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_645" />
+        <mention id="EHOST_Instance_2945" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="12046" end="12131" />
         <spannedText>THROUGHOUT THE UPPER, MIDDLE, AND LOWER LOBES MOST CONSISTENT WITH INTERSTITIAL EDEMA</spannedText>
         <creationDate>Thu Feb 05 14:45:33 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_645">
+    <classMention id="EHOST_Instance_2945">
         <mentionClass id="3_Yellow_Days">THROUGHOUT THE UPPER, MIDDLE, AND LOWER LOBES MOST CONSISTENT WITH INTERSTITIAL EDEMA</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_646" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="12133" end="12165" />
-        <spannedText>BILATERAL LOWER LOBE ATELECTASIS</spannedText>
-        <creationDate>Thu Feb 05 14:45:46 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_646">
-        <mentionClass id="4_Green_Positive">BILATERAL LOWER LOBE ATELECTASIS</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_647" />
+        <mention id="EHOST_Instance_2946" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="12182" end="12197" />
         <spannedText>SMALL EFFUSIONS</spannedText>
         <creationDate>Thu Feb 05 14:45:56 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_647">
+    <classMention id="EHOST_Instance_2946">
         <mentionClass id="3_Yellow_Days">SMALL EFFUSIONS</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_648" />
+        <mention id="EHOST_Instance_2947" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="12287" end="12305" />
         <spannedText>HEART IS ENLARGED.</spannedText>
         <creationDate>Thu Feb 05 14:46:07 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_648">
+    <classMention id="EHOST_Instance_2947">
         <mentionClass id="3_Yellow_Days">HEART IS ENLARGED.</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_649" />
+        <mention id="EHOST_Instance_2948" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="12306" end="12371" />
         <spannedText>CALCIFIC ATHEROSCLEROTIC VASCULAR DISEASE OF THE CORONARY VESSELS</spannedText>
         <creationDate>Thu Feb 05 14:46:17 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_649">
+    <classMention id="EHOST_Instance_2948">
         <mentionClass id="3_Yellow_Days">CALCIFIC ATHEROSCLEROTIC VASCULAR DISEASE OF THE CORONARY VESSELS</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_650" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="12572" end="12679" />
-        <spannedText>SURGICAL CLIPS ARE NOTED THROUGHOUT THE LOWER ABDOMEN AND PELVIS CONSISTENT WITH CYSTOPROSTATECTOMY CHANGES</spannedText>
-        <creationDate>Thu Feb 05 14:46:39 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_650">
-        <mentionClass id="4_Green_Positive">SURGICAL CLIPS ARE NOTED THROUGHOUT THE LOWER ABDOMEN AND PELVIS CONSISTENT WITH CYSTOPROSTATECTOMY CHANGES</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_651" />
+        <mention id="EHOST_Instance_2949" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="12891" end="12994" />
         <spannedText>SOMEWHAT SUBOPTIMAL EXAMINATION WITH NO EVIDENCE OF PULMONARY THROMBOEMBOLISM OR DEEP VENOUS THROMBOSIS</spannedText>
         <creationDate>Thu Feb 05 14:46:58 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_651">
+    <classMention id="EHOST_Instance_2949">
         <mentionClass id="2_Orange_Hours">SOMEWHAT SUBOPTIMAL EXAMINATION WITH NO EVIDENCE OF PULMONARY THROMBOEMBOLISM OR DEEP VENOUS THROMBOSIS</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_652" />
+        <mention id="EHOST_Instance_2950" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="12999" end="13040" />
         <spannedText>CARDIOMEGALY WITH MILD CONGESTIVE FAILURE</spannedText>
         <creationDate>Thu Feb 05 14:47:09 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_652">
+    <classMention id="EHOST_Instance_2950">
         <mentionClass id="3_Yellow_Days">CARDIOMEGALY WITH MILD CONGESTIVE FAILURE</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_653" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="13045" end="13077" />
-        <spannedText>BILATERAL LOWER LOBE ATELECTASIS</spannedText>
-        <creationDate>Thu Feb 05 14:47:30 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_653">
-        <mentionClass id="4_Green_Positive">BILATERAL LOWER LOBE ATELECTASIS</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_654" />
+        <mention id="EHOST_Instance_2951" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="13082" end="13109" />
         <spannedText>BILATERAL PLEURAL EFFUSIONS</spannedText>
         <creationDate>Thu Feb 05 14:47:34 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_654">
+    <classMention id="EHOST_Instance_2951">
         <mentionClass id="3_Yellow_Days">BILATERAL PLEURAL EFFUSIONS</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_655" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="13114" end="13159" />
-        <spannedText>POSTOPERATIVE CHANGES FROM CYSTOPROSTATECTOMY</spannedText>
-        <creationDate>Thu Feb 05 14:47:43 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_655">
-        <mentionClass id="4_Green_Positive">POSTOPERATIVE CHANGES FROM CYSTOPROSTATECTOMY</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_656" />
+        <mention id="EHOST_Instance_2952" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="13164" end="13231" />
         <spannedText>CALCIFIED ATHEROSCLEROTIC VASCULAR DISEASE OF THE CORONARY ARTERIES</spannedText>
         <creationDate>Thu Feb 05 14:47:49 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_656">
+    <classMention id="EHOST_Instance_2952">
         <mentionClass id="3_Yellow_Days">CALCIFIED ATHEROSCLEROTIC VASCULAR DISEASE OF THE CORONARY ARTERIES</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_657" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="12731" end="12823" />
-        <spannedText>SIGNIFICANT OSTEOPHYTE FORMATION AND DEGENERATIVE CHANGES THROUGHOUT THE THORACOLUMBAR SPINE</spannedText>
-        <creationDate>Thu Feb 05 14:48:00 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_657">
-        <mentionClass id="3_Yellow_Days">SIGNIFICANT OSTEOPHYTE FORMATION AND DEGENERATIVE CHANGES THROUGHOUT THE THORACOLUMBAR SPINE</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_658" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="13236" end="13290" />
-        <spannedText>SEVERE DEGENERATIVE CHANGES OF THE THORACOLUMBAR SPINE</spannedText>
-        <creationDate>Thu Feb 05 14:48:05 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_658">
-        <mentionClass id="3_Yellow_Days">SEVERE DEGENERATIVE CHANGES OF THE THORACOLUMBAR SPINE</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_659" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="13797" end="13916" />
-        <spannedText>ANTERIOR SEGMENT RIGHT UPPER LOBE MASS IS IDENTIFIED AT THE JUNCTION OF THE SUPERIOR VENA CAVA AND LEFT INNOMINATE VEIN</spannedText>
-        <creationDate>Thu Feb 05 14:48:50 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_659">
-        <mentionClass id="2_Orange_Hours">ANTERIOR SEGMENT RIGHT UPPER LOBE MASS IS IDENTIFIED AT THE JUNCTION OF THE SUPERIOR VENA CAVA AND LEFT INNOMINATE VEIN</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_660" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="13918" end="13945" />
-        <spannedText>IT MEASURES 3.6 CM X 2.2 CM</spannedText>
-        <creationDate>Thu Feb 05 14:48:59 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_660">
-        <mentionClass id="2_Orange_Hours">IT MEASURES 3.6 CM X 2.2 CM</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_661" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="13992" end="14026" />
-        <spannedText>THIS MASS MEASURED 3.9 MM X 2.6 MM</spannedText>
-        <creationDate>Thu Feb 05 14:49:27 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_661">
-        <mentionClass id="2_Orange_Hours">THIS MASS MEASURED 3.9 MM X 2.6 MM</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_662" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="14040" end="14057" />
-        <spannedText>ON THE PRIOR EXAM</spannedText>
-        <creationDate>Thu Feb 05 14:49:35 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_662">
-        <mentionClass id="2_Orange_Hours">ON THE PRIOR EXAM</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_663" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="14068" end="14147" />
-        <spannedText>LARGE CENTRAL HYPOATTENUATING COMPONENT SUGGESTING NECROSIS WHICH HAS INCREASED</spannedText>
-        <creationDate>Thu Feb 05 14:49:47 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_663">
-        <mentionClass id="2_Orange_Hours">LARGE CENTRAL HYPOATTENUATING COMPONENT SUGGESTING NECROSIS WHICH HAS INCREASED</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_664" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="14197" end="14219" />
-        <spannedText>PERIPHERAL ENHANCEMENT</spannedText>
-        <creationDate>Thu Feb 05 14:49:59 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_664">
-        <mentionClass id="2_Orange_Hours">PERIPHERAL ENHANCEMENT</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_665" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="14239" end="14291" />
-        <spannedText>MINIMAL ATELECTASIS OF THE ANTERIOR RIGHT UPPER LOBE</spannedText>
-        <creationDate>Thu Feb 05 14:51:52 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_665">
-        <mentionClass id="3_Yellow_Days">MINIMAL ATELECTASIS OF THE ANTERIOR RIGHT UPPER LOBE</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_666" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="14361" end="14406" />
-        <spannedText>MOTION ARTIFACT, ESPECIALLY AT THE LUNG BASES</spannedText>
-        <creationDate>Thu Feb 05 14:52:11 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_666">
-        <mentionClass id="4_Green_Positive">MOTION ARTIFACT, ESPECIALLY AT THE LUNG BASES</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_667" />
+        <mention id="EHOST_Instance_2953" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="14487" end="14509" />
         <spannedText>BILATERAL MASTECTOMIES</spannedText>
         <creationDate>Thu Feb 05 14:52:20 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_667">
+    <classMention id="EHOST_Instance_2953">
         <mentionClass id="4_Green_Positive">BILATERAL MASTECTOMIES</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_668" />
+        <mention id="EHOST_Instance_2954" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="14566" end="14628" />
         <spannedText>SUBTLE AREAS OF LOW ATTENUATION WITHIN THE RIGHT THYROID GLAND</spannedText>
-        <creationDate>Thu Feb 05 14:52:34 PST 2015</creationDate>
+        <creationDate>Thu Feb 19 22:30:43 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_668">
-        <mentionClass id="3_Yellow_Days">SUBTLE AREAS OF LOW ATTENUATION WITHIN THE RIGHT THYROID GLAND</mentionClass>
+    <classMention id="EHOST_Instance_2954">
+        <mentionClass id="4_Green_Positive">SUBTLE AREAS OF LOW ATTENUATION WITHIN THE RIGHT THYROID GLAND</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_669" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="14719" end="14790" />
-        <spannedText>A PLEURAL- BASED LINEAR AREA OF THICKENING MEASURING APPROXIMATELY 5 MM</spannedText>
-        <creationDate>Thu Feb 05 14:52:46 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_669">
-        <mentionClass id="3_Yellow_Days">A PLEURAL- BASED LINEAR AREA OF THICKENING MEASURING APPROXIMATELY 5 MM</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_670" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="14806" end="14815" />
-        <spannedText>LEFT APEX</spannedText>
-        <creationDate>Thu Feb 05 14:52:51 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_670">
-        <mentionClass id="3_Yellow_Days">LEFT APEX</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_671" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="14921" end="14972" />
-        <spannedText>2.3 CM X 1.7 CM LOW-ATTENUATION LESION IN SEGMENT 2</spannedText>
-        <creationDate>Thu Feb 05 14:53:07 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_671">
-        <mentionClass id="3_Yellow_Days">2.3 CM X 1.7 CM LOW-ATTENUATION LESION IN SEGMENT 2</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_672" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="15025" end="15068" />
-        <spannedText>DEMONSTRATES NO SIGNIFICANT INTERVAL CHANGE</spannedText>
-        <creationDate>Thu Feb 05 14:53:15 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_672">
-        <mentionClass id="3_Yellow_Days">DEMONSTRATES NO SIGNIFICANT INTERVAL CHANGE</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_673" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="14894" end="14899" />
-        <spannedText>LIVER</spannedText>
-        <creationDate>Thu Feb 05 14:53:17 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_673">
-        <mentionClass id="3_Yellow_Days">LIVER</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_674" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="15091" end="15170" />
-        <spannedText>LOW-ATTENUATION IN SEGMENT 3 OF THE LIVER MEASURING APPROXIMATELY 15 MM IN SIZE</spannedText>
-        <creationDate>Thu Feb 05 14:53:34 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_674">
-        <mentionClass id="3_Yellow_Days">LOW-ATTENUATION IN SEGMENT 3 OF THE LIVER MEASURING APPROXIMATELY 15 MM IN SIZE</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_675" />
+        <mention id="EHOST_Instance_2955" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="15223" end="15274" />
         <spannedText>BOTH THESE LESIONS ARE PRESUMED TO BE HEPATIC CYSTS</spannedText>
         <creationDate>Thu Feb 05 14:53:43 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_675">
+    <classMention id="EHOST_Instance_2955">
         <mentionClass id="3_Yellow_Days">BOTH THESE LESIONS ARE PRESUMED TO BE HEPATIC CYSTS</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_676" />
+        <mention id="EHOST_Instance_2956" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="15278" end="15372" />
         <spannedText>SMALLER LOW-ATTENUATION LESION IS IDENTIFIED NEAR THE DOME, WHICH IS TOO SMALL TO CHARACTERIZE</spannedText>
         <creationDate>Thu Feb 05 14:54:06 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_676">
+    <classMention id="EHOST_Instance_2956">
         <mentionClass id="3_Yellow_Days">SMALLER LOW-ATTENUATION LESION IS IDENTIFIED NEAR THE DOME, WHICH IS TOO SMALL TO CHARACTERIZE</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_677" />
+        <mention id="EHOST_Instance_2957" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="15441" end="15463" />
         <spannedText>NO NEW HEPATIC LESIONS</spannedText>
         <creationDate>Thu Feb 05 14:54:16 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_677">
+    <classMention id="EHOST_Instance_2957">
         <mentionClass id="3_Yellow_Days">NO NEW HEPATIC LESIONS</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_678" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="15485" end="15491" />
-        <spannedText>SPLEEN</spannedText>
-        <creationDate>Thu Feb 05 14:54:23 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_678">
-        <mentionClass id="3_Yellow_Days">SPLEEN</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_679" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="15504" end="15534" />
-        <spannedText>SUBTLE AREA OF LOW-ATTENUATION</spannedText>
-        <creationDate>Thu Feb 05 14:54:29 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_679">
-        <mentionClass id="3_Yellow_Days">SUBTLE AREA OF LOW-ATTENUATION</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_680" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="15613" end="15654" />
-        <spannedText>MOST LIKELY REPRESENTS A SMALL HEMANGIOMA</spannedText>
-        <creationDate>Thu Feb 05 14:54:37 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_680">
-        <mentionClass id="3_Yellow_Days">MOST LIKELY REPRESENTS A SMALL HEMANGIOMA</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_681" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="15659" end="15688" />
-        <spannedText>MEASURES APPROXIMATELY 2.7 MM</spannedText>
-        <creationDate>Thu Feb 05 14:54:46 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_681">
-        <mentionClass id="3_Yellow_Days">MEASURES APPROXIMATELY 2.7 MM</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_682" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="15809" end="15847" />
-        <spannedText>EXTRARENAL PELVIS IS SEEN ON THE RIGHT</spannedText>
-        <creationDate>Thu Feb 05 14:55:01 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_682">
-        <mentionClass id="4_Green_Positive">EXTRARENAL PELVIS IS SEEN ON THE RIGHT</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_683" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="15874" end="15901" />
-        <spannedText>RETROAORTIC LEFT RENAL VEIN</spannedText>
-        <creationDate>Thu Feb 05 14:55:04 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_683">
-        <mentionClass id="4_Green_Positive">RETROAORTIC LEFT RENAL VEIN</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_684" />
+        <mention id="EHOST_Instance_2958" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="15970" end="15987" />
         <spannedText>POST HYSTERECTOMY</spannedText>
         <creationDate>Thu Feb 05 14:55:16 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_684">
+    <classMention id="EHOST_Instance_2958">
         <mentionClass id="4_Green_Positive">POST HYSTERECTOMY</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_685" />
+        <mention id="EHOST_Instance_2959" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="15989" end="16042" />
         <spannedText>SMALL AMOUNT OF FREE FLUID IS NOTED WITHIN THE PELVIS</spannedText>
         <creationDate>Thu Feb 05 14:55:28 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_685">
+    <classMention id="EHOST_Instance_2959">
         <mentionClass id="3_Yellow_Days">SMALL AMOUNT OF FREE FLUID IS NOTED WITHIN THE PELVIS</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_686" />
+        <mention id="EHOST_Instance_2960" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="16044" end="16055" />
         <spannedText>THIS IS NEW</spannedText>
         <creationDate>Thu Feb 05 14:55:42 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_686">
+    <classMention id="EHOST_Instance_2960">
         <mentionClass id="3_Yellow_Days">THIS IS NEW</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_687" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="16352" end="16429" />
-        <spannedText>SLIGHT INTERVAL DECREASE IN SIZE IN AN ANTERIOR SEGMENT RIGHT UPPER LOBE MASS</spannedText>
-        <creationDate>Thu Feb 05 14:56:01 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_687">
-        <mentionClass id="2_Orange_Hours">SLIGHT INTERVAL DECREASE IN SIZE IN AN ANTERIOR SEGMENT RIGHT UPPER LOBE MASS</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_688" />
+        <mention id="EHOST_Instance_2961" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="16518" end="16558" />
         <spannedText>INTERVAL DEVELOPMENT OF CENTRAL NECROSIS</spannedText>
         <creationDate>Thu Feb 05 14:56:13 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_688">
+    <classMention id="EHOST_Instance_2961">
         <mentionClass id="2_Orange_Hours">INTERVAL DEVELOPMENT OF CENTRAL NECROSIS</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_689" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="16569" end="16604" />
-        <spannedText>ADJACENT ATELECTASIS TO THIS REGION</spannedText>
-        <creationDate>Thu Feb 05 14:56:24 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_689">
-        <mentionClass id="3_Yellow_Days">ADJACENT ATELECTASIS TO THIS REGION</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_690" />
+        <mention id="EHOST_Instance_2962" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="16609" end="16685" />
         <spannedText>NO SIGNIFICANT INTERVAL CHANGE IN SMALL 5 MM NODULAR LESION IN THE LEFT APEX</spannedText>
         <creationDate>Thu Feb 05 14:56:52 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_690">
+    <classMention id="EHOST_Instance_2962">
         <mentionClass id="3_Yellow_Days">NO SIGNIFICANT INTERVAL CHANGE IN SMALL 5 MM NODULAR LESION IN THE LEFT APEX</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_691" />
+        <mention id="EHOST_Instance_2963" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="16721" end="16753" />
         <spannedText>NEW SMALL RIGHT PLEURAL EFFUSION</spannedText>
         <creationDate>Thu Feb 05 14:57:26 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_691">
+    <classMention id="EHOST_Instance_2963">
         <mentionClass id="3_Yellow_Days">NEW SMALL RIGHT PLEURAL EFFUSION</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_692" />
+        <mention id="EHOST_Instance_2964" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="16792" end="16821" />
         <spannedText>SEGMENT 2 AND 3 HEPATIC CYSTS</spannedText>
-        <creationDate>Thu Feb 05 14:57:59 PST 2015</creationDate>
+        <creationDate>Thu Feb 19 22:34:52 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_692">
-        <mentionClass id="3_Yellow_Days">SEGMENT 2 AND 3 HEPATIC CYSTS</mentionClass>
+    <classMention id="EHOST_Instance_2964">
+        <mentionClass id="4_Green_Positive">SEGMENT 2 AND 3 HEPATIC CYSTS</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_693" />
+        <mention id="EHOST_Instance_2965" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="16826" end="16892" />
         <spannedText>INTERVAL DEVELOPMENT OF A SMALL AMOUNT OF FREE FLUID IN THE PELVIS</spannedText>
         <creationDate>Thu Feb 05 14:58:08 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_693">
+    <classMention id="EHOST_Instance_2965">
         <mentionClass id="3_Yellow_Days">INTERVAL DEVELOPMENT OF A SMALL AMOUNT OF FREE FLUID IN THE PELVIS</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_694" />
+        <mention id="EHOST_Instance_2966" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="16894" end="16926" />
         <spannedText>CLINICAL CORRELATION RECOMMENDED</spannedText>
         <creationDate>Thu Feb 05 14:58:13 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_694">
+    <classMention id="EHOST_Instance_2966">
         <mentionClass id="3_Yellow_Days">CLINICAL CORRELATION RECOMMENDED</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_695" />
+        <mention id="EHOST_Instance_2967" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="17436" end="17497" />
         <spannedText>DIFFUSE ATHEROSCLEROTIC DISEASE OF THE THORACOABDOMINAL AORTA</spannedText>
         <creationDate>Thu Feb 05 14:59:12 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_695">
+    <classMention id="EHOST_Instance_2967">
         <mentionClass id="3_Yellow_Days">DIFFUSE ATHEROSCLEROTIC DISEASE OF THE THORACOABDOMINAL AORTA</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_696" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="17505" end="17605" />
-        <spannedText>SMALL SACCULAR ANEURYSM OF THE INFRARENAL AORTA, AP DIAMETER 4 CM AND TRANSVERSE DIAMETER ABOUT 6 CM</spannedText>
-        <creationDate>Thu Feb 05 14:59:24 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_696">
-        <mentionClass id="2_Orange_Hours">SMALL SACCULAR ANEURYSM OF THE INFRARENAL AORTA, AP DIAMETER 4 CM AND TRANSVERSE DIAMETER ABOUT 6 CM</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_697" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="17612" end="17702" />
-        <spannedText>SACCULAR ANEURYSM CONTAINS A PROMINENT LAYER OF LINING THROMBUS ON ITS LEFT LATERAL MARGIN</spannedText>
-        <creationDate>Thu Feb 05 14:59:37 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_697">
-        <mentionClass id="2_Orange_Hours">SACCULAR ANEURYSM CONTAINS A PROMINENT LAYER OF LINING THROMBUS ON ITS LEFT LATERAL MARGIN</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_698" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="17777" end="17901" />
-        <spannedText>PROMINENT ATHEROSCLEROTIC DISEASE INVOLVING THE ORIFICES OF THE INNOMINATE, LEFT COMMON CAROTID AND LEFT SUBCLAVIAN ARTERIES</spannedText>
-        <creationDate>Thu Feb 05 15:00:10 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_698">
-        <mentionClass id="3_Yellow_Days">PROMINENT ATHEROSCLEROTIC DISEASE INVOLVING THE ORIFICES OF THE INNOMINATE, LEFT COMMON CAROTID AND LEFT SUBCLAVIAN ARTERIES</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_699" />
+        <mention id="EHOST_Instance_2968" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="17907" end="17976" />
         <spannedText>STENOSIS OF BOTH THE LEFT COMMON CAROTID AND LEFT SUBCLAVIAN ARTERIES</spannedText>
         <creationDate>Thu Feb 05 15:00:16 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_699">
+    <classMention id="EHOST_Instance_2968">
         <mentionClass id="2_Orange_Hours">STENOSIS OF BOTH THE LEFT COMMON CAROTID AND LEFT SUBCLAVIAN ARTERIES</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_700" />
+        <mention id="EHOST_Instance_2969" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="18142" end="18217" />
         <spannedText>PROMINENT IRREGULAR ATHEROTHROMBOSIS OF THE SUPRARENAL AND INFRARENAL AORTA</spannedText>
         <creationDate>Thu Feb 05 15:00:38 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_700">
+    <classMention id="EHOST_Instance_2969">
         <mentionClass id="3_Yellow_Days">PROMINENT IRREGULAR ATHEROTHROMBOSIS OF THE SUPRARENAL AND INFRARENAL AORTA</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_701" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="18296" end="18416" />
-        <spannedText>PROMINENT ATHEROSCLEROTIC CALCIFICATION AT THE OSTIUM OF THE SUPERIOR MESENTERIC ARTERY BUT WITHOUT SIGNIFICANT STENOSIS</spannedText>
-        <creationDate>Thu Feb 05 15:00:51 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_701">
-        <mentionClass id="3_Yellow_Days">PROMINENT ATHEROSCLEROTIC CALCIFICATION AT THE OSTIUM OF THE SUPERIOR MESENTERIC ARTERY BUT WITHOUT SIGNIFICANT STENOSIS</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_702" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="18418" end="18493" />
-        <spannedText>SINGLE RENAL ARTERIES TO EACH KIDNEY WITH PROMINENT LINING ATHEROTHROMBOSIS</spannedText>
-        <creationDate>Thu Feb 05 15:01:16 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_702">
-        <mentionClass id="3_Yellow_Days">SINGLE RENAL ARTERIES TO EACH KIDNEY WITH PROMINENT LINING ATHEROTHROMBOSIS</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_703" />
+        <mention id="EHOST_Instance_2970" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="18537" end="18687" />
         <spannedText>EXTENSIVE ATHEROSCLEROTIC DISEASE OF THE BILATERAL COMMON ILIAC, EXTERNAL ILIAC, COMMON FEMORAL AND PROXIMAL SUPERFICIAL AND PROFUNDA FEMORAL ARTERIES</spannedText>
         <creationDate>Thu Feb 05 15:01:30 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_703">
+    <classMention id="EHOST_Instance_2970">
         <mentionClass id="3_Yellow_Days">EXTENSIVE ATHEROSCLEROTIC DISEASE OF THE BILATERAL COMMON ILIAC, EXTERNAL ILIAC, COMMON FEMORAL AND PROXIMAL SUPERFICIAL AND PROFUNDA FEMORAL ARTERIES</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_704" />
+        <mention id="EHOST_Instance_2971" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="18776" end="18809" />
         <spannedText>EXTENSIVE CENTRILOBULAR EMPHYSEMA</spannedText>
         <creationDate>Thu Feb 05 15:01:44 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_704">
+    <classMention id="EHOST_Instance_2971">
         <mentionClass id="3_Yellow_Days">EXTENSIVE CENTRILOBULAR EMPHYSEMA</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_705" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="18857" end="18905" />
-        <spannedText>MULTIFOCAL SMALL PULMONARY NODULES ARE UNCHANGED</spannedText>
-        <creationDate>Thu Feb 05 15:01:50 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_705">
-        <mentionClass id="3_Yellow_Days">MULTIFOCAL SMALL PULMONARY NODULES ARE UNCHANGED</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_706" />
+        <mention id="EHOST_Instance_2972" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="18911" end="18935" />
         <spannedText>LARGEST PULMONARY NODULE</spannedText>
         <creationDate>Thu Feb 05 15:02:00 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_706">
+    <classMention id="EHOST_Instance_2972">
         <mentionClass id="3_Yellow_Days">LARGEST PULMONARY NODULE</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_707" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="18945" end="18981" />
-        <spannedText>IN THE MEDIAL ASPECT LEFT LOWER LOBE</spannedText>
-        <creationDate>Thu Feb 05 15:02:05 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_707">
-        <mentionClass id="3_Yellow_Days">IN THE MEDIAL ASPECT LEFT LOWER LOBE</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_708" />
+        <mention id="EHOST_Instance_2973" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="18996" end="19035" />
         <spannedText>6 MM IN DIAMETER WITH SPICULATED MARGIN</spannedText>
         <creationDate>Thu Feb 05 15:02:22 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_708">
+    <classMention id="EHOST_Instance_2973">
         <mentionClass id="2_Orange_Hours">6 MM IN DIAMETER WITH SPICULATED MARGIN</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_709" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="19037" end="19052" />
-        <spannedText>IT IS UNCHANGED</spannedText>
-        <creationDate>Thu Feb 05 15:02:40 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_709">
-        <mentionClass id="3_Yellow_Days">IT IS UNCHANGED</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_710" />
+        <mention id="EHOST_Instance_2974" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="19078" end="19131" />
         <spannedText>OPACIFICATION OF THE PULMONARY ARTERIES IS SUBOPTIMAL</spannedText>
         <creationDate>Thu Feb 05 15:02:48 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_710">
+    <classMention id="EHOST_Instance_2974">
         <mentionClass id="3_Yellow_Days">OPACIFICATION OF THE PULMONARY ARTERIES IS SUBOPTIMAL</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_711" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="19385" end="19448" />
-        <spannedText>EXTENSIVE DEGENERATIVE JOINT DISEASE OF THE THORACOLUMBAR SPINE</spannedText>
-        <creationDate>Thu Feb 05 15:03:46 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_711">
-        <mentionClass id="3_Yellow_Days">EXTENSIVE DEGENERATIVE JOINT DISEASE OF THE THORACOLUMBAR SPINE</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_712" />
+        <mention id="EHOST_Instance_2975" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="19466" end="19494" />
         <spannedText>LEFT VENTRICULAR HYPERTROPHY</spannedText>
         <creationDate>Thu Feb 05 15:03:51 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_712">
+    <classMention id="EHOST_Instance_2975">
         <mentionClass id="3_Yellow_Days">LEFT VENTRICULAR HYPERTROPHY</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_713" />
+        <mention id="EHOST_Instance_2976" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="19507" end="19558" />
         <spannedText>TRICUSPID AORTIC VALVE WITH PROMINENT CALCIFICATION</spannedText>
-        <creationDate>Thu Feb 05 15:04:00 PST 2015</creationDate>
+        <creationDate>Thu Feb 19 22:37:54 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_713">
-        <mentionClass id="3_Yellow_Days">TRICUSPID AORTIC VALVE WITH PROMINENT CALCIFICATION</mentionClass>
+    <classMention id="EHOST_Instance_2976">
+        <mentionClass id="4_Green_Positive">TRICUSPID AORTIC VALVE WITH PROMINENT CALCIFICATION</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_714" />
+        <mention id="EHOST_Instance_2977" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="19588" end="19650" />
         <spannedText>ADVANCED ATHEROSCLEROTIC DISEASE OF THE THORACOABDOMINAL AORTA</spannedText>
         <creationDate>Thu Feb 05 15:04:10 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_714">
+    <classMention id="EHOST_Instance_2977">
         <mentionClass id="3_Yellow_Days">ADVANCED ATHEROSCLEROTIC DISEASE OF THE THORACOABDOMINAL AORTA</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_715" />
+        <mention id="EHOST_Instance_2978" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="19652" end="19686" />
         <spannedText>FOCAL SACCULAR INFRARENAL ANEURYSM</spannedText>
         <creationDate>Thu Feb 05 15:04:18 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_715">
+    <classMention id="EHOST_Instance_2978">
         <mentionClass id="2_Orange_Hours">FOCAL SACCULAR INFRARENAL ANEURYSM</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_716" />
+        <mention id="EHOST_Instance_2979" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="19728" end="19755" />
         <spannedText>LEFT VENTICULAR HYPERTROPHY</spannedText>
         <creationDate>Thu Feb 05 15:04:24 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_716">
+    <classMention id="EHOST_Instance_2979">
         <mentionClass id="3_Yellow_Days">LEFT VENTICULAR HYPERTROPHY</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_717" />
+        <mention id="EHOST_Instance_2980" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="19785" end="19853" />
         <spannedText>STENOSED ORIGINS OF LEFT COMMON CAROTID AND LEFT SUBCLAVIAN ARTERIES</spannedText>
         <creationDate>Thu Feb 05 15:04:35 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_717">
+    <classMention id="EHOST_Instance_2980">
         <mentionClass id="2_Orange_Hours">STENOSED ORIGINS OF LEFT COMMON CAROTID AND LEFT SUBCLAVIAN ARTERIES</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_718" />
+        <mention id="EHOST_Instance_2981" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="20052" end="20085" />
         <spannedText>EXTENSIVE CENTRILOBULAR EMPHYSEMA</spannedText>
         <creationDate>Thu Feb 05 15:04:46 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_718">
+    <classMention id="EHOST_Instance_2981">
         <mentionClass id="3_Yellow_Days">EXTENSIVE CENTRILOBULAR EMPHYSEMA</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_719" />
+        <mention id="EHOST_Instance_2982" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="20087" end="20130" />
         <spannedText>MULTIPLE SMALL PULMONARY NODULES, UNCHANGED</spannedText>
         <creationDate>Thu Feb 05 15:04:53 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_719">
+    <classMention id="EHOST_Instance_2982">
         <mentionClass id="3_Yellow_Days">MULTIPLE SMALL PULMONARY NODULES, UNCHANGED</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_720" />
+        <mention id="EHOST_Instance_2983" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="20298" end="20331" />
         <spannedText>RIGHT CHEST TUBE HAS BEEN REMOVED</spannedText>
         <creationDate>Thu Feb 05 15:05:09 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_720">
+    <classMention id="EHOST_Instance_2983">
         <mentionClass id="4_Green_Positive">RIGHT CHEST TUBE HAS BEEN REMOVED</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_721" />
+        <mention id="EHOST_Instance_2984" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="20337" end="20440" />
         <spannedText>MILD PLEURAL THICKENING AT THE RIGHT APEX AND TINY SMALL LOCULATION OF AIR AT THE APEX APPEAR UNCHANGED</spannedText>
         <creationDate>Thu Feb 05 15:05:21 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_721">
+    <classMention id="EHOST_Instance_2984">
         <mentionClass id="3_Yellow_Days">MILD PLEURAL THICKENING AT THE RIGHT APEX AND TINY SMALL LOCULATION OF AIR AT THE APEX APPEAR UNCHANGED</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_722" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="20453" end="20531" />
-        <spannedText>SLIGHT DIFFUSE INCREASE IN OPACITY OF THE RIGHT LUNG RELATIVE TO THE LEFT LUNG</spannedText>
-        <creationDate>Thu Feb 05 15:05:32 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_722">
-        <mentionClass id="3_Yellow_Days">SLIGHT DIFFUSE INCREASE IN OPACITY OF THE RIGHT LUNG RELATIVE TO THE LEFT LUNG</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_723" />
+        <mention id="EHOST_Instance_2985" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="20600" end="20640" />
         <spannedText>LAYERED PLEURAL FLUID CANNOT BE EXCLUDED</spannedText>
-        <creationDate>Thu Feb 05 15:05:50 PST 2015</creationDate>
+        <creationDate>Thu Feb 19 22:38:41 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_723">
-        <mentionClass id="3_Yellow_Days">LAYERED PLEURAL FLUID CANNOT BE EXCLUDED</mentionClass>
+    <classMention id="EHOST_Instance_2985">
+        <mentionClass id="4_Green_Positive">LAYERED PLEURAL FLUID CANNOT BE EXCLUDED</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_724" />
+        <mention id="EHOST_Instance_2986" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="20697" end="20757" />
         <spannedText>REMOVAL OF RIGHT CHEST TUBE WITHOUT EVIDENCE OF COMPLICATION</spannedText>
         <creationDate>Thu Feb 05 15:06:10 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_724">
+    <classMention id="EHOST_Instance_2986">
         <mentionClass id="4_Green_Positive">REMOVAL OF RIGHT CHEST TUBE WITHOUT EVIDENCE OF COMPLICATION</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_725" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="20759" end="20819" />
-        <spannedText>SLIGHT DIFFUSE INCREASE IN DENSITY OVER THE RIGHT HEMITHORAX</spannedText>
-        <creationDate>Thu Feb 05 15:06:25 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_725">
-        <mentionClass id="3_Yellow_Days">SLIGHT DIFFUSE INCREASE IN DENSITY OVER THE RIGHT HEMITHORAX</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_726" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="20858" end="20883" />
-        <spannedText>ASYMMETRY IN SOFT TISSUES</spannedText>
-        <creationDate>Thu Feb 05 15:06:30 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_726">
-        <mentionClass id="3_Yellow_Days">ASYMMETRY IN SOFT TISSUES</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_727" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="20897" end="20949" />
-        <spannedText>PRESENCE OF LAYERED PLEURAL FLUID CANNOT BE EXCLUDED</spannedText>
-        <creationDate>Thu Feb 05 15:06:36 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_727">
-        <mentionClass id="3_Yellow_Days">PRESENCE OF LAYERED PLEURAL FLUID CANNOT BE EXCLUDED</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_728" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="21265" end="21347" />
-        <spannedText>MASS IN THE ANTERIOR SEGMENT OF THE RIGHT UPPER LOBE CONTAINING CENTRAL CAVITATION</spannedText>
-        <creationDate>Thu Feb 05 15:08:00 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_728">
-        <mentionClass id="2_Orange_Hours">MASS IN THE ANTERIOR SEGMENT OF THE RIGHT UPPER LOBE CONTAINING CENTRAL CAVITATION</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_729" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="21355" end="21390" />
-        <spannedText>MEASURES APPROXIMATELY 3.7 X 2.3 CM</spannedText>
-        <creationDate>Thu Feb 05 15:08:08 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_729">
-        <mentionClass id="2_Orange_Hours">MEASURES APPROXIMATELY 3.7 X 2.3 CM</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_730" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="21392" end="21462" />
-        <spannedText>THIS ABUTS THE ANTERIOR MEDIASTINUM AND THE ANTERIOR CHEST WALL PLEURA</spannedText>
-        <creationDate>Thu Feb 05 15:08:16 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_730">
-        <mentionClass id="2_Orange_Hours">THIS ABUTS THE ANTERIOR MEDIASTINUM AND THE ANTERIOR CHEST WALL PLEURA</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_731" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="21472" end="21523" />
-        <spannedText>HIGHLY SUSPICIOUS FOR PRIMARY CARCINOMA OF THE LUNG</spannedText>
-        <creationDate>Thu Feb 05 15:08:25 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_731">
-        <mentionClass id="2_Orange_Hours">HIGHLY SUSPICIOUS FOR PRIMARY CARCINOMA OF THE LUNG</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_732" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="21525" end="21627" />
-        <spannedText>THE MASS APPEARS TO EXTEND CENTRALLY ALONG THE BRONCHOVASCULAR BUNDLE TO THE REGION OF THE RIGHT HILUM</spannedText>
-        <creationDate>Thu Feb 05 15:08:40 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_732">
-        <mentionClass id="3_Yellow_Days">THE MASS APPEARS TO EXTEND CENTRALLY ALONG THE BRONCHOVASCULAR BUNDLE TO THE REGION OF THE RIGHT HILUM</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_733" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="21633" end="21718" />
-        <spannedText>ANTERIOR SEGMENT RIGHT UPPER LOBE BRONCHUS AND ITS FIRST TWO BRANCHES APPEAR NARROWED</spannedText>
-        <creationDate>Thu Feb 05 15:08:48 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_733">
-        <mentionClass id="2_Orange_Hours">ANTERIOR SEGMENT RIGHT UPPER LOBE BRONCHUS AND ITS FIRST TWO BRANCHES APPEAR NARROWED</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_734" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="21720" end="21786" />
-        <spannedText>SOFT TISSUE EXTENDS CENTRALLY AROUND THE RIGHT UPPER LOBE BRONCHUS</spannedText>
-        <creationDate>Thu Feb 05 15:09:06 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_734">
-        <mentionClass id="3_Yellow_Days">SOFT TISSUE EXTENDS CENTRALLY AROUND THE RIGHT UPPER LOBE BRONCHUS</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_735" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="21788" end="21841" />
-        <spannedText>ABNORMAL SOFT TISSUE EXTENDS TO THE SUBCARINAL REGION</spannedText>
-        <creationDate>Thu Feb 05 15:09:16 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_735">
-        <mentionClass id="3_Yellow_Days">ABNORMAL SOFT TISSUE EXTENDS TO THE SUBCARINAL REGION</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_736" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="21854" end="22076" />
-        <spannedText>NECROTIC APPEARING MASS IN THE RIGHT LOWER PARATRACHEAL REGION WITH ILL-DEFINED MARGINS WHICH APPEARS SOMEWHAT SEPARATE FROM THE PRIMARY RIGHT UPPER LOBE AND RIGHT HILAR MASS AND IS SUSPICIOUS FOR MALIGNANT LYMPHADENOPATHY</spannedText>
-        <creationDate>Thu Feb 05 15:09:30 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_736">
-        <mentionClass id="2_Orange_Hours">NECROTIC APPEARING MASS IN THE RIGHT LOWER PARATRACHEAL REGION WITH ILL-DEFINED MARGINS WHICH APPEARS SOMEWHAT SEPARATE FROM THE PRIMARY RIGHT UPPER LOBE AND RIGHT HILAR MASS AND IS SUSPICIOUS FOR MALIGNANT LYMPHADENOPATHY</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_737" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="22078" end="22118" />
-        <spannedText>THIS MEASURES APPROXIMATELY 3.3 X 2.9 CM</spannedText>
-        <creationDate>Thu Feb 05 15:09:34 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_737">
-        <mentionClass id="2_Orange_Hours">THIS MEASURES APPROXIMATELY 3.3 X 2.9 CM</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_738" />
+        <mention id="EHOST_Instance_2987" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="22130" end="22218" />
         <spannedText>SEVERAL ADDITIONAL NODES IN THE RIGHT PARATRACHEAL REGION, MOST OF WHICH APPEAR NECROTIC</spannedText>
         <creationDate>Thu Feb 05 15:09:44 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_738">
+    <classMention id="EHOST_Instance_2987">
         <mentionClass id="2_Orange_Hours">SEVERAL ADDITIONAL NODES IN THE RIGHT PARATRACHEAL REGION, MOST OF WHICH APPEAR NECROTIC</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_739" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="22220" end="22310" />
-        <spannedText>LEFT LOWER PARATRACHEAL NODES ALL ARE SMALL, AS IS A SMALL ANTERIOR MEDIASTINAL LYMPH NODE</spannedText>
-        <creationDate>Thu Feb 05 15:09:57 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_739">
-        <mentionClass id="3_Yellow_Days">LEFT LOWER PARATRACHEAL NODES ALL ARE SMALL, AS IS A SMALL ANTERIOR MEDIASTINAL LYMPH NODE</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_740" />
+        <mention id="EHOST_Instance_2988" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="22316" end="22398" />
         <spannedText>RIGHT VOCAL CORD APPEARS ADDUCTED, RAISING THE POSSIBILITY OF VOCAL CORD PARALYSIS</spannedText>
         <creationDate>Thu Feb 05 15:10:07 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_740">
+    <classMention id="EHOST_Instance_2988">
         <mentionClass id="2_Orange_Hours">RIGHT VOCAL CORD APPEARS ADDUCTED, RAISING THE POSSIBILITY OF VOCAL CORD PARALYSIS</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_741" />
+        <mention id="EHOST_Instance_2989" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="22425" end="22473" />
         <spannedText>DIFFUSE MODERATE CENTRILOBULAR EMPHYSEMA IS SEEN</spannedText>
         <creationDate>Thu Feb 05 15:10:15 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_741">
+    <classMention id="EHOST_Instance_2989">
         <mentionClass id="3_Yellow_Days">DIFFUSE MODERATE CENTRILOBULAR EMPHYSEMA IS SEEN</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_742" />
+        <mention id="EHOST_Instance_2990" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="22475" end="22553" />
         <spannedText>MULTIPLE BILATERAL PULMONARY NODULES AND MULTIPLE PLEURAL NODULES ON THE RIGHT</spannedText>
         <creationDate>Thu Feb 05 15:10:24 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_742">
+    <classMention id="EHOST_Instance_2990">
         <mentionClass id="2_Orange_Hours">MULTIPLE BILATERAL PULMONARY NODULES AND MULTIPLE PLEURAL NODULES ON THE RIGHT</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_743" />
+        <mention id="EHOST_Instance_2991" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="22571" end="22604" />
         <spannedText>SUSPICIOUS FOR METASTATIC DISEASE</spannedText>
         <creationDate>Thu Feb 05 15:10:27 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_743">
+    <classMention id="EHOST_Instance_2991">
         <mentionClass id="2_Orange_Hours">SUSPICIOUS FOR METASTATIC DISEASE</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_744" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="22606" end="22676" />
-        <spannedText>THE LARGEST OF THESE IS A 1.5 X 1.1 CM NODULE IN THE RIGHT MIDDLE LOBE</spannedText>
-        <creationDate>Thu Feb 05 15:10:39 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_744">
-        <mentionClass id="2_Orange_Hours">THE LARGEST OF THESE IS A 1.5 X 1.1 CM NODULE IN THE RIGHT MIDDLE LOBE</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_745" />
+        <mention id="EHOST_Instance_2992" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="22695" end="22791" />
         <spannedText>LARGER MASS OR MASS-LIKE AREA OF CONSOLIDATION IN THE LEFT LOWER LOBE, WHICH MAY BE INFLAMMATORY</spannedText>
         <creationDate>Thu Feb 05 15:10:57 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_745">
+    <classMention id="EHOST_Instance_2992">
         <mentionClass id="2_Orange_Hours">LARGER MASS OR MASS-LIKE AREA OF CONSOLIDATION IN THE LEFT LOWER LOBE, WHICH MAY BE INFLAMMATORY</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_746" />
+        <mention id="EHOST_Instance_2993" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="22803" end="22836" />
         <spannedText>SCATTERED AREAS OF BRONCHIECTASIS</spannedText>
         <creationDate>Thu Feb 05 15:11:04 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_746">
+    <classMention id="EHOST_Instance_2993">
         <mentionClass id="4_Green_Positive">SCATTERED AREAS OF BRONCHIECTASIS</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_747" />
+        <mention id="EHOST_Instance_2994" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="22849" end="22901" />
         <spannedText>FOCAL AREA OF MUCOUS PLUGGING IN THE LEFT LOWER LOBE</spannedText>
         <creationDate>Thu Feb 05 15:11:10 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_747">
+    <classMention id="EHOST_Instance_2994">
         <mentionClass id="4_Green_Positive">FOCAL AREA OF MUCOUS PLUGGING IN THE LEFT LOWER LOBE</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_748" />
+        <mention id="EHOST_Instance_2995" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="22914" end="22941" />
         <spannedText>TINY RIGHT PLEURAL EFFUSION</spannedText>
         <creationDate>Thu Feb 05 15:11:14 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_748">
+    <classMention id="EHOST_Instance_2995">
         <mentionClass id="3_Yellow_Days">TINY RIGHT PLEURAL EFFUSION</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_749" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="23000" end="23074" />
-        <spannedText>LOW DENSITY LESION IN THE POSTERIOR SEGMENT OF THE RIGHT LOBE OF THE LIVER</spannedText>
-        <creationDate>Thu Feb 05 15:11:28 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_749">
-        <mentionClass id="2_Orange_Hours">LOW DENSITY LESION IN THE POSTERIOR SEGMENT OF THE RIGHT LOBE OF THE LIVER</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_750" />
+        <mention id="EHOST_Instance_2996" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="23085" end="23120" />
         <spannedText>SUSPICIOUS FOR A HEPATIC METASTASIS</spannedText>
         <creationDate>Thu Feb 05 15:11:31 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_750">
+    <classMention id="EHOST_Instance_2996">
         <mentionClass id="2_Orange_Hours">SUSPICIOUS FOR A HEPATIC METASTASIS</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_751" />
+        <mention id="EHOST_Instance_2997" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="23127" end="23201" />
         <spannedText>COULD BE FURTHER CHARACTERIZED WITH DEDICATED CT OF THE ABDOMEN AND PELVIS</spannedText>
         <creationDate>Thu Feb 05 15:11:43 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_751">
+    <classMention id="EHOST_Instance_2997">
         <mentionClass id="2_Orange_Hours">COULD BE FURTHER CHARACTERIZED WITH DEDICATED CT OF THE ABDOMEN AND PELVIS</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_752" />
+        <mention id="EHOST_Instance_2998" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="23203" end="23273" />
         <spannedText>ADDITIONAL QUESTIONABLE LESIONS ARE SEEN IN THE LEFT LOBE OF THE LIVER</spannedText>
-        <creationDate>Thu Feb 05 15:11:48 PST 2015</creationDate>
+        <creationDate>Thu Feb 19 22:42:22 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_752">
-        <mentionClass id="2_Orange_Hours">ADDITIONAL QUESTIONABLE LESIONS ARE SEEN IN THE LEFT LOBE OF THE LIVER</mentionClass>
+    <classMention id="EHOST_Instance_2998">
+        <mentionClass id="3_Yellow_Days">ADDITIONAL QUESTIONABLE LESIONS ARE SEEN IN THE LEFT LOBE OF THE LIVER</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_753" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="23372" end="23423" />
-        <spannedText>DEGENERATIVE CHANGES ARE SEEN IN THE THORACIC SPINE</spannedText>
-        <creationDate>Thu Feb 05 15:11:57 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_753">
-        <mentionClass id="4_Green_Positive">DEGENERATIVE CHANGES ARE SEEN IN THE THORACIC SPINE</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_754" />
+        <mention id="EHOST_Instance_2999" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="23472" end="23533" />
         <spannedText>RIGHT UPPER LOBE MASS HIGHLY SUSPICIOUS FOR PRIMARY CARCINOMA</spannedText>
         <creationDate>Thu Feb 05 15:12:06 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_754">
+    <classMention id="EHOST_Instance_2999">
         <mentionClass id="2_Orange_Hours">RIGHT UPPER LOBE MASS HIGHLY SUSPICIOUS FOR PRIMARY CARCINOMA</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_755" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
-        <span start="23547" end="23782" />
-        <spannedText>WITH ASSOCIATED EXTENSION TO THE REGION OF THE RIGHT HILUM, NARROWING OF THE RIGHT ANTERIOR SEGMENTAL BRONCHUS, SOFT TISSUE EXTENSION INTO THE MEDIASTINUM AND INTO THE SUBCARINAL REGION, AND A RIGHT PARATRACHEAL NECROTIC APPEARING MASS</spannedText>
-        <creationDate>Thu Feb 05 15:12:17 PST 2015</creationDate>
-    </annotation>
-    <classMention id="EHOST_Instance_755">
-        <mentionClass id="2_Orange_Hours">WITH ASSOCIATED EXTENSION TO THE REGION OF THE RIGHT HILUM, NARROWING OF THE RIGHT ANTERIOR SEGMENTAL BRONCHUS, SOFT TISSUE EXTENSION INTO THE MEDIASTINUM AND INTO THE SUBCARINAL REGION, AND A RIGHT PARATRACHEAL NECROTIC APPEARING MASS</mentionClass>
-    </classMention>
-    <annotation>
-        <mention id="EHOST_Instance_756" />
+        <mention id="EHOST_Instance_3000" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="23793" end="23880" />
         <spannedText>ADDUCTION OF THE RIGHT FOCAL CORD RAISING THE POSSIBILITY OF RIGHT FOCAL CORD PARALYSIS</spannedText>
         <creationDate>Thu Feb 05 15:12:25 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_756">
+    <classMention id="EHOST_Instance_3000">
         <mentionClass id="2_Orange_Hours">ADDUCTION OF THE RIGHT FOCAL CORD RAISING THE POSSIBILITY OF RIGHT FOCAL CORD PARALYSIS</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_757" />
+        <mention id="EHOST_Instance_3001" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="23885" end="23968" />
         <spannedText>SCATTERED BILATERAL PULMONARY AND RIGHT PLEURAL NODULES SUSPICIOUS FOR A METASTASES</spannedText>
         <creationDate>Thu Feb 05 15:12:34 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_757">
+    <classMention id="EHOST_Instance_3001">
         <mentionClass id="2_Orange_Hours">SCATTERED BILATERAL PULMONARY AND RIGHT PLEURAL NODULES SUSPICIOUS FOR A METASTASES</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_758" />
+        <mention id="EHOST_Instance_3002" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="23973" end="24026" />
         <spannedText>AT LEAST ONE HEPATIC LESION SUSPICIOUS FOR METASTASIS</spannedText>
         <creationDate>Thu Feb 05 15:12:39 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_758">
+    <classMention id="EHOST_Instance_3002">
         <mentionClass id="2_Orange_Hours">AT LEAST ONE HEPATIC LESION SUSPICIOUS FOR METASTASIS</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_759" />
+        <mention id="EHOST_Instance_3003" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="24031" end="24054" />
         <spannedText>CENTRILOBULAR EMPHYSEMA</spannedText>
         <creationDate>Thu Feb 05 15:12:41 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_759">
+    <classMention id="EHOST_Instance_3003">
         <mentionClass id="3_Yellow_Days">CENTRILOBULAR EMPHYSEMA</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3004" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2640" end="2665" />
+        <spannedText>NEW POST SURGICAL CHANGES</spannedText>
+        <creationDate>Thu Feb 19 22:10:53 PST 2015</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3004">
+        <mentionClass id="4_Green_Positive">NEW POST SURGICAL CHANGES</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3005" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="2685" end="2700" />
+        <spannedText>LEFT HEMITHORAX</spannedText>
+        <creationDate>Thu Feb 19 22:10:58 PST 2015</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3005">
+        <mentionClass id="4_Green_Positive">LEFT HEMITHORAX</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3006" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="3294" end="3311" />
+        <spannedText>PULMONARY NODULES</spannedText>
+        <creationDate>Thu Feb 19 22:11:50 PST 2015</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3006">
+        <mentionClass id="3_Yellow_Days">PULMONARY NODULES</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3007" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="3319" end="3329" />
+        <spannedText>RIGHT LUNG</spannedText>
+        <creationDate>Thu Feb 19 22:11:53 PST 2015</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3007">
+        <mentionClass id="3_Yellow_Days">RIGHT LUNG</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3008" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="3334" end="3340" />
+        <spannedText>STABLE</spannedText>
+        <creationDate>Thu Feb 19 22:11:55 PST 2015</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3008">
+        <mentionClass id="3_Yellow_Days">STABLE</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3009" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="3351" end="3408" />
+        <spannedText>CALCIFIED MEDIASTINAL AND HILAR LYMPH NODES ARE UNCHANGED</spannedText>
+        <creationDate>Thu Feb 19 22:12:13 PST 2015</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3009">
+        <mentionClass id="4_Green_Positive">CALCIFIED MEDIASTINAL AND HILAR LYMPH NODES ARE UNCHANGED</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3010" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="3517" end="3550" />
+        <spannedText>CORONARY ARTERIAL CALCIFICATIONS</spannedText>
+        <creationDate>Thu Feb 19 22:12:25 PST 2015</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3010">
+        <mentionClass id="3_Yellow_Days">CORONARY ARTERIAL CALCIFICATIONS</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3011" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="3885" end="3947" />
+        <spannedText>STABLE PULMONARY PARENCHYMAL ABNORMALITIES AND CALCIFIED NODES</spannedText>
+        <creationDate>Thu Feb 19 22:13:05 PST 2015</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3011">
+        <mentionClass id="4_Green_Positive">STABLE PULMONARY PARENCHYMAL ABNORMALITIES AND CALCIFIED NODES</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3012" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="3993" end="4004" />
+        <spannedText>SARCOIDOSIS</spannedText>
+        <creationDate>Thu Feb 19 22:13:08 PST 2015</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3012">
+        <mentionClass id="4_Green_Positive">SARCOIDOSIS</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3013" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="5385" end="5426" />
+        <spannedText>PERSISTENT MODERATE LEFT PLEURAL EFFUSION</spannedText>
+        <creationDate>Thu Feb 19 22:14:08 PST 2015</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3013">
+        <mentionClass id="3_Yellow_Days">PERSISTENT MODERATE LEFT PLEURAL EFFUSION</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3014" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="5120" end="5166" />
+        <spannedText>PROMINENT PULMONARY ARTERIAL AND VENOUS SYSTEM</spannedText>
+        <creationDate>Thu Feb 19 22:15:00 PST 2015</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3014">
+        <mentionClass id="2_Orange_Hours">PROMINENT PULMONARY ARTERIAL AND VENOUS SYSTEM</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3015" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="5203" end="5219" />
+        <spannedText>PULMONARY ARTERY</spannedText>
+        <creationDate>Thu Feb 19 22:15:28 PST 2015</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3015">
+        <mentionClass id="2_Orange_Hours">PULMONARY ARTERY</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3016" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="5185" end="5195" />
+        <spannedText>DILATATION</spannedText>
+        <creationDate>Thu Feb 19 22:15:30 PST 2015</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3016">
+        <mentionClass id="2_Orange_Hours">DILATATION</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3017" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="5244" end="5284" />
+        <spannedText>STENOSIS AT THE LEVEL OF THE ANASTOMOSIS</spannedText>
+        <creationDate>Thu Feb 19 22:15:36 PST 2015</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3017">
+        <mentionClass id="2_Orange_Hours">STENOSIS AT THE LEVEL OF THE ANASTOMOSIS</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3018" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="7623" end="7656" />
+        <spannedText>BILATERAL SMALL PLEURAL EFFUSIONS</spannedText>
+        <creationDate>Thu Feb 19 22:23:30 PST 2015</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3018">
+        <mentionClass id="3_Yellow_Days">BILATERAL SMALL PLEURAL EFFUSIONS</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3019" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="8743" end="8770" />
+        <spannedText>DIFFUSE MARKED CARDIOMEGALY</spannedText>
+        <creationDate>Thu Feb 19 22:23:49 PST 2015</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3019">
+        <mentionClass id="2_Orange_Hours">DIFFUSE MARKED CARDIOMEGALY</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3020" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="9663" end="9673" />
+        <spannedText>BOTH LUNGS</spannedText>
+        <creationDate>Thu Feb 19 22:25:41 PST 2015</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3020">
+        <mentionClass id="3_Yellow_Days">BOTH LUNGS</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3021" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="9873" end="9892" />
+        <spannedText>NEW NODULAR DENSITY</spannedText>
+        <creationDate>Thu Feb 19 22:26:09 PST 2015</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3021">
+        <mentionClass id="2_Orange_Hours">NEW NODULAR DENSITY</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3022" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="9924" end="9940" />
+        <spannedText>RIGHT UPPER LOBE</spannedText>
+        <creationDate>Thu Feb 19 22:26:20 PST 2015</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3022">
+        <mentionClass id="2_Orange_Hours">RIGHT UPPER LOBE</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3023" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="11924" end="11962" />
+        <spannedText>DISTAL PULMONARY ARTERIES ARE ENLARGED</spannedText>
+        <creationDate>Thu Feb 19 22:28:06 PST 2015</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3023">
+        <mentionClass id="3_Yellow_Days">DISTAL PULMONARY ARTERIES ARE ENLARGED</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3024" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="12612" end="12636" />
+        <spannedText>LOWER ABDOMEN AND PELVIS</spannedText>
+        <creationDate>Thu Feb 19 22:28:39 PST 2015</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3024">
+        <mentionClass id="4_Green_Positive">LOWER ABDOMEN AND PELVIS</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3025" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="12653" end="12679" />
+        <spannedText>CYSTOPROSTATECTOMY CHANGES</spannedText>
+        <creationDate>Thu Feb 19 22:28:42 PST 2015</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3025">
+        <mentionClass id="4_Green_Positive">CYSTOPROSTATECTOMY CHANGES</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3026" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="13128" end="13135" />
+        <spannedText>CHANGES</spannedText>
+        <creationDate>Thu Feb 19 22:29:24 PST 2015</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3026">
+        <mentionClass id="4_Green_Positive">CHANGES</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3027" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="13141" end="13159" />
+        <spannedText>CYSTOPROSTATECTOMY</spannedText>
+        <creationDate>Thu Feb 19 22:29:27 PST 2015</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3027">
+        <mentionClass id="4_Green_Positive">CYSTOPROSTATECTOMY</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3028" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="13814" end="13835" />
+        <spannedText>RIGHT UPPER LOBE MASS</spannedText>
+        <creationDate>Thu Feb 19 22:31:27 PST 2015</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3028">
+        <mentionClass id="2_Orange_Hours">RIGHT UPPER LOBE MASS</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3029" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="14119" end="14127" />
+        <spannedText>NECROSIS</spannedText>
+        <creationDate>Thu Feb 19 22:32:39 PST 2015</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3029">
+        <mentionClass id="2_Orange_Hours">NECROSIS</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3030" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="14068" end="14081" />
+        <spannedText>LARGE CENTRAL</spannedText>
+        <creationDate>Thu Feb 19 22:32:45 PST 2015</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3030">
+        <mentionClass id="2_Orange_Hours">LARGE CENTRAL</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3031" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="16351" end="16384" />
+        <spannedText>SLIGHT INTERVAL DECREASE IN SIZE</spannedText>
+        <creationDate>Thu Feb 19 22:34:20 PST 2015</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3031">
+        <mentionClass id="2_Orange_Hours">SLIGHT INTERVAL DECREASE IN SIZE</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3032" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="16408" end="16430" />
+        <spannedText>RIGHT UPPER LOBE MASS,</spannedText>
+        <creationDate>Thu Feb 19 22:34:30 PST 2015</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3032">
+        <mentionClass id="2_Orange_Hours">RIGHT UPPER LOBE MASS,</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3033" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="17505" end="17552" />
+        <spannedText>SMALL SACCULAR ANEURYSM OF THE INFRARENAL AORTA</spannedText>
+        <creationDate>Thu Feb 19 22:35:15 PST 2015</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3033">
+        <mentionClass id="2_Orange_Hours">SMALL SACCULAR ANEURYSM OF THE INFRARENAL AORTA</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3034" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="18857" end="18891" />
+        <spannedText>MULTIFOCAL SMALL PULMONARY NODULES</spannedText>
+        <creationDate>Thu Feb 19 22:36:20 PST 2015</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3034">
+        <mentionClass id="4_Green_Positive">MULTIFOCAL SMALL PULMONARY NODULES</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3035" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="18966" end="18981" />
+        <spannedText>LEFT LOWER LOBE</spannedText>
+        <creationDate>Thu Feb 19 22:37:07 PST 2015</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3035">
+        <mentionClass id="3_Yellow_Days">LEFT LOWER LOBE</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3036" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="20909" end="20950" />
+        <spannedText>LAYERED PLEURAL FLUID CANNOT BE EXCLUDED.</spannedText>
+        <creationDate>Thu Feb 19 22:39:12 PST 2015</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3036">
+        <mentionClass id="4_Green_Positive">LAYERED PLEURAL FLUID CANNOT BE EXCLUDED.</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3037" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="21265" end="21269" />
+        <spannedText>MASS</spannedText>
+        <creationDate>Thu Feb 19 22:39:22 PST 2015</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3037">
+        <mentionClass id="2_Orange_Hours">MASS</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3038" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="21301" end="21317" />
+        <spannedText>RIGHT UPPER LOBE</spannedText>
+        <creationDate>Thu Feb 19 22:39:29 PST 2015</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3038">
+        <mentionClass id="2_Orange_Hours">RIGHT UPPER LOBE</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3039" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="21337" end="21347" />
+        <spannedText>CAVITATION</spannedText>
+        <creationDate>Thu Feb 19 22:39:31 PST 2015</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3039">
+        <mentionClass id="2_Orange_Hours">CAVITATION</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3040" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="21469" end="21523" />
+        <spannedText>IS HIGHLY SUSPICIOUS FOR PRIMARY CARCINOMA OF THE LUNG</spannedText>
+        <creationDate>Thu Feb 19 22:39:49 PST 2015</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3040">
+        <mentionClass id="2_Orange_Hours">IS HIGHLY SUSPICIOUS FOR PRIMARY CARCINOMA OF THE LUNG</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3041" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="21854" end="21862" />
+        <spannedText>NECROTIC</spannedText>
+        <creationDate>Thu Feb 19 22:40:32 PST 2015</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3041">
+        <mentionClass id="2_Orange_Hours">NECROTIC</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3042" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="21873" end="21916" />
+        <spannedText>MASS IN THE RIGHT LOWER PARATRACHEAL REGION</spannedText>
+        <creationDate>Thu Feb 19 22:40:44 PST 2015</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3042">
+        <mentionClass id="2_Orange_Hours">MASS IN THE RIGHT LOWER PARATRACHEAL REGION</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3043" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="22033" end="22076" />
+        <spannedText>IS SUSPICIOUS FOR MALIGNANT LYMPHADENOPATHY</spannedText>
+        <creationDate>Thu Feb 19 22:40:50 PST 2015</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3043">
+        <mentionClass id="2_Orange_Hours">IS SUSPICIOUS FOR MALIGNANT LYMPHADENOPATHY</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3044" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="23012" end="23018" />
+        <spannedText>LESION</spannedText>
+        <creationDate>Thu Feb 19 22:41:57 PST 2015</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3044">
+        <mentionClass id="2_Orange_Hours">LESION</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3045" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="23051" end="23061" />
+        <spannedText>RIGHT LOBE</spannedText>
+        <creationDate>Thu Feb 19 22:42:03 PST 2015</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3045">
+        <mentionClass id="2_Orange_Hours">RIGHT LOBE</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3046" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="23069" end="23074" />
+        <spannedText>LIVER</spannedText>
+        <creationDate>Thu Feb 19 22:42:07 PST 2015</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3046">
+        <mentionClass id="2_Orange_Hours">LIVER</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_3047" />
+        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <span start="23740" end="23782" />
+        <spannedText>RIGHT PARATRACHEAL NECROTIC APPEARING MASS</spannedText>
+        <creationDate>Thu Feb 19 22:43:16 PST 2015</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_3047">
+        <mentionClass id="2_Orange_Hours">RIGHT PARATRACHEAL NECROTIC APPEARING MASS</mentionClass>
     </classMention>
     <eHOST_Adjudication_Status version="1.0">
         <Adjudication_Selected_Annotators version="1.0" />
