@@ -13,7 +13,7 @@ import java.util.Scanner;
 
 import edu.stanford.rad.ner.util.Stemmer;
 
-public class DictionaryBasedAnnotation {
+public class IE3_TestSetByDictionary {
 	public static void main(String[] args) throws NumberFormatException,IOException {
 
 		List<String> entityList = Arrays.asList("Observation", "Modifier", "Anatomy", "Uncertainty");

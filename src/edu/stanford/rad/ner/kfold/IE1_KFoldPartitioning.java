@@ -26,7 +26,7 @@ import edu.stanford.rad.ner.util.KWAnnotation;
 import edu.stanford.rad.ner.util.ReadKWAnnotations;
 import edu.stanford.rad.ner.util.Stemmer;
 
-public class KFoldPartitioning {
+public class IE1_KFoldPartitioning {
 
 	public static void main(String[] args) throws FileNotFoundException,IOException {
 		long startTime = System.currentTimeMillis();
@@ -131,7 +131,7 @@ public class KFoldPartitioning {
 			System.out.println("size:" + allReports.size());
 		}
 		
-		int k = 10;
+		int k = 1;
 		int n = allReports.size();
 		int d = n/k;
 		System.out.println("n = "+n+", k = " + k);

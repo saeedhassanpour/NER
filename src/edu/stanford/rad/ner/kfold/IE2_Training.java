@@ -9,7 +9,7 @@ import edu.stanford.nlp.ie.crf.CRFClassifier;
 import edu.stanford.nlp.ie.ner.CMMClassifier;
 
 
-public class KFoldCrossValidation {
+public class IE2_Training {
 
 	public static void main(String[] args) throws Exception {
 		long startTime = System.currentTimeMillis();
@@ -137,41 +137,29 @@ public class KFoldCrossValidation {
 				k++;
 		}
 		
-		if(k<2)
-		{
-			System.err.println("There should be at least 2 partions...");
-			return;
-		}
-		
 		System.err.println("number of folds, k = " + k);
 		PrintStream defaultErr = System.err;
 		
 		for(int i=0; i<k; i++) //k,1
-		{
-			File file = new File("files/test/test" +model+ "/test_" + model + "_" + i + ".tsv");  
+		{			
+			File file = new File("files/err/err" +model+ "/err_" + model + "_" + i + ".tsv");  
 			FileOutputStream fis = new FileOutputStream(file.getPath());  
 			PrintStream out = new PrintStream(fis);  
-			System.setOut(out);
-			
-			file = new File("files/err/err" +model+ "/err_" + model + "_" + i + ".tsv");  
-			fis = new FileOutputStream(file.getPath());  
-			out = new PrintStream(fis);  
 			System.setErr(out); //
 			
 			System.err.println("fold " + i + " ...");
 			String partProp = prop;
-			String testFile = "testFile = files/partition/partition_" + i + ".tsv \n";
 			String serializeTo = "serializeTo = files/model/model" + model + "/ner_" + model + "_" + i + ".ser.gz \n";
 			String trainFileList = "trainFileList = ";
+			
 			for(int j=0; j<k; j++)
 			{
-				if(j != i){
-					trainFileList += "files/partition/partition_" + j + ".tsv,";
-				}
+				trainFileList += "files/partition/partition_" + j + ".tsv,";
 			}
+			
 			trainFileList += "\n";
 			trainFileList = trainFileList.replaceAll(",\n", "\n");
-			partProp += trainFileList + testFile + serializeTo;
+			partProp += trainFileList + serializeTo;
 			
 	    	PrintWriter pw = new PrintWriter("files/prop/prop" + model + "/prop_" + model + "_"+ i + ".prop", "UTF-8");
 	    	pw.print(partProp);
@@ -188,7 +176,7 @@ public class KFoldCrossValidation {
 		System.setErr(defaultErr);
 		long endTime   = System.currentTimeMillis();
 		long totalTime = endTime - startTime;
-		System.err.println("Finshed in " + totalTime/1000.0 + " seconds");
+		System.err.println("Finshed in " + totalTime/(60*1000.0) + " Minutes");
 	}
 
 }

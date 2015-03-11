@@ -10,7 +10,7 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
-public class KFoldEvaluation {
+public class IE4_KFoldEvaluation {
 
 	static double precision;
 	static double recall;
