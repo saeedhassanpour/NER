@@ -1,993 +1,993 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <annotations textSource="mda_Chest_CT_reports.txt">
     <annotation>
-        <mention id="EHOST_Instance_3048" />
+        <mention id="EHOST_Instance_238" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="413" end="478" />
         <spannedText>one focal area that is a little bit more prominent than the other</spannedText>
         <creationDate>Thu Feb 05 19:29:56 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3048">
+    <classMention id="EHOST_Instance_238">
         <mentionClass id="3_Yellow_Days">one focal area that is a little bit more prominent than the other</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3049" />
+        <mention id="EHOST_Instance_239" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="855" end="910" />
         <spannedText>Bilateral pleural and parenchymal posttreatment changes</spannedText>
         <creationDate>Thu Feb 19 23:04:21 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3049">
+    <classMention id="EHOST_Instance_239">
         <mentionClass id="4_Green_Positive">Bilateral pleural and parenchymal posttreatment changes</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3050" />
+        <mention id="EHOST_Instance_240" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="1616" end="1716" />
         <spannedText>changes in the left shoulder and left chest wall and upper arm consistent with underlying osteopenia</spannedText>
         <creationDate>Fri Feb 06 04:52:39 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3050">
+    <classMention id="EHOST_Instance_240">
         <mentionClass id="4_Green_Positive">changes in the left shoulder and left chest wall and upper arm consistent with underlying osteopenia</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3051" />
+        <mention id="EHOST_Instance_241" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="2234" end="2259" />
         <spannedText>Tiny pericardial effusion</spannedText>
         <creationDate>Fri Feb 06 04:53:13 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3051">
+    <classMention id="EHOST_Instance_241">
         <mentionClass id="3_Yellow_Days">Tiny pericardial effusion</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3052" />
+        <mention id="EHOST_Instance_242" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="2261" end="2360" />
         <spannedText>Adenopathy at the right hilum and ill-defined right and left paratracheal lymph nodes are unchanged</spannedText>
         <creationDate>Fri Feb 06 04:53:24 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3052">
+    <classMention id="EHOST_Instance_242">
         <mentionClass id="3_Yellow_Days">Adenopathy at the right hilum and ill-defined right and left paratracheal lymph nodes are unchanged</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3053" />
+        <mention id="EHOST_Instance_243" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="2603" end="2662" />
         <spannedText>Low attenuation hepatic lesions are presumably simple cysts</spannedText>
         <creationDate>Fri Feb 06 04:54:04 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3053">
+    <classMention id="EHOST_Instance_243">
         <mentionClass id="4_Green_Positive">Low attenuation hepatic lesions are presumably simple cysts</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3054" />
+        <mention id="EHOST_Instance_244" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="2664" end="2720" />
         <spannedText>Cholecystectomy clips and nephrectomy clips on the right</spannedText>
         <creationDate>Fri Feb 06 04:54:11 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3054">
+    <classMention id="EHOST_Instance_244">
         <mentionClass id="4_Green_Positive">Cholecystectomy clips and nephrectomy clips on the right</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3055" />
+        <mention id="EHOST_Instance_245" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="2802" end="2895" />
         <spannedText>Adenopathy and tiny pulmonary nodules remain unchanged and nonspecific over almost a year now</spannedText>
         <creationDate>Fri Feb 06 04:54:26 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3055">
+    <classMention id="EHOST_Instance_245">
         <mentionClass id="3_Yellow_Days">Adenopathy and tiny pulmonary nodules remain unchanged and nonspecific over almost a year now</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3056" />
+        <mention id="EHOST_Instance_246" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="2897" end="2934" />
         <spannedText>Active metastatic disease is unlikely</spannedText>
         <creationDate>Fri Feb 06 04:54:29 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3056">
+    <classMention id="EHOST_Instance_246">
         <mentionClass id="3_Yellow_Days">Active metastatic disease is unlikely</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3057" />
+        <mention id="EHOST_Instance_247" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="2936" end="2991" />
         <spannedText>They may be followed up to document long term stability</spannedText>
         <creationDate>Fri Feb 06 04:54:43 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3057">
+    <classMention id="EHOST_Instance_247">
         <mentionClass id="3_Yellow_Days">They may be followed up to document long term stability</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3058" />
+        <mention id="EHOST_Instance_248" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="3243" end="3397" />
         <spannedText>Numerous subcentimeter nodules, in parenchymal or subpleural locations, and spiculated masses, like a band of fibrosis, are noted in the lungs bilaterally</spannedText>
         <creationDate>Fri Feb 06 04:55:09 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3058">
+    <classMention id="EHOST_Instance_248">
         <mentionClass id="3_Yellow_Days">Numerous subcentimeter nodules, in parenchymal or subpleural locations, and spiculated masses, like a band of fibrosis, are noted in the lungs bilaterally</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3059" />
+        <mention id="EHOST_Instance_249" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="3400" end="3451" />
         <spannedText>The pre-existing disease has been relatively stable</spannedText>
         <creationDate>Fri Feb 06 04:55:21 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3059">
+    <classMention id="EHOST_Instance_249">
         <mentionClass id="3_Yellow_Days">The pre-existing disease has been relatively stable</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3060" />
+        <mention id="EHOST_Instance_250" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="3479" end="3541" />
         <spannedText>localized area of new ground-glass opacities in the right base</spannedText>
         <creationDate>Fri Feb 06 04:55:36 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3060">
+    <classMention id="EHOST_Instance_250">
         <mentionClass id="2_Orange_Hours">localized area of new ground-glass opacities in the right base</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3061" />
+        <mention id="EHOST_Instance_251" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="3625" end="3677" />
         <spannedText>This could represent superimposed infectious process</spannedText>
         <creationDate>Fri Feb 06 04:55:48 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3061">
+    <classMention id="EHOST_Instance_251">
         <mentionClass id="2_Orange_Hours">This could represent superimposed infectious process</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3062" />
+        <mention id="EHOST_Instance_252" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="3693" end="3740" />
         <spannedText>progressing sarcoidosis is probably more likely</spannedText>
         <creationDate>Fri Feb 06 04:55:57 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3062">
+    <classMention id="EHOST_Instance_252">
         <mentionClass id="2_Orange_Hours">progressing sarcoidosis is probably more likely</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3063" />
+        <mention id="EHOST_Instance_253" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="3743" end="3778" />
         <spannedText>Clinical correlation is recommended</spannedText>
         <creationDate>Fri Feb 06 04:56:01 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3063">
+    <classMention id="EHOST_Instance_253">
         <mentionClass id="2_Orange_Hours">Clinical correlation is recommended</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3064" />
+        <mention id="EHOST_Instance_254" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="3807" end="3855" />
         <spannedText>multiple enlarged lymph nodes in the mediastinum</spannedText>
         <creationDate>Fri Feb 06 04:56:19 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3064">
+    <classMention id="EHOST_Instance_254">
         <mentionClass id="3_Yellow_Days">multiple enlarged lymph nodes in the mediastinum</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3065" />
+        <mention id="EHOST_Instance_255" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="3979" end="3996" />
         <spannedText>grossly unchanged</spannedText>
         <creationDate>Fri Feb 06 04:56:23 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3065">
+    <classMention id="EHOST_Instance_255">
         <mentionClass id="3_Yellow_Days">grossly unchanged</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3066" />
+        <mention id="EHOST_Instance_256" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="4581" end="4681" />
         <spannedText>left pleural effusion with foci of loculation with some associated focal areas of pleural thickening</spannedText>
         <creationDate>Fri Feb 06 05:01:34 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3066">
+    <classMention id="EHOST_Instance_256">
         <mentionClass id="2_Orange_Hours">left pleural effusion with foci of loculation with some associated focal areas of pleural thickening</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3067" />
+        <mention id="EHOST_Instance_257" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="4734" end="4767" />
         <spannedText>left chest tube is noted in place</spannedText>
         <creationDate>Fri Feb 06 05:01:54 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3067">
+    <classMention id="EHOST_Instance_257">
         <mentionClass id="4_Green_Positive">left chest tube is noted in place</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3068" />
+        <mention id="EHOST_Instance_258" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="4769" end="4841" />
         <spannedText>findings can be clinically correlated for any malignant pleural effusion</spannedText>
         <creationDate>Fri Feb 06 05:02:05 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3068">
+    <classMention id="EHOST_Instance_258">
         <mentionClass id="2_Orange_Hours">findings can be clinically correlated for any malignant pleural effusion</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3069" />
+        <mention id="EHOST_Instance_259" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="5185" end="5231" />
         <spannedText>may be related to chronic inflammatory changes</spannedText>
         <creationDate>Fri Feb 06 05:02:27 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3069">
+    <classMention id="EHOST_Instance_259">
         <mentionClass id="3_Yellow_Days">may be related to chronic inflammatory changes</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3070" />
+        <mention id="EHOST_Instance_260" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="5238" end="5378" />
         <spannedText>Some sclerotic foci are identified in some of the vertebral bodies and the ribs and in the sternum, findings compatible with metastatic foci</spannedText>
         <creationDate>Fri Feb 06 05:06:03 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3070">
+    <classMention id="EHOST_Instance_260">
         <mentionClass id="2_Orange_Hours">Some sclerotic foci are identified in some of the vertebral bodies and the ribs and in the sternum, findings compatible with metastatic foci</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3071" />
+        <mention id="EHOST_Instance_261" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="5509" end="5613" />
         <spannedText>compression with sclerosis superimposed on degenerative spondylosis in the seventh dorsal vertebral body</spannedText>
         <creationDate>Fri Feb 06 05:06:08 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3071">
+    <classMention id="EHOST_Instance_261">
         <mentionClass id="2_Orange_Hours">compression with sclerosis superimposed on degenerative spondylosis in the seventh dorsal vertebral body</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3072" />
+        <mention id="EHOST_Instance_262" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="6142" end="6195" />
         <spannedText>postsurgical change is stable since the study of 2005</spannedText>
         <creationDate>Fri Feb 06 05:04:40 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3072">
+    <classMention id="EHOST_Instance_262">
         <mentionClass id="4_Green_Positive">postsurgical change is stable since the study of 2005</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3073" />
+        <mention id="EHOST_Instance_263" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="6198" end="6218" />
         <spannedText>Postsurgical changes</spannedText>
         <creationDate>Fri Feb 06 05:04:47 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3073">
+    <classMention id="EHOST_Instance_263">
         <mentionClass id="4_Green_Positive">Postsurgical changes</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3074" />
+        <mention id="EHOST_Instance_264" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="6236" end="6263" />
         <spannedText>axillary and breast regions</spannedText>
         <creationDate>Fri Feb 06 05:04:51 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3074">
+    <classMention id="EHOST_Instance_264">
         <mentionClass id="4_Green_Positive">axillary and breast regions</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3075" />
+        <mention id="EHOST_Instance_265" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="6354" end="6391" />
         <spannedText>tiny amount of air in the mediastinum</spannedText>
         <creationDate>Fri Feb 06 05:05:05 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3075">
+    <classMention id="EHOST_Instance_265">
         <mentionClass id="3_Yellow_Days">tiny amount of air in the mediastinum</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3076" />
+        <mention id="EHOST_Instance_266" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="6432" end="6530" />
         <spannedText>Left pleural effusion with loculation and this can be clinically correlated for malignant effusion</spannedText>
         <creationDate>Fri Feb 06 05:05:14 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3076">
+    <classMention id="EHOST_Instance_266">
         <mentionClass id="2_Orange_Hours">Left pleural effusion with loculation and this can be clinically correlated for malignant effusion</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3077" />
+        <mention id="EHOST_Instance_267" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="6664" end="6735" />
         <spannedText>small nonspecific mediastinal nodes without significant lymphadenopathy</spannedText>
         <creationDate>Fri Feb 06 05:05:34 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3077">
+    <classMention id="EHOST_Instance_267">
         <mentionClass id="3_Yellow_Days">small nonspecific mediastinal nodes without significant lymphadenopathy</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3078" />
+        <mention id="EHOST_Instance_268" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="6737" end="6769" />
         <spannedText>skeletal metastases as described</spannedText>
         <creationDate>Fri Feb 06 05:05:57 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3078">
+    <classMention id="EHOST_Instance_268">
         <mentionClass id="2_Orange_Hours">skeletal metastases as described</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3079" />
+        <mention id="EHOST_Instance_269" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="7161" end="7200" />
         <spannedText>Bilateral nonspecific pulmonary nodules</spannedText>
         <creationDate>Fri Feb 06 05:06:40 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3079">
+    <classMention id="EHOST_Instance_269">
         <mentionClass id="3_Yellow_Days">Bilateral nonspecific pulmonary nodules</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3080" />
+        <mention id="EHOST_Instance_270" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="7229" end="7326" />
         <spannedText>may be due to noncalcified granuloma though followup to exclude metastatic disease is recommended</spannedText>
         <creationDate>Fri Feb 06 05:06:47 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3080">
+    <classMention id="EHOST_Instance_270">
         <mentionClass id="3_Yellow_Days">may be due to noncalcified granuloma though followup to exclude metastatic disease is recommended</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3081" />
+        <mention id="EHOST_Instance_271" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="7948" end="7971" />
         <spannedText>bilateral central lines</spannedText>
         <creationDate>Fri Feb 06 05:07:10 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3081">
+    <classMention id="EHOST_Instance_271">
         <mentionClass id="4_Green_Positive">bilateral central lines</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3082" />
+        <mention id="EHOST_Instance_272" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="8185" end="8221" />
         <spannedText>Stable nonspecific pulmonary nodules</spannedText>
         <creationDate>Fri Feb 06 05:07:32 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3082">
+    <classMention id="EHOST_Instance_272">
         <mentionClass id="3_Yellow_Days">Stable nonspecific pulmonary nodules</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3083" />
+        <mention id="EHOST_Instance_273" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="8278" end="8300" />
         <spannedText>up to 3 mm in diameter</spannedText>
         <creationDate>Fri Feb 06 05:07:36 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3083">
+    <classMention id="EHOST_Instance_273">
         <mentionClass id="3_Yellow_Days">up to 3 mm in diameter</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3084" />
+        <mention id="EHOST_Instance_274" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="8303" end="8356" />
         <spannedText>Continued followup to exclude growth can be performed</spannedText>
         <creationDate>Fri Feb 06 05:07:38 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3084">
+    <classMention id="EHOST_Instance_274">
         <mentionClass id="3_Yellow_Days">Continued followup to exclude growth can be performed</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3085" />
+        <mention id="EHOST_Instance_275" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="8858" end="8879" />
         <spannedText>granulomatous disease</spannedText>
         <creationDate>Fri Feb 06 05:07:55 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3085">
+    <classMention id="EHOST_Instance_275">
         <mentionClass id="4_Green_Positive">granulomatous disease</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3086" />
+        <mention id="EHOST_Instance_276" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="8887" end="8904" />
         <spannedText>kyphosis is noted</spannedText>
         <creationDate>Fri Feb 06 05:07:58 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3086">
+    <classMention id="EHOST_Instance_276">
         <mentionClass id="4_Green_Positive">kyphosis is noted</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3087" />
+        <mention id="EHOST_Instance_277" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="8933" end="9002" />
         <spannedText>compression fractures of the spine and there appears to be osteopenia</spannedText>
         <creationDate>Fri Feb 06 05:08:05 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3087">
+    <classMention id="EHOST_Instance_277">
         <mentionClass id="3_Yellow_Days">compression fractures of the spine and there appears to be osteopenia</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3088" />
+        <mention id="EHOST_Instance_278" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="9008" end="9017" />
         <spannedText>esophagus</spannedText>
         <creationDate>Fri Feb 06 05:08:22 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3088">
+    <classMention id="EHOST_Instance_278">
         <mentionClass id="3_Yellow_Days">esophagus</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3089" />
+        <mention id="EHOST_Instance_279" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="9059" end="9084" />
         <spannedText>air fluid level within it</spannedText>
         <creationDate>Fri Feb 06 05:08:26 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3089">
+    <classMention id="EHOST_Instance_279">
         <mentionClass id="3_Yellow_Days">air fluid level within it</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3090" />
+        <mention id="EHOST_Instance_280" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="9086" end="9133" />
         <spannedText>Clinical correlation for dysphagia is suggested</spannedText>
         <creationDate>Fri Feb 06 05:08:32 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3090">
+    <classMention id="EHOST_Instance_280">
         <mentionClass id="3_Yellow_Days">Clinical correlation for dysphagia is suggested</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3091" />
+        <mention id="EHOST_Instance_281" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="9174" end="9291" />
         <spannedText>Low attenuation lesions in the thyroid gland are again noted and again suggest goiter; clinical correlation suggested</spannedText>
         <creationDate>Fri Feb 06 05:08:46 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3091">
+    <classMention id="EHOST_Instance_281">
         <mentionClass id="3_Yellow_Days">Low attenuation lesions in the thyroid gland are again noted and again suggest goiter; clinical correlation suggested</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3092" />
+        <mention id="EHOST_Instance_282" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="9302" end="9391" />
         <spannedText>mild degenerative changes of both shoulders and moderate degenerative change of the spine</spannedText>
         <creationDate>Fri Feb 06 05:08:58 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3092">
+    <classMention id="EHOST_Instance_282">
         <mentionClass id="4_Green_Positive">mild degenerative changes of both shoulders and moderate degenerative change of the spine</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3093" />
+        <mention id="EHOST_Instance_283" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="9393" end="9415" />
         <spannedText>Old left rib fractures</spannedText>
         <creationDate>Fri Feb 06 05:09:03 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3093">
+    <classMention id="EHOST_Instance_283">
         <mentionClass id="4_Green_Positive">Old left rib fractures</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3094" />
+        <mention id="EHOST_Instance_284" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="10045" end="10095" />
         <spannedText>stable small nodule within the right thyroid gland</spannedText>
         <creationDate>Fri Feb 06 05:09:21 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3094">
+    <classMention id="EHOST_Instance_284">
         <mentionClass id="3_Yellow_Days">stable small nodule within the right thyroid gland</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3095" />
+        <mention id="EHOST_Instance_285" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="10155" end="10184" />
         <spannedText>coronary artery calcification</spannedText>
         <creationDate>Fri Feb 06 05:09:24 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3095">
+    <classMention id="EHOST_Instance_285">
         <mentionClass id="3_Yellow_Days">coronary artery calcification</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3096" />
+        <mention id="EHOST_Instance_286" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="10192" end="10252" />
         <spannedText>metastasis involving the right scapula is essentially stable</spannedText>
         <creationDate>Fri Feb 06 05:09:29 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3096">
+    <classMention id="EHOST_Instance_286">
         <mentionClass id="3_Yellow_Days">metastasis involving the right scapula is essentially stable</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3097" />
+        <mention id="EHOST_Instance_287" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="10265" end="10332" />
         <spannedText>stable sclerotic metastasis involving a mid thoracic vertebral body</spannedText>
         <creationDate>Fri Feb 06 05:09:34 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3097">
+    <classMention id="EHOST_Instance_287">
         <mentionClass id="3_Yellow_Days">stable sclerotic metastasis involving a mid thoracic vertebral body</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3098" />
+        <mention id="EHOST_Instance_288" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="10367" end="10405" />
         <spannedText>multiple soft tissue pulmonary nodules</spannedText>
         <creationDate>Fri Feb 06 05:09:38 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3098">
+    <classMention id="EHOST_Instance_288">
         <mentionClass id="3_Yellow_Days">multiple soft tissue pulmonary nodules</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3099" />
+        <mention id="EHOST_Instance_289" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="10426" end="10451" />
         <spannedText>not significantly changed</spannedText>
         <creationDate>Fri Feb 06 05:09:42 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3099">
+    <classMention id="EHOST_Instance_289">
         <mentionClass id="3_Yellow_Days">not significantly changed</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3100" />
+        <mention id="EHOST_Instance_290" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="10491" end="10546" />
         <spannedText>A few of these nodules have slightly increased in size</spannedText>
         <creationDate>Fri Feb 06 05:10:48 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3100">
+    <classMention id="EHOST_Instance_290">
         <mentionClass id="2_Orange_Hours">A few of these nodules have slightly increased in size</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3101" />
+        <mention id="EHOST_Instance_291" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="10903" end="10933" />
         <spannedText>Bilateral pulmonary metastases</spannedText>
         <creationDate>Fri Feb 06 05:10:20 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3101">
+    <classMention id="EHOST_Instance_291">
         <mentionClass id="3_Yellow_Days">Bilateral pulmonary metastases</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3102" />
+        <mention id="EHOST_Instance_292" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="10948" end="10954" />
         <spannedText>stable</spannedText>
         <creationDate>Fri Feb 06 05:10:27 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3102">
+    <classMention id="EHOST_Instance_292">
         <mentionClass id="3_Yellow_Days">stable</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3103" />
+        <mention id="EHOST_Instance_293" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="11004" end="11061" />
         <spannedText>a few of these of lesions are minimally increased in size</spannedText>
         <creationDate>Fri Feb 06 05:10:41 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3103">
+    <classMention id="EHOST_Instance_293">
         <mentionClass id="2_Orange_Hours">a few of these of lesions are minimally increased in size</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3104" />
+        <mention id="EHOST_Instance_294" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="11106" end="11159" />
         <spannedText>Stable destructive lesion involving the right scapula</spannedText>
         <creationDate>Fri Feb 06 05:11:13 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3104">
+    <classMention id="EHOST_Instance_294">
         <mentionClass id="3_Yellow_Days">Stable destructive lesion involving the right scapula</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3105" />
+        <mention id="EHOST_Instance_295" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="11161" end="11237" />
         <spannedText>Metastatic disease involving the T8 vertebral body is also grossly unchanged</spannedText>
         <creationDate>Fri Feb 06 05:11:18 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3105">
+    <classMention id="EHOST_Instance_295">
         <mentionClass id="3_Yellow_Days">Metastatic disease involving the T8 vertebral body is also grossly unchanged</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3106" />
+        <mention id="EHOST_Instance_296" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="11712" end="11728" />
         <spannedText>remain unchanged</spannedText>
         <creationDate>Fri Feb 06 05:11:57 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3106">
+    <classMention id="EHOST_Instance_296">
         <mentionClass id="3_Yellow_Days">remain unchanged</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3107" />
+        <mention id="EHOST_Instance_297" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="11757" end="11770" />
         <spannedText>indeterminate</spannedText>
         <creationDate>Fri Feb 06 05:12:04 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3107">
+    <classMention id="EHOST_Instance_297">
         <mentionClass id="3_Yellow_Days">indeterminate</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3108" />
+        <mention id="EHOST_Instance_298" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="11775" end="11836" />
         <spannedText>can be followed for a total of 2 years to determine stability</spannedText>
         <creationDate>Fri Feb 06 05:12:12 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3108">
+    <classMention id="EHOST_Instance_298">
         <mentionClass id="3_Yellow_Days">can be followed for a total of 2 years to determine stability</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3109" />
+        <mention id="EHOST_Instance_299" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="11913" end="11993" />
         <spannedText>Minimal dependent pleural thickening in the left lower lobe is overall unchanged</spannedText>
         <creationDate>Fri Feb 06 05:12:31 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3109">
+    <classMention id="EHOST_Instance_299">
         <mentionClass id="4_Green_Positive">Minimal dependent pleural thickening in the left lower lobe is overall unchanged</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3110" />
+        <mention id="EHOST_Instance_300" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="12133" end="12177" />
         <spannedText>tip of a right port catheter lies in the SVC</spannedText>
         <creationDate>Fri Feb 06 05:12:45 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3110">
+    <classMention id="EHOST_Instance_300">
         <mentionClass id="4_Green_Positive">tip of a right port catheter lies in the SVC</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3111" />
+        <mention id="EHOST_Instance_301" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="12196" end="12247" />
         <spannedText>A few indeterminate pulmonary nodules remain stable</spannedText>
         <creationDate>Fri Feb 06 05:12:52 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3111">
+    <classMention id="EHOST_Instance_301">
         <mentionClass id="3_Yellow_Days">A few indeterminate pulmonary nodules remain stable</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3112" />
+        <mention id="EHOST_Instance_302" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="12252" end="12313" />
         <spannedText>can be followed for a total of 2 years to determine stability</spannedText>
         <creationDate>Fri Feb 06 05:12:55 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3112">
+    <classMention id="EHOST_Instance_302">
         <mentionClass id="3_Yellow_Days">can be followed for a total of 2 years to determine stability</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3113" />
+        <mention id="EHOST_Instance_303" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="12932" end="13003" />
         <spannedText>mediastinal and hilar lymph nodes which are prominent but stable dating</spannedText>
         <creationDate>Fri Feb 06 05:13:14 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3113">
+    <classMention id="EHOST_Instance_303">
         <mentionClass id="3_Yellow_Days">mediastinal and hilar lymph nodes which are prominent but stable dating</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3114" />
+        <mention id="EHOST_Instance_304" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="13138" end="13189" />
         <spannedText>These can be followed to exclude metastatic disease</spannedText>
         <creationDate>Fri Feb 06 05:13:19 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3114">
+    <classMention id="EHOST_Instance_304">
         <mentionClass id="3_Yellow_Days">These can be followed to exclude metastatic disease</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3115" />
+        <mention id="EHOST_Instance_305" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="13205" end="13220" />
         <spannedText>button in place</spannedText>
         <creationDate>Fri Feb 06 05:13:25 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3115">
+    <classMention id="EHOST_Instance_305">
         <mentionClass id="4_Green_Positive">button in place</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3116" />
+        <mention id="EHOST_Instance_306" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="13311" end="13337" />
         <spannedText>spleen contains granulomas</spannedText>
         <creationDate>Fri Feb 06 05:13:30 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3116">
+    <classMention id="EHOST_Instance_306">
         <mentionClass id="4_Green_Positive">spleen contains granulomas</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3117" />
+        <mention id="EHOST_Instance_307" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="13349" end="13392" />
         <spannedText>slight nodularity of the left adrenal gland</spannedText>
         <creationDate>Fri Feb 06 05:13:35 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3117">
+    <classMention id="EHOST_Instance_307">
         <mentionClass id="4_Green_Positive">slight nodularity of the left adrenal gland</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3118" />
+        <mention id="EHOST_Instance_308" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="13457" end="13511" />
         <spannedText>Mediastinal and hilar lymph nodes have remained stable</spannedText>
         <creationDate>Fri Feb 06 05:13:57 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3118">
+    <classMention id="EHOST_Instance_308">
         <mentionClass id="3_Yellow_Days">Mediastinal and hilar lymph nodes have remained stable</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3119" />
+        <mention id="EHOST_Instance_309" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="14170" end="14317" />
         <spannedText>no interval change in the bilateral, multifocal ground-glass opacities consistent with biopsy proven, well differentiated bronchoalveolar carcinoma</spannedText>
         <creationDate>Fri Feb 06 05:14:40 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3119">
+    <classMention id="EHOST_Instance_309">
         <mentionClass id="3_Yellow_Days">no interval change in the bilateral, multifocal ground-glass opacities consistent with biopsy proven, well differentiated bronchoalveolar carcinoma</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3120" />
+        <mention id="EHOST_Instance_310" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="14672" end="14691" />
         <spannedText>small hiatal hernia</spannedText>
         <creationDate>Fri Feb 06 05:15:01 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3120">
+    <classMention id="EHOST_Instance_310">
         <mentionClass id="4_Green_Positive">small hiatal hernia</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3121" />
+        <mention id="EHOST_Instance_311" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="14790" end="14883" />
         <spannedText>Stable bilateral multifocal ground-glass opacities consistent with bronchioalveolar carcinoma</spannedText>
         <creationDate>Fri Feb 06 05:15:08 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3121">
+    <classMention id="EHOST_Instance_311">
         <mentionClass id="3_Yellow_Days">Stable bilateral multifocal ground-glass opacities consistent with bronchioalveolar carcinoma</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3122" />
+        <mention id="EHOST_Instance_312" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="161" end="208" />
         <spannedText>posttreatment changes in both lungs and pleural</spannedText>
         <creationDate>Thu Feb 19 23:03:00 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3122">
+    <classMention id="EHOST_Instance_312">
         <mentionClass id="4_Green_Positive">posttreatment changes in both lungs and pleural</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3123" />
+        <mention id="EHOST_Instance_313" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="480" end="501" />
         <spannedText>This is indeterminate</spannedText>
         <creationDate>Thu Feb 19 23:03:28 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3123">
+    <classMention id="EHOST_Instance_313">
         <mentionClass id="3_Yellow_Days">This is indeterminate</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3124" />
+        <mention id="EHOST_Instance_314" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="527" end="547" />
         <spannedText>continued evaluation</spannedText>
         <creationDate>Thu Feb 19 23:03:34 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3124">
+    <classMention id="EHOST_Instance_314">
         <mentionClass id="3_Yellow_Days">continued evaluation</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3125" />
+        <mention id="EHOST_Instance_315" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="609" end="654" />
         <spannedText>followup intervention with MRI may be helpful</spannedText>
         <creationDate>Thu Feb 19 23:03:59 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3125">
+    <classMention id="EHOST_Instance_315">
         <mentionClass id="3_Yellow_Days">followup intervention with MRI may be helpful</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3126" />
+        <mention id="EHOST_Instance_316" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="1285" end="1313" />
         <spannedText>suggest clinical correlation</spannedText>
         <creationDate>Thu Feb 19 23:04:40 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3126">
+    <classMention id="EHOST_Instance_316">
         <mentionClass id="3_Yellow_Days">suggest clinical correlation</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3127" />
+        <mention id="EHOST_Instance_317" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="1114" end="1147" />
         <spannedText>prominent chest wall soft tissues</spannedText>
         <creationDate>Thu Feb 19 23:04:53 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3127">
+    <classMention id="EHOST_Instance_317">
         <mentionClass id="3_Yellow_Days">prominent chest wall soft tissues</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3128" />
+        <mention id="EHOST_Instance_318" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="1387" end="1409" />
         <spannedText>MRI of the chest wall</spannedText>
         <creationDate>Thu Feb 19 23:05:09 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3128">
+    <classMention id="EHOST_Instance_318">
         <mentionClass id="3_Yellow_Days">MRI of the chest wall</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3129" />
+        <mention id="EHOST_Instance_319" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="1424" end="1476" />
         <spannedText>helpful in demonstrating any reactive or new changes</spannedText>
         <creationDate>Thu Feb 19 23:05:24 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3129">
+    <classMention id="EHOST_Instance_319">
         <mentionClass id="3_Yellow_Days">helpful in demonstrating any reactive or new changes</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3130" />
+        <mention id="EHOST_Instance_320" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="1501" end="1564" />
         <spannedText>these features are fairly consistent with posttreatment changes</spannedText>
         <creationDate>Thu Feb 19 23:05:33 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3130">
+    <classMention id="EHOST_Instance_320">
         <mentionClass id="4_Green_Positive">these features are fairly consistent with posttreatment changes</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3131" />
+        <mention id="EHOST_Instance_321" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="2189" end="2220" />
         <spannedText>Coronary artery calcifications</spannedText>
         <creationDate>Thu Feb 19 23:05:53 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3131">
+    <classMention id="EHOST_Instance_321">
         <mentionClass id="3_Yellow_Days">Coronary artery calcifications</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3132" />
+        <mention id="EHOST_Instance_322" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="2384" end="2417" />
         <spannedText>scattered small pulmonary nodules</spannedText>
         <creationDate>Thu Feb 19 23:06:21 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3132">
+    <classMention id="EHOST_Instance_322">
         <mentionClass id="3_Yellow_Days">scattered small pulmonary nodules</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3133" />
+        <mention id="EHOST_Instance_323" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="2449" end="2459" />
         <spannedText>both lungs</spannedText>
         <creationDate>Thu Feb 19 23:06:24 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3133">
+    <classMention id="EHOST_Instance_323">
         <mentionClass id="3_Yellow_Days">both lungs</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3134" />
+        <mention id="EHOST_Instance_324" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="4123" end="4202" />
         <spannedText>Development of localized area of ground-glass opacities in the right lower lobe</spannedText>
         <creationDate>Thu Feb 19 23:07:59 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3134">
+    <classMention id="EHOST_Instance_324">
         <mentionClass id="3_Yellow_Days">Development of localized area of ground-glass opacities in the right lower lobe</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3135" />
+        <mention id="EHOST_Instance_325" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="4218" end="4280" />
         <spannedText>stable disease in the rest of the lungs, mediastinum, and hila</spannedText>
         <creationDate>Thu Feb 19 23:08:09 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3135">
+    <classMention id="EHOST_Instance_325">
         <mentionClass id="4_Green_Positive">stable disease in the rest of the lungs, mediastinum, and hila</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3136" />
+        <mention id="EHOST_Instance_326" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="5103" end="5160" />
         <spannedText>Some focal areas of pleural thickening in the right chest</spannedText>
         <creationDate>Thu Feb 19 23:08:44 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3136">
+    <classMention id="EHOST_Instance_326">
         <mentionClass id="3_Yellow_Days">Some focal areas of pleural thickening in the right chest</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3137" />
+        <mention id="EHOST_Instance_327" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="5641" end="5688" />
         <spannedText>metastasis superimposed on degenerative changes</spannedText>
         <creationDate>Thu Feb 19 23:09:31 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3137">
+    <classMention id="EHOST_Instance_327">
         <mentionClass id="2_Orange_Hours">metastasis superimposed on degenerative changes</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3138" />
+        <mention id="EHOST_Instance_328" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="5704" end="5769" />
         <spannedText>a soft tissue attenuation focus in the midline of the lower chest</spannedText>
         <creationDate>Thu Feb 19 23:10:06 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3138">
+    <classMention id="EHOST_Instance_328">
         <mentionClass id="2_Orange_Hours">a soft tissue attenuation focus in the midline of the lower chest</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3139" />
+        <mention id="EHOST_Instance_329" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="5958" end="5992" />
         <spannedText>is compatible with recurrent focus</spannedText>
         <creationDate>Thu Feb 19 23:10:15 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3139">
+    <classMention id="EHOST_Instance_329">
         <mentionClass id="2_Orange_Hours">is compatible with recurrent focus</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3140" />
+        <mention id="EHOST_Instance_330" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="6549" end="6587" />
         <spannedText>soft tissue in the anterior chest wall</spannedText>
         <creationDate>Thu Feb 19 23:11:09 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3140">
+    <classMention id="EHOST_Instance_330">
         <mentionClass id="2_Orange_Hours">soft tissue in the anterior chest wall</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3141" />
+        <mention id="EHOST_Instance_331" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="6630" end="6656" />
         <spannedText>compatible with recurrence</spannedText>
         <creationDate>Thu Feb 19 23:11:14 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3141">
+    <classMention id="EHOST_Instance_331">
         <mentionClass id="2_Orange_Hours">compatible with recurrence</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3142" />
+        <mention id="EHOST_Instance_332" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="10721" end="10764" />
         <spannedText>cavitary nodule within the right lower lobe</spannedText>
         <creationDate>Thu Feb 19 23:13:14 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3142">
+    <classMention id="EHOST_Instance_332">
         <mentionClass id="2_Orange_Hours">cavitary nodule within the right lower lobe</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3143" />
+        <mention id="EHOST_Instance_333" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="11544" end="11574" />
         <spannedText>subcentimeter pulmonary nodule</spannedText>
         <creationDate>Thu Feb 19 23:13:57 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3143">
+    <classMention id="EHOST_Instance_333">
         <mentionClass id="3_Yellow_Days">subcentimeter pulmonary nodule</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3144" />
+        <mention id="EHOST_Instance_334" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="11582" end="11597" />
         <spannedText>left upper lobe</spannedText>
         <creationDate>Thu Feb 19 23:14:01 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3144">
+    <classMention id="EHOST_Instance_334">
         <mentionClass id="3_Yellow_Days">left upper lobe</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3145" />
+        <mention id="EHOST_Instance_335" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="11606" end="11623" />
         <spannedText>right middle lobe</spannedText>
         <creationDate>Thu Feb 19 23:14:04 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3145">
+    <classMention id="EHOST_Instance_335">
         <mentionClass id="3_Yellow_Days">right middle lobe</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_3146" />
+        <mention id="EHOST_Instance_336" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="11663" end="11679" />
         <spannedText>right lower lobe</spannedText>
         <creationDate>Thu Feb 19 23:14:08 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_3146">
+    <classMention id="EHOST_Instance_336">
         <mentionClass id="3_Yellow_Days">right lower lobe</mentionClass>
     </classMention>
     <eHOST_Adjudication_Status version="1.0">

@@ -38,8 +38,8 @@ public class FS4_KFoldCrossValidation {
 				+ "useLemmas = true \n"
 				+ "useClassFeature = true \n"
 				+ "usePcatFeature = true \n"
-				+ "useIdfFeature = true \n"
-				+ "useMarkFeature= true \n"
+				+ "useIdfFeature = false \n"
+				+ "useMarkFeature= false \n"
 				+ "\n"
 				
 //				+ "#useObservedSequencesOnly = true \n"
@@ -151,7 +151,7 @@ public class FS4_KFoldCrossValidation {
 		System.err.println("number of folds, k = " + k);
 		PrintStream defaultErr = System.err;
 		
-		for(int i=0; i<k; i++) //<k,1
+		for(int i=0; i<1; i++) //<k,1
 		{
 			File file = new File("sum/test/test" +model+ "/test_" + model + "_" + i + ".tsv");  
 			FileOutputStream fis = new FileOutputStream(file.getPath());  

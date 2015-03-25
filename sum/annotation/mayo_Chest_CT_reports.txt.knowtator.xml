@@ -1,573 +1,573 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <annotations textSource="mayo_Chest_CT_reports.txt">
     <annotation>
-        <mention id="EHOST_Instance_2811" />
+        <mention id="EHOST_Instance_1" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="295" end="313" />
         <spannedText>calcium score is 5</spannedText>
         <creationDate>Wed Jan 28 13:41:11 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2811">
+    <classMention id="EHOST_Instance_1">
         <mentionClass id="3_Yellow_Days">calcium score is 5</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2812" />
+        <mention id="EHOST_Instance_2" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="515" end="564" />
         <spannedText>proximal left anterior descending coronary artery</spannedText>
         <creationDate>Wed Jan 28 13:41:32 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2812">
+    <classMention id="EHOST_Instance_2">
         <mentionClass id="3_Yellow_Days">proximal left anterior descending coronary artery</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2813" />
+        <mention id="EHOST_Instance_3" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="869" end="898" />
         <spannedText>small bilateral renal calculi</spannedText>
         <creationDate>Wed Jan 28 13:42:10 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2813">
+    <classMention id="EHOST_Instance_3">
         <mentionClass id="3_Yellow_Days">small bilateral renal calculi</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2814" />
+        <mention id="EHOST_Instance_4" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="2553" end="2585" />
         <spannedText>Tiny calculi in the right kidney</spannedText>
         <creationDate>Wed Jan 28 13:52:17 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2814">
+    <classMention id="EHOST_Instance_4">
         <mentionClass id="3_Yellow_Days">Tiny calculi in the right kidney</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2815" />
+        <mention id="EHOST_Instance_5" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="3346" end="3374" />
         <spannedText>Small right pleural effusion</spannedText>
         <creationDate>Wed Jan 28 13:53:31 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2815">
+    <classMention id="EHOST_Instance_5">
         <mentionClass id="3_Yellow_Days">Small right pleural effusion</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2816" />
+        <mention id="EHOST_Instance_6" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="4956" end="5015" />
         <spannedText>Slight interval increase in the bilateral pleural effusions</spannedText>
         <creationDate>Wed Jan 28 13:55:30 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2816">
+    <classMention id="EHOST_Instance_6">
         <mentionClass id="3_Yellow_Days">Slight interval increase in the bilateral pleural effusions</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2817" />
+        <mention id="EHOST_Instance_7" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="5094" end="5149" />
         <spannedText>New, hazy infiltrate in the right upper lung anteriorly</spannedText>
         <creationDate>Wed Jan 28 13:55:41 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2817">
+    <classMention id="EHOST_Instance_7">
         <mentionClass id="3_Yellow_Days">New, hazy infiltrate in the right upper lung anteriorly</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2818" />
+        <mention id="EHOST_Instance_8" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="5198" end="5238" />
         <spannedText>Small pericardial effusion or thickening</spannedText>
         <creationDate>Wed Jan 28 13:55:54 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2818">
+    <classMention id="EHOST_Instance_8">
         <mentionClass id="3_Yellow_Days">Small pericardial effusion or thickening</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2819" />
+        <mention id="EHOST_Instance_9" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="5262" end="5276" />
         <spannedText>Cholelithiasis</spannedText>
         <creationDate>Wed Jan 28 13:56:01 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2819">
+    <classMention id="EHOST_Instance_9">
         <mentionClass id="4_Green_Positive">Cholelithiasis</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2820" />
+        <mention id="EHOST_Instance_10" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="5554" end="5595" />
         <spannedText>Minimally displaced fracture left scapula</spannedText>
         <creationDate>Wed Jan 28 13:56:17 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2820">
+    <classMention id="EHOST_Instance_10">
         <mentionClass id="2_Orange_Hours">Minimally displaced fracture left scapula</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2821" />
+        <mention id="EHOST_Instance_11" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="6582" end="6654" />
         <spannedText>Healing pathologic fractures of the posterolateral left 8th and 9th ribs</spannedText>
         <creationDate>Wed Jan 28 13:58:02 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2821">
+    <classMention id="EHOST_Instance_11">
         <mentionClass id="3_Yellow_Days">Healing pathologic fractures of the posterolateral left 8th and 9th ribs</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2822" />
+        <mention id="EHOST_Instance_12" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="147" end="176" />
         <spannedText>coronary artery calcification</spannedText>
         <creationDate>Thu Jan 29 15:41:36 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2822">
+    <classMention id="EHOST_Instance_12">
         <mentionClass id="3_Yellow_Days">coronary artery calcification</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2823" />
+        <mention id="EHOST_Instance_13" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="225" end="241" />
         <spannedText>calcium deposits</spannedText>
         <creationDate>Thu Jan 29 15:41:48 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2823">
+    <classMention id="EHOST_Instance_13">
         <mentionClass id="3_Yellow_Days">calcium deposits</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2824" />
+        <mention id="EHOST_Instance_14" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="1044" end="1059" />
         <spannedText>Cholecystectomy</spannedText>
         <creationDate>Thu Jan 29 15:42:20 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2824">
+    <classMention id="EHOST_Instance_14">
         <mentionClass id="4_Green_Positive">Cholecystectomy</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2825" />
+        <mention id="EHOST_Instance_15" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="1640" end="1708" />
         <spannedText>Pleural thickening elsewhere in the left base has decreased slightly</spannedText>
         <creationDate>Thu Jan 29 15:43:10 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2825">
+    <classMention id="EHOST_Instance_15">
         <mentionClass id="3_Yellow_Days">Pleural thickening elsewhere in the left base has decreased slightly</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2826" />
+        <mention id="EHOST_Instance_16" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="1852" end="1882" />
         <spannedText>Advanced emphysematous changes</spannedText>
         <creationDate>Thu Jan 29 15:43:28 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2826">
+    <classMention id="EHOST_Instance_16">
         <mentionClass id="3_Yellow_Days">Advanced emphysematous changes</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2827" />
+        <mention id="EHOST_Instance_17" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="1887" end="1917" />
         <spannedText>scattered scarring bilaterally</spannedText>
         <creationDate>Thu Jan 29 15:43:59 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2827">
+    <classMention id="EHOST_Instance_17">
         <mentionClass id="4_Green_Positive">scattered scarring bilaterally</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2828" />
+        <mention id="EHOST_Instance_18" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="1959" end="1982" />
         <spannedText>Vascular calcifications</spannedText>
         <creationDate>Thu Jan 29 15:44:14 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2828">
+    <classMention id="EHOST_Instance_18">
         <mentionClass id="4_Green_Positive">Vascular calcifications</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2829" />
+        <mention id="EHOST_Instance_19" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="1994" end="2024" />
         <spannedText>coronary artery calcifications</spannedText>
         <creationDate>Thu Jan 29 15:44:25 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2829">
+    <classMention id="EHOST_Instance_19">
         <mentionClass id="3_Yellow_Days">coronary artery calcifications</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2830" />
+        <mention id="EHOST_Instance_20" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="6831" end="6845" />
         <spannedText>Cholelithiasis</spannedText>
         <creationDate>Thu Jan 29 16:20:39 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2830">
+    <classMention id="EHOST_Instance_20">
         <mentionClass id="4_Green_Positive">Cholelithiasis</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2831" />
+        <mention id="EHOST_Instance_21" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="6847" end="6873" />
         <spannedText>Stable left renal calculus</spannedText>
         <creationDate>Thu Jan 29 16:20:57 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2831">
+    <classMention id="EHOST_Instance_21">
         <mentionClass id="3_Yellow_Days">Stable left renal calculus</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2832" />
+        <mention id="EHOST_Instance_22" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="3060" end="3086" />
         <spannedText>Slight fibrosis right base</spannedText>
         <creationDate>Thu Jan 29 16:24:16 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2832">
+    <classMention id="EHOST_Instance_22">
         <mentionClass id="4_Green_Positive">Slight fibrosis right base</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2833" />
+        <mention id="EHOST_Instance_23" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="3107" end="3137" />
         <spannedText>coronary artery calcifications</spannedText>
         <creationDate>Thu Jan 29 16:24:35 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2833">
+    <classMention id="EHOST_Instance_23">
         <mentionClass id="3_Yellow_Days">coronary artery calcifications</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2834" />
+        <mention id="EHOST_Instance_24" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="3746" end="3776" />
         <spannedText>coronary artery calcifications</spannedText>
         <creationDate>Thu Jan 29 16:25:16 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2834">
+    <classMention id="EHOST_Instance_24">
         <mentionClass id="3_Yellow_Days">coronary artery calcifications</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2835" />
+        <mention id="EHOST_Instance_25" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="4361" end="4376" />
         <spannedText>cholecystectomy</spannedText>
         <creationDate>Thu Jan 29 16:26:35 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2835">
+    <classMention id="EHOST_Instance_25">
         <mentionClass id="4_Green_Positive">cholecystectomy</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2836" />
+        <mention id="EHOST_Instance_26" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="4746" end="4795" />
         <spannedText>Compression fractures of T4-T7 vertebral bodies</spannedText>
         <creationDate>Thu Jan 29 16:27:01 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2836">
+    <classMention id="EHOST_Instance_26">
         <mentionClass id="3_Yellow_Days">Compression fractures of T4-T7 vertebral bodies</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2837" />
+        <mention id="EHOST_Instance_27" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="4802" end="4821" />
         <spannedText>mild compression L1</spannedText>
         <creationDate>Thu Jan 29 16:27:05 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2837">
+    <classMention id="EHOST_Instance_27">
         <mentionClass id="3_Yellow_Days">mild compression L1</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2838" />
+        <mention id="EHOST_Instance_28" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="1301" end="1342" />
         <spannedText>precarinal lymph node is slightly smaller</spannedText>
         <creationDate>Thu Feb 19 22:00:23 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2838">
+    <classMention id="EHOST_Instance_28">
         <mentionClass id="3_Yellow_Days">precarinal lymph node is slightly smaller</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2839" />
+        <mention id="EHOST_Instance_29" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="1390" end="1416" />
         <spannedText>loculated pleural fluid in</spannedText>
         <creationDate>Thu Feb 19 22:00:40 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2839">
+    <classMention id="EHOST_Instance_29">
         <mentionClass id="3_Yellow_Days">loculated pleural fluid in</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2840" />
+        <mention id="EHOST_Instance_30" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="1454" end="1472" />
         <spannedText>decreased slightly</spannedText>
         <creationDate>Thu Feb 19 22:00:45 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2840">
+    <classMention id="EHOST_Instance_30">
         <mentionClass id="3_Yellow_Days">decreased slightly</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2841" />
+        <mention id="EHOST_Instance_31" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="1493" end="1525" />
         <spannedText>new pleural or subpleural nodule</spannedText>
         <creationDate>Thu Feb 19 22:01:07 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2841">
+    <classMention id="EHOST_Instance_31">
         <mentionClass id="2_Orange_Hours">new pleural or subpleural nodule</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2842" />
+        <mention id="EHOST_Instance_32" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="1533" end="1549" />
         <spannedText>left lower chest</spannedText>
         <creationDate>Thu Feb 19 22:01:14 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2842">
+    <classMention id="EHOST_Instance_32">
         <mentionClass id="2_Orange_Hours">left lower chest</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2843" />
+        <mention id="EHOST_Instance_33" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="1633" end="1638" />
         <spannedText>tumor</spannedText>
         <creationDate>Thu Feb 19 22:01:34 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2843">
+    <classMention id="EHOST_Instance_33">
         <mentionClass id="2_Orange_Hours">tumor</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2844" />
+        <mention id="EHOST_Instance_34" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="2151" end="2169" />
         <spannedText>extensive fibrosis</spannedText>
         <creationDate>Thu Feb 19 22:02:12 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2844">
+    <classMention id="EHOST_Instance_34">
         <mentionClass id="3_Yellow_Days">extensive fibrosis</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2845" />
+        <mention id="EHOST_Instance_35" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="2384" end="2415" />
         <spannedText>pulmonary arterial hypertension</spannedText>
         <creationDate>Thu Feb 19 22:02:44 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2845">
+    <classMention id="EHOST_Instance_35">
         <mentionClass id="3_Yellow_Days">pulmonary arterial hypertension</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2846" />
+        <mention id="EHOST_Instance_36" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="2324" end="2342" />
         <spannedText>Marked enlargement</spannedText>
         <creationDate>Thu Feb 19 22:02:58 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2846">
+    <classMention id="EHOST_Instance_36">
         <mentionClass id="3_Yellow_Days">Marked enlargement</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2847" />
+        <mention id="EHOST_Instance_37" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="2512" end="2551" />
         <spannedText>Extensive coronary artery calcification</spannedText>
         <creationDate>Thu Feb 19 22:03:06 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2847">
+    <classMention id="EHOST_Instance_37">
         <mentionClass id="3_Yellow_Days">Extensive coronary artery calcification</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2848" />
+        <mention id="EHOST_Instance_38" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="3015" end="3019" />
         <spannedText>Mild</spannedText>
         <creationDate>Thu Feb 19 22:03:30 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2848">
+    <classMention id="EHOST_Instance_38">
         <mentionClass id="3_Yellow_Days">Mild</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2849" />
+        <mention id="EHOST_Instance_39" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="3031" end="3040" />
         <spannedText>emphysema</spannedText>
         <creationDate>Thu Feb 19 22:03:32 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2849">
+    <classMention id="EHOST_Instance_39">
         <mentionClass id="3_Yellow_Days">emphysema</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2850" />
+        <mention id="EHOST_Instance_40" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="3048" end="3058" />
         <spannedText>right lung</spannedText>
         <creationDate>Thu Feb 19 22:03:37 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2850">
+    <classMention id="EHOST_Instance_40">
         <mentionClass id="3_Yellow_Days">right lung</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2851" />
+        <mention id="EHOST_Instance_41" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="3429" end="3445" />
         <spannedText>right lower lobe</spannedText>
         <creationDate>Thu Feb 19 22:04:17 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2851">
+    <classMention id="EHOST_Instance_41">
         <mentionClass id="3_Yellow_Days">right lower lobe</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2852" />
+        <mention id="EHOST_Instance_42" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="3478" end="3496" />
         <spannedText>roundedatelectasis</spannedText>
         <creationDate>Thu Feb 19 22:04:20 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2852">
+    <classMention id="EHOST_Instance_42">
         <mentionClass id="3_Yellow_Days">roundedatelectasis</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2853" />
+        <mention id="EHOST_Instance_43" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="3498" end="3517" />
         <spannedText>Recommend follow-up</spannedText>
         <creationDate>Thu Feb 19 22:04:44 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2853">
+    <classMention id="EHOST_Instance_43">
         <mentionClass id="3_Yellow_Days">Recommend follow-up</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2854" />
+        <mention id="EHOST_Instance_44" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="3529" end="3552" />
         <spannedText>in six months to a year</spannedText>
         <creationDate>Thu Feb 19 22:04:53 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2854">
+    <classMention id="EHOST_Instance_44">
         <mentionClass id="3_Yellow_Days">in six months to a year</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2855" />
+        <mention id="EHOST_Instance_45" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="3621" end="3626" />
         <spannedText>Focal</spannedText>
         <creationDate>Thu Feb 19 22:05:28 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2855">
+    <classMention id="EHOST_Instance_45">
         <mentionClass id="4_Green_Positive">Focal</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2856" />
+        <mention id="EHOST_Instance_46" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="3635" end="3643" />
         <spannedText>fibrosis</spannedText>
         <creationDate>Thu Feb 19 22:05:32 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2856">
+    <classMention id="EHOST_Instance_46">
         <mentionClass id="4_Green_Positive">fibrosis</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2857" />
+        <mention id="EHOST_Instance_47" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="3663" end="3680" />
         <spannedText>right middle lobe</spannedText>
         <creationDate>Thu Feb 19 22:05:45 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2857">
+    <classMention id="EHOST_Instance_47">
         <mentionClass id="4_Green_Positive">right middle lobe</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2858" />
+        <mention id="EHOST_Instance_48" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="4098" end="4129" />
         <spannedText>Considerable interval decrease</spannedText>
         <creationDate>Thu Feb 19 22:06:48 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2858">
+    <classMention id="EHOST_Instance_48">
         <mentionClass id="3_Yellow_Days">Considerable interval decrease</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2859" />
+        <mention id="EHOST_Instance_49" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="4149" end="4188" />
         <spannedText>small left lower lobe pulmonary nodules</spannedText>
         <creationDate>Thu Feb 19 22:06:56 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2859">
+    <classMention id="EHOST_Instance_49">
         <mentionClass id="3_Yellow_Days">small left lower lobe pulmonary nodules</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2860" />
+        <mention id="EHOST_Instance_50" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="6122" end="6144" />
         <spannedText>No significant change</spannedText>
         <creationDate>Thu Feb 19 22:08:15 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2860">
+    <classMention id="EHOST_Instance_50">
         <mentionClass id="3_Yellow_Days">No significant change</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2861" />
+        <mention id="EHOST_Instance_51" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="6152" end="6200" />
         <spannedText>mild mediastinal and mild right hilar adenopathy</spannedText>
         <creationDate>Thu Feb 19 22:08:22 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2861">
+    <classMention id="EHOST_Instance_51">
         <mentionClass id="3_Yellow_Days">mild mediastinal and mild right hilar adenopathy</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2862" />
+        <mention id="EHOST_Instance_52" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="6204" end="6216" />
         <spannedText>small nodule</spannedText>
         <creationDate>Thu Feb 19 22:08:32 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2862">
+    <classMention id="EHOST_Instance_52">
         <mentionClass id="3_Yellow_Days">small nodule</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2863" />
+        <mention id="EHOST_Instance_53" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="6224" end="6233" />
         <spannedText>left base</spannedText>
         <creationDate>Thu Feb 19 22:08:38 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2863">
+    <classMention id="EHOST_Instance_53">
         <mentionClass id="3_Yellow_Days">left base</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2864" />
+        <mention id="EHOST_Instance_54" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="6271" end="6287" />
         <spannedText>enlargedslightly</spannedText>
         <creationDate>Thu Feb 19 22:08:42 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2864">
+    <classMention id="EHOST_Instance_54">
         <mentionClass id="3_Yellow_Days">enlargedslightly</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2865" />
+        <mention id="EHOST_Instance_55" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="6398" end="6416" />
         <spannedText>Radiation fibrosis</spannedText>
         <creationDate>Thu Feb 19 22:08:55 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2865">
+    <classMention id="EHOST_Instance_55">
         <mentionClass id="4_Green_Positive">Radiation fibrosis</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2866" />
+        <mention id="EHOST_Instance_56" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="6441" end="6454" />
         <spannedText>right midlung</spannedText>
         <creationDate>Thu Feb 19 22:09:00 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2866">
+    <classMention id="EHOST_Instance_56">
         <mentionClass id="4_Green_Positive">right midlung</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2867" />
+        <mention id="EHOST_Instance_57" />
         <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
         <span start="6507" end="6536" />
         <spannedText>Scattered skeletal metastases</spannedText>
         <creationDate>Thu Feb 19 22:09:18 PST 2015</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2867">
+    <classMention id="EHOST_Instance_57">
         <mentionClass id="3_Yellow_Days">Scattered skeletal metastases</mentionClass>
     </classMention>
     <eHOST_Adjudication_Status version="1.0">

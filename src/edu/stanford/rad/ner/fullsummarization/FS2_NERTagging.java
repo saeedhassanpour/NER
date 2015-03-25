@@ -13,7 +13,7 @@ public class FS2_NERTagging {
 		long startTime = System.currentTimeMillis();
 		String modelType = "CRF"; // CRF,CMM
 		PrintStream defaultOut = System.out;
-		String model = "files/model/modelCRF/ner_CRF_0.ser.gz";
+		String model = "files/model-10/modelCRF/ner_CRF_0.ser.gz";
 
 		final File Datafolder = new File("sum/partitionOutput");
 		for (final File fileEntry : Datafolder.listFiles()) {
@@ -38,6 +38,6 @@ public class FS2_NERTagging {
 		}
 		long endTime = System.currentTimeMillis();
 		long totalTime = endTime - startTime;
-		System.err.println("Finshed in " + totalTime / 1000.0 + " seconds");
+		System.err.println("Finshed in " + totalTime / (1000.0*60) + " minutes");
 	}
 }

@@ -155,16 +155,17 @@ public class FS1_KFoldPartitioningWithAnnotation{
 						}
 						
 						//1 CLASS
-//						if(mentionClass.equals("1_Red_Minutes") || mentionClass.equals("2_Orange_Hours") || mentionClass.equals("4_Green_Positive"))
-//						{
-//							mentionClass = "3_Yellow_Days";
-//						}
+						if(mentionClass.equals("1_Red_Minutes") || mentionClass.equals("2_Orange_Hours"))
+						{
+							mentionClass = "3_Yellow_Days";
+						}
 						
 						//2 CLASSES
-						if(mentionClass.equals("2_Orange_Hours"))
-						{
-							mentionClass = "1_Red_Minutes";
-						}
+//						if(mentionClass.equals("2_Orange_Hours"))
+//						{
+//							mentionClass = "1_Red_Minutes";
+//						}
+						
 						else if(mentionClass.equals("4_Green_Positive"))
 						{
 							//mentionClass = "3_Yellow_Days";
@@ -188,7 +189,7 @@ public class FS1_KFoldPartitioningWithAnnotation{
 			System.out.println("size:" + allReports.size());
 		}
 		
-		int k = 10;
+		int k = 5;
 		int n = allReports.size();
 		int d = n/k;
 		System.out.println("n = "+n+", k = " + k);

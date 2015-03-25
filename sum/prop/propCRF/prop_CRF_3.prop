@@ -25,6 +25,6 @@ useTypeSeqs3 = true
 useDisjunctive = true 
 disjunctionWidth = 5 
 useDisjShape = true 
-trainFileList = sum/completePartitions/partition_0_Complete.tsv,sum/completePartitions/partition_1_Complete.tsv,sum/completePartitions/partition_2_Complete.tsv,sum/completePartitions/partition_4_Complete.tsv,sum/completePartitions/partition_5_Complete.tsv,sum/completePartitions/partition_6_Complete.tsv,sum/completePartitions/partition_7_Complete.tsv,sum/completePartitions/partition_8_Complete.tsv,sum/completePartitions/partition_9_Complete.tsv
+trainFileList = sum/completePartitions/partition_0_Complete.tsv,sum/completePartitions/partition_1_Complete.tsv,sum/completePartitions/partition_2_Complete.tsv,sum/completePartitions/partition_4_Complete.tsv
 testFile = sum/completePartitions/partition_3_Complete.tsv 
 serializeTo = sum/model/modelCRF/ner_CRF_3.ser.gz 
